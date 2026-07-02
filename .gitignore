@@ -1,0 +1,9 @@
+.codebuddy/
+scripts/raw_articles.json
+scripts/filtered_articles.json
+scripts/clean_articles.json
+scripts/translations.json
+__pycache__/
+*.pyc
+nohup.out
+debug.html
