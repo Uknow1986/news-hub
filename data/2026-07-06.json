@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-06",
+  "updated_at": "2026-07-06 10:02 北京时间",
+  "total": 17,
+  "sections": {
+    "tech": {
+      "name": "科技",
+      "count": 6,
+      "articles": [
+        {
+          "id": "4dc9f02e6cdc",
+          "title_zh": "日本AI芯片创业公司TAI联手马来西亚Oppstar备战量产",
+          "summary_zh": "据日经亚洲报道，东京AI芯片创业公司Tokyo Artisan Intelligence（TAI）正与马来西亚半导体设计公司Oppstar深化合作，准备于明年实现自有芯片量产。TAI专注低功耗、面向边缘AI应用的可重构芯片，此次合作涵盖设计与量产开发环节，并与马来西亚Silicon X签署相关工作声明。该合作被视为日马两国“AI与半导体合作”共同声明的具体落地，也体现出日本半导体创业企业正借助东南亚设计资源构建区域供应链。分析指出，在全球AI算力需求激增、芯片设计成本攀升背景下，TAI选择与马来西亚IC设计先驱合作，有助于降低开发门槛、加速产品落地。这一动向也折射出东南亚在全球半导体分工中的地位正从传统封测向设计环节延伸，日马合作为区域半导体生态注入新范式。",
+          "title_en": "Japan AI chip startup taps Malaysia's Oppstar to gear up for production",
+          "source": "日经亚洲",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWRHVmd6NDQ5VHhQTFlydkR4TWVfM1drWkhDRFJUT0M2bzRmd3FUaDhoR2FjUjZGa256NklzM1BEclU5NXMzZFFYN1lZYUZaRHducXFTNHZwMjlWc2ZVa1dneV9UUnZnc2FPZTMySzdPYndrbGZObzRoTHZ4Q0NlLXVjUTliTGRRdFdhTFRHOHdadXBDR2llMlU1bWp3Wnlubi1EbVB0SW1ZR2hkZnRBRVFxbUMtVkZ0MVh2dGNkNUVIQQ?oc=5",
+          "published": "2026-07-06 01:22 UTC"
+        },
+        {
+          "id": "4af6f6a2fe56",
+          "title_zh": "日本自动驾驶创业公司Turing获AMD支持，改用AMD GPU",
+          "summary_zh": "彭博社报道，日本全自动驾驶创业公司Turing获得芯片巨头AMD的支持，并将其AI计算平台转向采用AMD GPU。Turing致力于通过端到端深度学习技术实现完全自动驾驶，目标量产全自动驾驶电动汽车，是日本本土少有的聚焦L4级以上自动驾驶的初创企业。此举意味着AMD正将自身在AI加速计算领域的触角从数据中心延伸至自动驾驶这一高增长赛道，试图打破英伟达在该领域的垄断地位。对Turing而言，获得AMD的算力背书有助于其在研发大规模自动驾驶模型时获得稳定的高性能算力供应。业内人士认为，随着自动驾驶对算力需求呈指数级增长，GPU供应商的选择已成为自动驾驶公司的关键战略决策，AMD与Turing的合作反映了AI芯片竞争正沿应用场景向更多垂直领域扩散，自动驾驶或成为下一个芯片巨头角力的主战场。",
+          "title_en": "Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGdrWWFDMmprY1BiVXFlVlM3WWpuekwtYXlOaF9xUzBGYkRyU3RGXy02T1NGbmpPX1ppMHc0a05Mck14dkRpSWpRU3F5aTJjRVI2Q2ZSa1pQVnIwWVc3cXNwYndiVUdtUXY0clF5ZlhHS2ZNRTBOSjdNOExyY0x4ZkJpdWZJaGpFb0Q0VWlHMFBrc3N6T1NVU204RFA0V3lORWxfRzNFRGhXYndfV2NiSA?oc=5",
+          "published": "2026-07-06 01:00 UTC"
+        },
+        {
+          "id": "58dddc96a601",
+          "title_zh": "SK海力士启动280亿美元美国上市，乘全球AI浪潮",
+          "summary_zh": "路透社报道，韩国芯片制造商SK海力士将于周一正式启动约280亿美元的美国上市计划，这是全球近年来规模最大的新股发行之一。据监管文件披露，该公司将出售1779万股新股，以美国存托凭证（ADR）形式在纳斯达克挂牌交易。SK海力士作为英伟达高带宽内存（HBM）的核心供应商，是本轮AI算力爆发的主要受益者，其股价此前已累计上涨约273%。此次赴美上市被视为SK海力士深化美国资本市场布局、吸引国际投资者、巩固AI内存龙头地位的关键举措。在AI需求持续拉动HBM供不应求的背景下，募资所得预计将用于先进制程产能扩充和下一代内存技术研发。市场分析认为，SK海力士的大规模ADR发行���仅将为全球芯片股估值提供风向标，也可能加剧半导体产业资本竞赛，进一步强化韩国存储巨头在AI内存供应链中的话语权。",
+          "title_en": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5",
+          "published": "2026-07-06 00:18 UTC"
+        },
+        {
+          "id": "a3ae690342e4",
+          "title_zh": "三星利润料暴增18倍，AI需求推动内存芯片价格飙升",
+          "summary_zh": "路透社与彭博社报道，三星电子预计第二季度营业利润将同比增长约18倍，达到创纪录新高，营收预计飙升约127%至169万亿韩元。业绩跃升主要源于人工智能持续高增长对内存供应造成的压力，推动DRAM和闪存价格大幅上涨。彭博社指出，芯片股多头正寄望三星的强劲业绩来安抚近期因AI贸易前景不确定性而动摇的市场情绪。作为全球最大存储芯片制造商，三星的业绩被视为半导体行业景气度的晴雨表，其超预期表现印证了AI算力需求对整个内存供应链的强劲拉动。分析人士认为，尽管市场对AI投资回报和芯片股估值存在分歧，但三星的利润爆发显示HBM高带宽内存和服务器DRAM的供需失衡仍在加剧，半导体超级周期或尚未见顶，不过下半年价格走势与库存变化仍需密切观察。",
+          "title_en": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
+          "source": "彭博社/路透社",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5",
+          "published": "2026-07-05 23:08 UTC"
+        },
+        {
+          "id": "745ef1413b40",
+          "title_zh": "欧盟称苹果应为Siri AI在欧洲推迟上线负责",
+          "summary_zh": "美联社报道，苹果公司与欧盟就新版Siri AI在欧洲推迟上线一事互相推诿。苹果此前宣布，受欧盟《数字市场法》（DMA）合规要求限制，无法在欧盟地区随iOS 27和iPadOS 27同步推出全新一代Siri AI，这意味着约4.5亿欧洲用户将暂时无法使用该功能。苹果方面称其提出的多项合规方案均被欧盟否决，推迟实属无奈。但欧盟方面反驳称，是苹果自身未能妥善适配监管要求，应对此次延迟负责。这一争论凸显出大型科技平台与欧盟监管机构之间在数据互操作性和市场公平竞争规则上的深层张力。分析人士指出，Siri AI的推迟不仅影响欧洲消费者的产品体验，也可能削弱苹果在AI竞赛中的欧洲市场份额，为本土及安卓阵营竞品留下窗口。如何在合规与创新之间取得平衡，正成为跨国AI产品落地的核心挑战。",
+          "title_en": "EU says Apple is responsible for Siri AI delay in Europe",
+          "source": "美联社",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFFzT0hLWVdRc2VLMXcxdWI2bC1RcEVYVGZDbTF5RmZnb2dfTnF4V3BLbzA2SlVjdG5VUUFVVVlLZHM0V2NtMk5jWng1MTJtR25tLVVENU14MlNlTW90LXB5UHN0a3hiN2JDaTVTRk9ETkNyeDBUb3F5UTd0dVotS2dpVFptSHhnR3pMa2hSSmJMZnJrUnd2by1jMlZDdzVDSWsxZE1CTjB5b1M1QVppUkMtNDQ?oc=5",
+          "published": "2026-07-05 12:21 UTC"
+        },
+        {
+          "id": "b15665a868ad",
+          "title_zh": "英伟达供应商鸿海营收超预期，AI服务器需求持续强劲",
+          "summary_zh": "彭博社报道，英伟达核心代工合作伙伴鸿海精密（富士康）第二季度营收同比增长约40%，达到新台币2.51万亿元（约790亿美元），大幅超出分析师平均预估的2.37万亿元。强劲增长主要受AI相关产品需求驱动，鸿海已确立自身作为英伟达AI加速器服务器关键组装商的地位。尽管全球芯片供应链仍面临短缺压力，且市场对AI投资过热有所担忧，但鸿海的业绩表明AI算力基础设施的扩张步伐并未放缓。报道指出，搭载英伟达GPU的AI服务器持续供不应求，成为拉动鸿海营收增长的主引擎。作为全球最大电子代工企业，鸿海正加速从消费电子向AI服务器等高附加值领域转型，其业绩表现被视为衡量全球AI硬件投资景气度的重要指标，也印证了AI需求从芯片端向整机制造端的传导仍在强化。",
+          "title_en": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmJGNUtyd1ZqWHhIeHB6MjQ5dHVPQ2Y0UHEtRUUzQ3dpRFJSUXlvQnNkNVNqem43cFdFME9uS1dDYlhRZkRoYjhRdzNIQ2ZvQl8yMks0eHBtaWdzVjNOUmRndzZNLUc3VHVjZHM0UlV4akNla0JKMEZyNGNXelNoa1ZSby1mMWcxSTBpWS15XzhQc0JuNXItRjl3SkhoWEpfcUpQaWxXcXR6bGFJbGlYUGpJUnMtZw?oc=5",
+          "published": "2026-07-05 08:45 UTC"
+        }
+      ]
+    },
+    "americas": {
+      "name": "美洲时政",
+      "count": 11,
+      "articles": [
+        {
+          "id": "ab23f60d915a",
+          "title_zh": "特朗普推进白宫与华盛顿大规模改造工程",
+          "summary_zh": "路透社专题报道，美国总统特朗普正推进对华盛顿的大规模改造计划，涵盖多项标志性工程：包括造价约4亿美元的白宫新舞厅、一座250英尺高的纪念拱门，以及对肯尼迪中心等文化设施的翻修。报道由资深白宫记者Steve Holland撰写，详述了特朗普重塑首都城市风貌的雄心。特朗普的改造愿景不仅限于功能性修缮，更带有强烈的个人印记，意在以建筑遗产强化其政治遗产。此举引发关于公共资金使用、历史风貌保护与政治形象工程的讨论。支持者认为升级首都基础设施有助于提升国家形象，批评者则质疑在联邦赤字高企之际斥巨资搞“面子工程”的优先级。分析指出，特朗普对实体空间的改造与其对政治叙事的塑造一脉相承，都体现出强烈的个人品牌烙印，这些工程的推进进度与资金来源将持续受到国会与舆论审视。",
+          "title_en": "Trump undertakes sweeping makeover of the White House and Washington",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmZYRlpUNU5PUDhuN3FPU0c2OVhmQTluZkZlTWh5cnJfOWxPUVc2RC0yb1liX1U3UjUxLU44S2NKRmZNNlBSUVotUkNSNE9JdFVHaWNQR2diVi1DdjR2TVZZNnV3MlkzUzY5UGxFaGJWamRET21JR0hnVmhqdHFZdU5sNm9fNFBCbnJpcUFZVERtaHpWMVBra3hEdjdEUDBhS2xjY3NPT1hIRXhNRWhuV21DdFhnZw?oc=5",
+          "published": "2026-07-06 00:00 UTC"
+        },
+        {
+          "id": "f82315a12334",
+          "title_zh": "委内瑞拉双震死亡人数升至3342，逾万人受伤",
+          "summary_zh": "路透社报道，委内瑞拉信息部周日公布的数据显示，6月24日发生的两次强烈地震造成的死亡人数已上升至3342人，受伤人数超过1.6万。这是委内瑞拉近代史上最严重的自然灾害之一，全国已宣布进入哀悼状态，搜救与医疗救治工作仍在紧张进行。报道指出，双震对委内瑞拉多地基础设施造成毁灭性破坏，大量建筑倒塌，灾区面临供水、供电和医疗物资短缺的严峻局面。国际社会已陆续提供人道主义援助，但救援进展受制于交通中断和资源匮乏。此次灾难发生时，委内瑞拉正深陷政治与经济多重危机，地震进一步加剧了人道困境。分析人士警告，灾后重建将漫长而艰巨，死亡人数可能随废墟清理继续攀升，这场灾难也对拉美区域灾害应急协作机制提出了考验。",
+          "title_en": "Death toll from Venezuela quakes rises to 3,342",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWl5Sl9wdU5zTlNwRXg0MFN4cVFYOGJ0LWxOcFRRbnRxZzNnNHRtaUJIOEVjc05GVVZaQjNFeDVZYTJ3MVA5alRPelYwT2g4alJBckd4R1VzWkRuWUpGaFZIQXZVc1g5XzFFbHIydEJ1cXFnVk8taXFpTkVrV1RvMktjcS1aWFc5bTY1Z3VleVluMkk?oc=5",
+          "published": "2026-07-05 21:44 UTC"
+        },
+        {
+          "id": "7e4da57fa10f",
+          "title_zh": "民主党人McMorrow暂停密歇根参议院竞选，重塑关键初选格局",
+          "summary_zh": "美联社报道，密歇根州民主党人Mallory McMorrow周日宣布暂停其美国参议院竞选活动，这一决定在距初选仅一个月之际突然重塑了党内初选格局。McMorrow的退出使这场备受瞩目的提名竞争演变为两人对决，显著改变了选战态势。密歇根参议院席位是2026年中期选举中民主党力求保住或争夺的关键战场，McMorrow的退选不仅影响民主党候选人结构，也可能波及整体选情走向。报道指出，McMorrow作为密歇根州参议员曾以高人气议题倡导走红，其退选令部分支持者感到意外。分析人士认为，初选前夕的阵容调整可能促使资金与支持度重新洗牌，最终提名人将直接关系到民主党在摇摆州密歇根的竞争力，而该席位的归属对参议院多数格局具有举足轻重的影响。",
+          "title_en": "Democrat Mallory McMorrow suspends her Michigan Senate campaign and scrambles the pivotal race",
+          "source": "美联社",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHNZVFBSSWh5R0pPdXdaOTlPV1FRaFdhb2FMT2JvNUNlaFVMaTg4MVFnN3dRRkxXdTNrWVp1YmhBUm0tdVFVaWZQN3lwLU1kd3Yyd0FVLUhyWGdYMW1pQ05vWXh0VTNnUXZpSWxJSkJuelNlNFdRNzRFQVdUUm9ROGpCNFU3ZW1QOEVEdzUwOW5IRjRCbktHdWxsX0ttaHVlMm9XSUt6RDg0ME1aS25PcGtZUW9jYUJxNG9R?oc=5",
+          "published": "2026-07-05 20:14 UTC"
+        },
+        {
+          "id": "333a303df33a",
+          "title_zh": "特朗普将赴土耳其出席NATO峰会，期间会晤泽连斯基",
+          "summary_zh": "彭博社、路透社与美联社综合报道，美国总统特朗普本周将前往土耳其出席北约峰会，期间计划与乌克兰总统泽连斯基会晤，就乌克兰问题展开新一轮斡旋，并将会见叙利亚领导人沙拉。峰会前夕，特朗普已与俄罗斯总统普京通话，讨论乌克兰局势及北约峰会议程。特朗普同时敦促欧洲盟友大幅提高国防开支、承担更多安全责任，令部分盟国对美方承诺产生忧虑。多路媒体报道指出，此次北约峰会面临军费分摊、对乌支持力度以及对俄关系等多重考验，特朗普将“忠诚”而非单纯的负担分享作为衡量盟友的核心标尺，给峰会前景增添变数。分析认为，特朗普在峰会期间密集开展与乌克兰、叙利亚领导人的双边会晤，意在强化其“调停者”角色，但能否在军费与对乌援助上达成实质共识仍存悬念。",
+          "title_en": "Trump Heads to NATO Summit to Meet Zelenskyy, Face Wary Allies - Bloomberg.com",
+          "source": "彭博社/路透社/美联社",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUJleXFXd3Fyc0dZMkVENHdkdmpGM3hfTGVabnNSSk1vVzdITVNKeUhQRXVvcV9NTEsyd2xaZ2k3a3pHVXVvdmUyWUN2eWRGQ3hlSjk1ZE5ieUhnOVF5MlYxZVBLc01uUFdhUThCaWw0LUVKRjZhMU1SZnk3TFlSZmlLclY3dUp5X3lpbmZFZEllZ3prdXIwQ1VYLVpoMFdXOUt5eVVXOXZYSWVsTFNVZER3?oc=5",
+          "published": "2026-07-05 20:06 UTC"
+        },
+        {
+          "id": "321e708a41a9",
+          "title_zh": "北约秘书长面临挑战：特朗普要求“忠诚”而非仅分担负担",
+          "summary_zh": "美联社报道，北约秘书长马克·吕特在即将到来的北约峰会上面临严峻挑战——美国总统特朗普所要求的不仅是盟友提高防务开支，更是对其立场的“忠诚”。自就任北约秘书长以来，吕特花费大量精力试图将美国牢牢留在联盟框架内，一度以迎合特朗普风格的方式推销防务投资。但报道指出，特朗普对盟友的期待已超越传统的负担分享范畴，转向寻求政治上的服从与忠诚，这使得吕特精心设计的“推销话术”面临失灵风险。吕特需要在维系跨大西洋团结与迎合美方诉求之间艰难走钢丝，确保峰会不至脱轨。分析人士认为，若特朗普将以“忠诚”作为安全承诺的前提，将动摇北约集体防御的互信根基，欧洲盟国可能被迫重新评估对美安全依赖，峰会走向成为检验跨大西洋联盟韧性的关键试金石。",
+          "title_en": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
+          "source": "美联社",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTZHUDdWLUd3UnJha291NEVncUFKaEotUFFjaV9iVFlTTFRnMlpEU0NmdnFVa3p3VWEyVHlvTjctUm1hYWtSaURwdXloTS1YZmFZeS1TN0lMeFhrUVdnc29OZzBSWmhoR0tFZjFpN182dlktME50NDZhUkI2aVhicFJWSFZldVdsNUg2ckdBNnpyOXlBcXQ0RWJZaHRDUm1KT0lrNFdBSS1NeUJuUEIw?oc=5",
+          "published": "2026-07-05 17:58 UTC"
+        },
+        {
+          "id": "96dc03aeb632",
+          "title_zh": "华盛顿邮报：土耳其借武器工厂与特朗普回暖提升北约地位",
+          "summary_zh": "华盛顿邮报报道，土耳其在北约内的地位正显著上升，这得益于其蓬勃发展的武器工业以及与特朗普关系的改善。作为北约第二大常规军事力量，土耳其近年来军工产业快速崛起，尤其是Bayraktar无人机在多场地区冲突中表现亮眼，使其成为联盟内不可或缺的军备供应方。报道指出，特朗普上台后对土耳其采取更为温和的态度，双边关系回暖为安卡拉在北约事务中争取到更大话语权。土耳其正将军工实力转化为外交筹码，在军费贡献、联盟防务与地区安全议题上重塑影响力。分析认为，土耳其地位的上升改变了北约内部的力量格局，其无人机出口能力令诸多盟国产生依赖，但也引发对联盟内部价值一致性以及土耳其人权与外交取向的担忧。土耳其如何在多方间平衡，将影响北约未来走向。",
+          "title_en": "Turkey sees its status in NATO rise, thanks to its weapons factories and Trump - The Washington Post",
+          "source": "华盛顿邮报",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUZvZjhubnZza2dFNWhXUFUxV3BFNmFWc29WTWNjd0U1S29vSUU0SmdPTktJczctZEg0VFZ1MFZSUVR5SXZlRjVXN25RLTFqWGZESEQ1MXkxbW1raU9rQ2VSQjBpT0w0V3p5cE1kd0Z5Yi1JX2REellMRnMzZUxITGdiREUwMkVnMlRzaWxYM3ZmcHFuVWNybHBQd1NDYTk0VDNlcjZqUWFYWGJrYnZSWjhLaG5Hdw?oc=5",
+          "published": "2026-07-05 16:00 UTC"
+        },
+        {
+          "id": "101096bdfd9e",
+          "title_zh": "《如何赢得贸易战》书评：关税时代的全球贸易入门读本",
+          "summary_zh": "华尔街日报发表对《如何赢得贸易战：关税时代》一书的评论，称其为“一部易懂、扎实且带俏皮笔调的全球贸易体系入门读物”。该书由贸易经济学家Chad Bown撰写，系统梳理了关税战的来龙去脉与运作机理。在特朗普关税政策正深刻重塑全球贸易格局的当下，这部著作恰逢其时地为公众提供了理解贸易冲突的知识框架。评论指出，书中对关税工具的经济学逻辑、各国反制策略以及多边贸易体系演变进行了深入浅出的剖析，既具有学术严谨性又不失可读性。WSJ认为，在贸易政策日益成为地缘政治博弈核心工具的今天，该书帮助读者超越“赢家输家”的简单叙事，理解关税战的复杂传导机制与意外后果。这一书评的刊发，也反映出主流财经媒体对贸易战知识普及的重视。",
+          "title_en": "‘How to Win a Trade War’ Review: The Times of Tariffs - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXd6SWl3aTl6QmFWcXd1clVZT1pFa2E4YS02QW1pcjZiaXp2NUJ0NDcxaTRiYlI1ZHdjX0VSa20wbFduaGFEOTlUTy1YNnZLelFYa2RZc1Y0cjFZMFdGRzMzdUNIMGRpWFNnVGhIYlF1TkNFdlBxc2RiTHZ3Z3o1ZmZ6Tld4QjRfaHF0dHE4ZTkyUmV1NDVXNA?oc=5",
+          "published": "2026-07-05 13:59 UTC"
+        },
+        {
+          "id": "72aaf0c0201a",
+          "title_zh": "特朗普7月4日发表演讲，将独立日庆典变为个人舞台",
+          "summary_zh": "彭博社报道，美国总统特朗普在7月4日美国独立250周年之际，于华盛顿国家广场发表演讲，将国庆庆典变成了高度个人化的政治舞台。特朗普在演讲中赞颂美国历史，并在林肯纪念堂等地标燃放烟花，举办了一场带有浓厚集会风格的庆典活动。报道指出，特朗普刻意将自己置于庆典中心，模糊了国家纪念活动与党派政治的边界，延续了其将国家象征工具化的一贯风格。此次庆典正值美国独立250周年这一重要节点，特朗普借此强化个人政治品牌、激发基本盘热情。分析认为，在北约峰会与国内立法议程多线并行的背景下，特朗普选择以高规格国庆秀凝聚支持，既是对保守派选民的情感动员，也为其第二任期的政治叙事定调，进一步凸显其执政风格中对仪式感与个人形象的强调。",
+          "title_en": "Trump Hits Center Stage for July 4th Speech, NATO Preview, More - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGdqcF91dExHeXBrcDdBekdiakZmUU4tcXlZd1VpZ1pPcFJQR0dfQ1hMdHdrN1A0bVhsQkxTUXJ5RHZjc1pNVlQ3YU1SeFktNE95SDFTMGRpWjlNb1ZlUWk5dE5TV0U1MU9KbG9ZaG9RRzNsWTVWTkxSNzk3aEVPYW9CM004MXVEYVJfOHQ1cVViQ19reDNsUWtyeVdDMS1jMnp4QzFQb3RkMWtENFE?oc=5",
+          "published": "2026-07-05 11:40 UTC"
+        },
+        {
+          "id": "061c50638854",
+          "title_zh": "WSJ分析：特朗普阿根廷救助计划如何危及美国人数十亿美元",
+          "summary_zh": "华尔街日报深入分析了特朗普政府向阿根廷提供约200亿美元救助资金如何将美国纳税人的巨额资金置于风险之中。报道称，摩根大通、美国银行、高盛等华尔街银行参与了这项融资安排，旨在稳定阿根廷货币、防止更大范围的经济动荡外溢。但批评者指出，特朗普动用美国资金力挺阿根廷总统米莱，本质上是在用公共资源支撑意识形态盟友，而非出于纯粹的金融安全考量。WSJ梳理了救助的结构与风险敞口，揭示了担保与抵押环节的脆弱性。分析认为，该救助凸显了地缘政治考量与金融审慎之间的张力：若阿根廷经济再度恶化，美国纳税人可能承受巨额损失。这一报道也引发对美国政府以金融手段干预拉美盟友经济、以及道德风险的广泛质疑，阿根廷偿债能力仍是悬而未决的隐忧。",
+          "title_en": "How Trump’s Argentina Bailout Risks Billions for Americans - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNFQ5VHBTbVNJNEE2NkMwS1MtYkJoMU5XcWtrX2VaUjZJaEg2MXlfTE9LVmJnVGYzd0VCNXpiekVrOEhXclJpTlpmeks4dC0td0M5LVRRV0RQRktxZnh3MUlBX041NEJCZ295cmtiRFoycExjOVJ0YWVLejFESkJ4dHFDWjJUR0hRUk85QmNTM25QellXS2djR2RkZUgtOTFQUVo5SVFFZjhRSTM2cWlJMEhnYm54NVM4eVhtVnR0OVM2bzhxNW90cTNWcmxvdlZVd2lYVi04RUZyVXNDbVF1Ulh3bXlxUzNjNHpjd0Fwa2p2YVdvMTVWaVN6TUdZZTJqdzcxODJn?oc=5",
+          "published": "2026-07-05 09:44 UTC"
+        },
+        {
+          "id": "9b948d80ae21",
+          "title_zh": "“僵尸国会”威胁特朗普议程，共和党议员陷入消极怠工",
+          "summary_zh": "华尔街日报报道，一个“僵尸国会”正威胁着共和党的立法议程。报道指出，越来越多共和党议员缺乏充分履职的动力，国会实际运转效率低下，致使特朗普第二任期的关键立法推进严重受阻。这些议员或因选区政治压力、或因对议程方向不满而消极应对，使得本应推进的法案在程序环节反复搁浅。报道由国会记者Olivia Beavers撰写，引发两党议员对国会机能失调的共鸣与担忧。分析认为，特朗普通过绕过国会、倚重行政命令的执政方式，客观上削弱了本党议员的立法参与感，形成“总统越绕越远、国会越躺越平”的恶性循环。在关税、预算、移民等重大议题亟待立法授权的背景下，“僵尸国会”现象可能令特朗普议程在剩余任期内难以取得实质性立法突破，进一步加剧行政与立法的失衡。",
+          "title_en": "A Zombie Congress Is Threatening Trump’s Agenda - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXlRYUdncWRHSHliWWgyM2RXOFZDTDR4VGhuNWE2dElWYXRfNXpQQmRRNjVoTzVFNmdEODBGSmIxT1BCaWxNX0FHRVcxYkQ5RDZYZnJZZ3FhWUpXSnlhX2xNVHVSU1A4YnI1blFUWWZ5SXhldnVPSzJPU29DeHpEa0tjREVGcmZB?oc=5",
+          "published": "2026-07-05 09:00 UTC"
+        },
+        {
+          "id": "ece707eb9d77",
+          "title_zh": "新西兰承诺五年内与巴西、欧洲等启动七项贸易谈判",
+          "summary_zh": "彭博社报道，新西兰执政的国家党承诺，若在11月大选中胜选连任，将在五年内启动七项新的自由贸易谈判，重点对象包括巴西和欧洲。贸易部长Todd McClay表示，这一计划旨在拓展新西兰的全球贸易版图，减少对单一市场的依赖。报道指出，此举正值新西兰面临全球贸易保护主义抬头的挑战，扩大自贸协定网络被视为对冲外部风险的关键路径。将巴西纳入谈判清单，意味着新西兰有意深化与拉美新兴市场的经贸联系；对欧谈判则指向高标准的发达市场准入。分析认为，新西兰作为高度依赖出口的小型开放经济体，在大选前打出“贸易扩张牌”既是经济战略，也是选举政治——向选民展示国家党驾驭对外经贸的能力。不过，七项谈判能否如期推进，取决于选举结果及谈判对象的国内政治意愿。",
+          "title_en": "NZ Pledges Trade Talks With Brazil, Europe Within Five Years - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm40cDhQV3NWTkZYSVdvc1I3RnZkUEh4eXczV3JLX0FKNTRMdmhobnRUTHRaMHE4aDZWZXhxXzF4ZUxiX09PbDdQU2dHNmZMLXJ1UjBkZ2V2ZnNYcXkxeGM2MXhjM1FmN0FlTmVVWEFzblY2cU96U0NVbUVBTVdwSFh4cXVIZEZwSUc3NkF4eHQ1MXRGQnhaSThwdkNNam9PV0kzbUh6NGpPRVJFUTdz?oc=5",
+          "published": "2026-07-05 02:19 UTC"
+        }
+      ]
+    }
+  }
+}
