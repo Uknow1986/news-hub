@@ -1,0 +1,514 @@
+{
+  "date": "2026-07-10",
+  "updated_at": "2026-07-10 10:28 北京时间",
+  "total": 55,
+  "sections": {
+    "tech": {
+      "name": "科技产业",
+      "count": 33,
+      "articles": [
+        {
+          "id": "747f64f40f34",
+          "title_zh": "SK海力士在美募资265亿美元，韩国存储巨头加速全球布局",
+          "summary_zh": "日经亚洲报道，韩国存储芯片巨头SK海力士计划在美国市场募集高达265亿美元资金，以支撑其AI高带宽内存（HBM）等先进产能扩张与全球布局。作为英伟达HBM核心供应商，SK海力士正受益于AI算力需求的爆发式增长，赴美融资可借力美国资本市场对AI产业链的估值溢价，并为本土产能与研发提供资本支持。报道指出，此举亦有助于公司分散地缘风险、贴近北美客户与供应链。分析认为，SK海力士的融资动作折射出全球半导体资本正加速向AI内存集结，也显示韩国芯片企业在HBM赛道的领先地位正转化为融资与扩张优势，进一步巩固其在AI硬件供应链中的战略地位。",
+          "title_en": "SK Hynix: South Korean memory chip titan raises $26.5bn in the US",
+          "source": "日经亚洲",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFlsVlhWMk41eG9ZczRMbXB2TV9CcF9HV1RVUUptNURNXzc4UWlMRGJLeEZCWV9VSnNKWXoyUEFvWmdDaVJUaU1NWXNPaFFCU0hNTkpORVJfUlE4RlF4c1lvVVFTdHc5QU1QVlEzQV9hQ1Q2ZVh4aTBkejBlZ0RfdXowM1MwaGlHZnVWRFk3aXRlYlFsdTUwZTdwVWtzZzEyaS1SakNmb3NFU0tL?oc=5",
+          "published": "2026-07-10 00:59 UTC"
+        },
+        {
+          "id": "54d9eaeac1b9",
+          "title_zh": "哈梅内伊下葬，深度分裂的伊朗艰难面对其政治遗产",
+          "summary_zh": "美联社报道，伊朗最高领袖哈梅内伊下葬，这个因制裁、战争与权力交接而深度分裂的国家，正艰难面对其留下的政治遗产。哈梅内伊数十年执政塑造了伊朗的神权政治架构与对外强硬路线，其离世使最高领袖继任、核政策与地区代理网络走向充满不确定性。报道刻画了国内不同力量对其遗产的评价分歧，以及民众在经济困境与社会控制下的复杂情绪。作为中东关键变量，伊朗的权力过渡牵动美伊关系、核谈判与地区安全格局。分析认为，后哈梅内伊时代伊朗或将面临保守派与务实派的权力博弈，其外交姿态与内政走向将成为影响西亚乃至全球能源与安全的重中之重。",
+          "title_en": "A bitterly divided Iran grapples with Khamenei’s legacy as he is laid to rest",
+          "source": "美联社",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEs0dENjNEJ4M2hrN3hRSDVMdUxHZHpOSGtpTHl6S1lOa0RJVnhQNFdVUG5ZYVZDRV83c3ZuM3F4OHF5ekJlaVpERHF4aUp0azQwWnRMa3RIWGNrcFlSUEZhVHZsUW84ZFZYMXU0V2dSbkxrWHVKaDFpampmbHFCSFAxQ1QwSlNlSUZUUjJLSy1hSlJBbHNSY2ZiYkFkQ2RQUzgxYXRB?oc=5",
+          "published": "2026-07-10 00:51 UTC"
+        },
+        {
+          "id": "ab0f356f6730",
+          "title_zh": "独家：备忘录显示Meta自研AI芯片将于9月投产，算力拟翻倍",
+          "summary_zh": "路透社独家报道，据内部备忘录显示，Meta计划于9月将其自研AI芯片投入量产，目标是将公司的算力能力提升一倍。在生成式AI军备竞赛中，科技巨头纷纷自研专用芯片以降低对英伟达的依赖、控制训练与推理成本。Meta此举意味着其AI基础设施战略从外购转向自研与定制，以应对大模型训练对算力的指数级需求。报道指出，自研芯片的良率、性能与软件生态仍是关键挑战。若顺利量产，将显著增强Meta在AI模型与产品上的迭代能力，也反映头部科技公司垂直整合算力、争夺AI主导权的整体趋势，并可能重塑与英伟达等供应商的博弈格局。",
+          "title_en": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+          "published": "2026-07-09 23:48 UTC"
+        },
+        {
+          "id": "6cf914a8af8a",
+          "title_zh": "交易视点：管它什么战争，芯片股领涨助市场无视美伊停火反复",
+          "summary_zh": "路透社「交易视点」栏目指出，尽管美伊停火时断时续、地缘风险未消，全球股市却由芯片股领涨，市场似乎对反复无常的冲突「视而不见」。报道分析，AI与半导体景气成为资金追逐的主线，投资者押注算力需求的长周期上行，使地缘扰动让位于产业基本面。芯片股走强既受AI资本开支驱动，也反映市场对美联储政策与盈利预期的再定价。栏目提示，此种「战争疲劳式」的乐观存在脆弱性——一旦停火破裂或利率预期生变，估值高企的芯片板块或剧烈波动。报道折射出当前市场叙事中，AI半导体主题已部分脱离宏观与地缘风险定价，隐含潜在回撤风险。",
+          "title_en": "Trading Day: What war? Chip-led rally helps markets ignore on-again, off-again US-Iran truce",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1N2Ukoyd25SczJJNXFaTF9XcEVlSUU0dlpNdVhmRG5vQ1RFd09WVzVKYUdxaE9hYU9hMU9yYS1kblEzeUt2bGlWOG5QaDZPdjBxTk9pYnNrRVk2M2pPSTdNdmpHRk9aQUlWRGExS2lvVXliUkZRajhrcFZwanhSZFEtTy1DcEZuZ245U1Q3aGxFV2o0QlBfZ2c4RQ?oc=5",
+          "published": "2026-07-09 23:44 UTC"
+        },
+        {
+          "id": "9e19387f3f81",
+          "title_zh": "OpenAI的AGI部署负责人菲吉·西莫病假后离职",
+          "summary_zh": "路透社报道，OpenAI负责AGI（通用人工智能）部署业务的高管菲吉·西莫（Fidji Simo）在休病假后宣布离职。西莫此前掌管的部署职能关乎OpenAI如何将前沿模型转化为可规模化的产品与商业能力，其离开发生在公司组织快速扩张、产品线密集发布的敏感期。报道指出，高管变动或影响OpenAI在模型落地、企业级服务与商业化节奏上的连续性。作为AI行业最受关注的公司之一，OpenAI的人才与治理动向牵动市场与竞争格局。分析认为，核心高管离任折射出这家公司在高速增长与治理成熟度之间的张力，亦凸显顶尖AI人才争夺的激烈，以及前沿实验室在规模化道路上的组织挑战。",
+          "title_en": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
+          "published": "2026-07-09 23:23 UTC"
+        },
+        {
+          "id": "dc96575ae4ba",
+          "title_zh": "OpenAI发布期待已久的「超级应用」，与Anthropic竞争白热化",
+          "summary_zh": "路透社报道，OpenAI发布外界期待已久的「超级应用」（super app），在人工智能消费级赛道进一步发力，其与竞争对手Anthropic的角逐随之升温。该应用意在将对话、任务执行与多类服务整合于统一入口，打造用户日常的数字中枢，呼应Sam Altman此前对「AI操作系统」的设想。报道指出，此举标志着OpenAI从单一聊天工具向平台化、生态化产品的跃迁，也意在抢占用户时长与入口壁垒。在Anthropic凭借Claude持续追赶的背景下，双方竞争正从模型能力延伸至产品形态与开发者生态。分析认为，超级应用的成败将影响OpenAI的商业化天花板与行业格局重塑。",
+          "title_en": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
+          "published": "2026-07-09 23:08 UTC"
+        },
+        {
+          "id": "aca3530bdd18",
+          "title_zh": "美股芯片股反弹带动，亚洲股市看涨｜市场综述",
+          "summary_zh": "彭博社市场综述报道，受美国芯片股强劲反弹带动，亚洲股市普遍看涨。美股半导体板块的乐观情绪外溢至亚太市场，投资者押注AI算力需求与存储周期上行，推动日韩台及港股科技股走高。报道指出，美国芯片制造商的业绩与指引成为区域风险偏好的风向标，资金重新流向前沿科技资产。同时，市场仍在权衡美伊局势、利率路径与关税不确定性对估值的潜在冲击。综述认为，AI半导体主线仍是支撑全球股市韧性的核心叙事，但估值高企使板块对宏观扰动更为敏感。亚洲市场能否延续涨势，取决于美股科技龙头的表现与全球流动性环境的变化。不过，亚太市场仍受本币汇率、出口订单与地缘事件扰动，单靠美股科技情绪难以独自支撑一轮持续反弹，区域基本面的分化不可忽视。",
+          "title_en": "Asian Stocks Set to Gain After US Chipmakers Rally: Markets Wrap - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkw5aW1oVzVpN2ZXakdrMk8wMU1LUXFwVHBhZjVtTWoyc1ltclEweUlsWDJtM2dQS3VsQnl1SjA4R28wejNWaWZoelZMYnZNbjdpcWQ1aDFMMzltanRfU1ZVNEFLNDBOeGYyejM3STc2TzM3OTlyMEtqdW93c1FmNW93X1pjanFCZEJDMHhSS3NBYWlD?oc=5",
+          "published": "2026-07-09 22:08 UTC"
+        },
+        {
+          "id": "7a16bd861ec5",
+          "title_zh": "OpenAI推出新系统，曾遭特朗普政府「套上缰绳」",
+          "summary_zh": "华盛顿邮报报道，OpenAI推出一款新系统，而该系统此前曾被特朗普政府以安全与出口管制为由「套上缰绳」（限制）。报道揭示，这款新系统在发布前经历了与美国监管层的博弈——政府出于对前沿AI能力外溢、国家安全与出口管制的考量，对其能力释放与海外可用范围施加约束。这折射出AI公司与华盛顿在「创新速度」与「安全可控」之间的持续拉锯。报道指出，监管边界正深刻影响OpenAI产品的发布节奏与全球可及性。分析认为，此类「缰绳」既反映美国对AI主导权与风险管控的重视，也预示大模型企业的产品策略将越来越受地缘政治与合规框架塑造，前沿AI正加速进入受控释放的新常态。",
+          "title_en": "OpenAI launches new system the Trump administration initially put on a leash - The Washington Post",
+          "source": "华盛顿邮报",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hzXzRZLXlLd1BTbS1mWWF1SjVUUHZwTkZQcEZyQll3aW15TkVtQ1pHV010X1RORi1RWnZvRUtqbDFZYUJzSGp6b1VuZUdHWVU0ZVFrWkhzNTM0aTZ5RnlPVmpRSXd3bldEOXZxSnliWkZNQ2FBN1NnRzByam9vNVhVZU4zak5FVmlsN2ZPM290cXNUcUN4NG0yazBVbXpNTVY3bFRlYm9tQ29IVnF6Sy1n?oc=5",
+          "published": "2026-07-09 21:51 UTC"
+        },
+        {
+          "id": "a48b73fc4af5",
+          "title_zh": "联合国数字科技机构发起提升AI智能体可信度倡议",
+          "summary_zh": "路透社报道，联合国下属数字科技机构发起一项新倡议，旨在提升人们对AI智能体（AI agents）的信任。随着自主智能体在客服、办公与软件操作中的部署加速，其透明度、可控性与责任归属成为治理焦点。该倡议拟推动跨政府与业界的准则，覆盖智能体的可解释性、安全护栏与人类监督等方面，呼应全球对AI治理「软法」（soft law）协调的需求。报道指出，联合国正试图在AI标准制定中扮演召集人角色，弥补国家监管碎片化。分析认为，提升智能体可信度是AI规模化的前提，该倡议虽不具强制力，却有助于凝聚国际共识，并为企业合规提供参照框架，影响自主AI的全球部署节奏。",
+          "title_en": "UN digital tech agency launches initiative to improve trust in AI agents",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLW40R0Vic01SdnN0WVBwcV9xUGU5NDkyVUhmVFEtV05xRllhZUdIZEhUSWEwOEt6OUdFZnVheG8wMFh1eGo2QmxDLW5ZNmN5RHNPcm44VTJtZ1EzdzRVXy0yNFJaVWx2VnNMNUtTa2d4cHRHOHVfbkhBZzUxMUxERXNaS1BPVXFtQThJOHdqVzJoaVdIOUVhWEQzSFg3TUhxUUxvQVdxaWNxY195MHRMZ3MybFAyYzFLVXkw?oc=5",
+          "published": "2026-07-09 21:17 UTC"
+        },
+        {
+          "id": "63249b0d6b8a",
+          "title_zh": "OpenAI与Anthropic在美国政府那边再遇「减速带」",
+          "summary_zh": "彭博社报道，OpenAI与Anthropic这两家头部AI公司，在与美国政府的互动中再次遭遇「减速带」（阻碍）。报道指，无论出于出口管制、国家安全审查还是算力与能源分配的考量，华盛顿对前沿AI能力的释放正设置更多条件，使两家公司的产品与扩张节奏受到限制。这折射出两届政府在AI监管取向上的某种延续：即便立场不同，对前沿模型的外溢风险均保持警惕。分析认为，监管「减速带」将影响OpenAI与Anthropic在模型发布、海外可用性与企业合约上的安排，也凸显AI巨头与主权国家围绕技术主导权与安全边界的博弈正常态化，前沿AI商业化愈发嵌入地缘政治框架。",
+          "title_en": "OpenAI, Anthropic Hit New Speed Bump With US Government - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORGRkQUMzVWdUNGpGdU4xWWozeXNBU1hKdHlVM0JvNmJzRGVUVkZvd0dPSDhHMVptSnlESFFNclFRbTRaVng4RFFSQzRucW92NEtMOEw1ZUVHV3RIYVJIRzV2bFUteTIyVlVuMFhpRVREdnlmeXlaWF9aVWNqZXFHMkE1Q1psRlZPc0loUVd6cjhtay14RDZ0U3l0ZmtiY2cwMjdEMjd0c09QRWpS?oc=5",
+          "published": "2026-07-09 20:03 UTC"
+        },
+        {
+          "id": "a560bdf27653",
+          "title_zh": "日内瓦AI峰会：机器人「变脸」展示特朗普与前总统奥巴马面容",
+          "summary_zh": "路透社报道，在日内瓦举行的AI峰会上，一台机器人以「变脸」方式呈现美国总统特朗普与前总统奥巴马的面容，引发对深度伪造与身份表征技术的关注。该展示直观呈现了生成式AI在实时人脸合成上的能力跃迁，也唤起与会者对滥用风险、政治误导与肖像权伦理的讨论。报道指出，此类演示虽具展示性质，却凸显AI在身份模拟上的逼真度已足以模糊真实与虚构的边界。峰会场合的技术秀既是产业能力的宣示，也为监管者提供现实样本。分析认为，随着实时换脸平民化，深度伪造治理、水印标识与责任界定将更紧迫，相关治理框架需在创新与防范之间加速平衡。",
+          "title_en": "Robot displays the faces of Trump, Obama at Geneva AI summit",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTXltazlpdUFpLTR2X3NVNkxYQkZOSTRXMG82dWZUNjlneFhlaFF4eVIxQ3NRbm42dGROdHNKYkRzUm5kOWxGSjRiVEtjRlUwWVVz?oc=5",
+          "published": "2026-07-09 19:58 UTC"
+        },
+        {
+          "id": "b6812aff1a95",
+          "title_zh": "OpenAI发布GPT-5.6 Sol，号称迄今最强模型",
+          "summary_zh": "纽约时报报道，OpenAI发布新一代模型GPT-5.6 Sol，并称其为公司迄今最强大的AI模型。新模型在推理、多模态与长上下文处理上较前身有显著提升，延续了OpenAI在大模型能力前沿的迭代节奏。报道指出，命名中的「Sol」或指向面向特定任务优化的变体，体现公司从通用旗舰向细分场景模型矩阵延伸的策略。在Anthropic、Google等对手紧追的背景下，GPT-5.6 Sol的发布意在巩固技术领先与开发者心智。分析认为，模型能力的边际提升正进入「以应用与成本论英雄」的阶段，OpenAI需在性能、定价与可靠性上综合证明价值。新模型的真实表现与落地案例，将成为检验其「最强」成色的关键。",
+          "title_en": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
+          "source": "纽约时报",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5",
+          "published": "2026-07-09 19:30 UTC"
+        },
+        {
+          "id": "b063afe4bbfb",
+          "title_zh": "数据中心需求激增挤压供给，美国电力公司紧急抢设备",
+          "summary_zh": "路透社报道，随着AI数据中心需求激增，美国电力公司的设备采购陷入紧张，纷纷紧急抢购变压器、开关等关键装备以跟上用电负荷的飙升。AI算力扩张使电网面临前所未有的扩容压力，而电力设备供应链受产能与交付周期制约，形成供不应求的瓶颈。报道指出，数据中心选址正日益受电力可达性牵制，公用事业公司被迫提前锁定设备、调整投资计划。分析认为，电力正成为AI竞赛的隐性约束——算力扩张的「天花板」或不在芯片而在电网。该趋势推高设备价格、拉长交付周期，也促使科技企业与电厂探索自备电、核电与小堆等多元供能路径，重塑能源与科技的交叉版图。",
+          "title_en": "US power companies scramble to secure equipment as surging data center demand strains supplies",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMm1HbXZMcE1qM19kTnZBekU3cndtX2RnS2xTY1lOOWM2TTdHWUFDdmtXN2x4MnZaSERvZnJpclVNdDkzYXhPQ3pCTmVMeXY2eWs0Ul95d09XaFUyM1hFQW9WQUI0b1RUeXR3eTBmd2VUR202SWN6RjdSam1SRF9MdU9XNmhEVFMzdEx1VXp0NzdkREo2UGVZQmd6Y29RaTNubDVCLUI0T2xMa3ZUc2RJdlp5aTZDZHlIV2pCZ25zR3Y1Vmo0N21weXNpZw?oc=5",
+          "published": "2026-07-09 18:57 UTC"
+        },
+        {
+          "id": "90c41001b51a",
+          "title_zh": "扎克伯格称探索AI云业务「说得通」",
+          "summary_zh": "彭博社报道，Meta首席执行官扎克伯格表示，探索AI云业务「说得通」（makes sense）。在自研芯片与算力扩张之外，Meta正评估将冗余AI算力对外以云服务形式输出，复制亚马逊AWS式的商业模式。报道指出，此举可将庞大的基建投入转化为收入，并深化Meta在AI基础设施市场的存在。扎克伯格的表态呼应其推动Meta从社交平台向AI基础设施公司转型的雄心。分析认为，若Meta入局AI云，将与微软、亚马逊、谷歌等云巨头正面竞争，也反映头部科技公司「自建算力—对外出租」的普遍趋势。不过，云业务对客户信任、可靠性与生态的要求极高，Meta能否后来居上仍待观察。",
+          "title_en": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTdBQU5JZkhCZHZwVkF5RmVMSlhZMW5NaHNrSjVwZFlFVTEtakZucWNrWUNqVDBUcENvZ1U3MUI0VGtzZlpmYzFuOHVmN01GOEQzcEFNR3pGVWFIN1FZU0x3TzBnYVh3OE5nNG90RE5tbmVwVVAtZHJzemlndFRYTml5TFdVelNXaHR0UmItN1l4ZWd0cU5qNmplMzh4dTJfNU1DelZPOU5HblRPS09WWng1QQ?oc=5",
+          "published": "2026-07-09 18:04 UTC"
+        },
+        {
+          "id": "7e93f28aeac8",
+          "title_zh": "纽约时报牵头的新闻机构请求法院制裁OpenAI版权诉讼",
+          "summary_zh": "路透社与美联社报道，由纽约时报牵头的新闻机构团体，请求法院制裁OpenAI，指其在版权诉讼中存在不当行为。该版权纠纷核心是AI训练是否未经授权使用受版权保护的新闻内容，媒体方主张自身内容被大规模抓取用于模型训练，要求追责与赔偿。多家媒体联合施压，凸显新闻出版业与AI巨头在内容权属与报酬上的根本对立。报道指出，诉讼走向将确立AI训练数据合法性的关键先例，影响整个内容产业的商业模式。分析认为，若法院支持制裁或媒体方诉求，OpenAI等公司或被迫重构数据获取与授权机制，并加速与内容方达成授权协议，重塑「AI—媒体」的价值分配格局。",
+          "title_en": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
+          "source": "路透社/美联社",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTYxWTEzRzVsSVY1VG80RTRVNUpwekZUV1lkajUzMjYxZVNRb2RkR3NwX3E3Y04yQ2ZaRGtSMkNsMkJGenJnTmRjcUhmNFJnT05kZXJrTVIxX3V1MFpUN29WU1RPTHlxX3djazJ2MS02YmFzZXRNM01FTzJ0cE03dU5GVUFIS2o2eTF1X0tvcDBLSG56NktwTUFDbjV1ZW5mODdmQ0xtcHJfU0ljLW02ZFRaLTZNdVlfV094cW9DOHhpQXM?oc=5",
+          "published": "2026-07-09 17:56 UTC"
+        },
+        {
+          "id": "612b53bd57f8",
+          "title_zh": "前美联储主席伯南克加入Anthropic的AI监督信托",
+          "summary_zh": "路透社报道，前美联储主席本·伯南克（Ben Bernanke）加入AI公司Anthropic的AI监督信托（AI oversight trust），参与对前沿模型安全与治理的监督。伯南克在宏观经济与危机管理上的权威，被Anthropic引入以强化其治理公信力与跨学科监督能力。报道指出，此举反映AI企业正借重政经与学术重量级人物，回应外界对「谁来看守前沿AI」的质疑。Anthropic长期以安全导向定位，其监督机制意在在商业化与安全之间设闸。分析认为，顶尖经济学家与政策制定者的加入，有助于将宏观风险视角带入AI治理，也凸显前沿实验室正以制度化方式争取公众与监管信任，安全治理已成为AI竞争的核心软实力。",
+          "title_en": "Former Fed chair Ben Bernanke joins Anthropic's AI oversight trust",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTBDOUZzZ2oxZVNhQlRiVWh2TVZyZ1dTQkpnemREdFJSUHJaTHRzejJEMmhzLTFPTjBjUjdELTNEUDdtRHpobHVraDNrYkpMVWM4THV4NnNUSGZHNUFvWkdwM3poWmpjRDFCZVh3cEI3RWVKTGlfdElMQVdPc2cxSkhhSWdGSmFWZDVZWFBxZ0RUR0c2bXo5YVdQbldWbkozOThVcWdIQld0WHZYTVRz?oc=5",
+          "published": "2026-07-09 17:33 UTC"
+        },
+        {
+          "id": "7e9edf14832f",
+          "title_zh": "OpenAI推出ChatGPT工作智能体，可连续执行数小时任务",
+          "summary_zh": "彭博社报道，OpenAI推出ChatGPT「工作智能体」（Work Agent），能够连续数小时自主执行复杂任务。该智能体可代为处理研究、文档与流程性工作，标志着ChatGPT从对话助手向自主执行型agent的演进。报道指出，长时间任务执行依赖更强的规划、工具调用与错误自愈能力，也对企业工作流自动化具有直接吸引力。在Anthropic、Google等竞相推出agent产品的背景下，OpenAI意在抢占企业生产力入口。分析认为，工作智能体有望重塑白领任务分工，但亦带来数据权限、可控性与幻觉风险等挑战。其商业落地效果，将决定agent能否从演示走向规模化的日常部署，并定义下一代办公软件形态。",
+          "title_en": "OpenAI Unveils ChatGPT Work Agent to Field Tasks for Hours - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDJfUElMZmZ0QmRmaUMyUjUzZ2tHcHpPUjlRcDlVWFNxSTBOcGdfX2VxZjl1bklES3dUS3hGNy1RazBGREpBRmJ3MjYwdjB5d2ZSQTZxYlFHSVRneGwyVmhpb3RhUWhPOGtkakRDcTJKUVA2N0lObnBuT3FuYnBRbnU4YUhRLXlTZjA3R0dVY0dlMGdCemlfcUg1SWdFeGpOS2J0ZGZTbkdrVk1nYUE?oc=5",
+          "published": "2026-07-09 17:00 UTC"
+        },
+        {
+          "id": "8205f9e28586",
+          "title_zh": "AI周报：三星利润大涨，微软大裁员",
+          "summary_zh": "路透社AI周报梳理本周AI产业要闻：韩国三星电子凭借AI内存需求利润大幅攀升，而美国微软则宣布大规模裁员，两相对照凸显AI热潮下产业景气的分化。三星的业绩由HBM与服务器DRAM需求拉动，印证AI硬件超级周期；微软的裁员则被解读为在AI重金投入下对组织架构与成本结构的再平衡。报道指出，同一浪潮中，「卖铲者」与「用铲者」的损益并不对称——芯片与内存厂商率先兑现红利，而应用与平台公司正承受高昂的AI资本开支与回报时滞。分析认为，这种分化将重塑科技股估值逻辑，也提示AI投资回报的不均衡性，市场愈发关注算力投入向真实营收的转化效率。",
+          "title_en": "AI Weekly: Samsung's massive profits, Microsoft's big layoffs",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qWVFndTdjZG1sczExd2I1MHBQOXIxeEN0SEFHeUw4dWMyaE5lcEN6RHk2Q2pDRXAyRWpYR2pqNkJadGVPVzVJNmZRQnFiUU9yX0dNN1NvRllxN251TVY1ODA4NVZWX0U?oc=5",
+          "published": "2026-07-09 16:59 UTC"
+        },
+        {
+          "id": "1950103c2a0e",
+          "title_zh": "彭博智库：扎克伯格承诺Meta首款付费AI采取「激进」定价",
+          "summary_zh": "彭博智库（Bloomberg Intelligence）报道，Meta首席执行官扎克伯格承诺，公司首款付费AI产品将采取「激进」（aggressive）定价策略。这意味着Meta在进军消费者AI订阅市场时，或以低价甚至补贴方式快速抢占用户，复制其在社交与广告市场的扩张打法。报道分析，激进定价意在以规模稀释单位成本、建立用户习惯与数据飞轮，但也将考验Meta的变现耐心与利润表。在ChatGPT Plus、Claude等已建立付费心智的背景下，Meta的低价策略可能搅动订阅市场价格体系。分析认为，Meta凭借庞大用户基数与资本实力，具备以价格战切入AI消费市场的条件，但其能否将流量转化为持续付费，仍是商业模式的核心悬念。",
+          "title_en": "Bloomberg Intelligence: Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2R6Yk1oRnE2cGg1NV9LeTgtdjBfT2NXVnZrQmRPamQ5YU1NeXZrb21ZVTBMQUNFV2dRYmhqbnozTkpIWUVzT1lvMXNueXg1RXRRTGRMM01hRnowM0VRYTlPcEcwZWZ4Q3pJVHh4RWJJV1hWYU14d2FHc0hJYk9RV2FHTTcyU3ExTjBNb2EweFhULWRkNXhfYXlpVkVUSlBvQUE?oc=5",
+          "published": "2026-07-09 16:55 UTC"
+        },
+        {
+          "id": "0377769fce3d",
+          "title_zh": "Swift联合首批17家银行启动区块链账本",
+          "summary_zh": "路透社报道，全球金融报文网络Swift联合首批17家银行启动区块链账本项目，探索以分布式账本技术提升跨境支付与清算的效率与透明度。Swift作为连接数千家金融机构的枢纽，其试点意义在于以渐进、兼容的方式将区块链引入既有的国际金融基础设施，而非推倒重来。报道指出，项目聚焦交易确认、对账与可追溯性，意在降低跨境结算的成本与时延。分析认为，若试点成功，传统代理行模式与清算链路或被重塑，但监管协同、标准统一与参与行覆盖范围仍是关键变量。此举也显示主流金融基础设施正务实拥抱区块链，在创新与系统稳定之间寻求平衡。",
+          "title_en": "Swift starts blockchain ledger with initial set of 17 banks",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1pGREhNRXc0TUhTQW51M0E0Z2RzSGUzd2Y0ajR0MzE0dHZjS19tSkFGQWVKM3BNdWllNEQ3UVduNXFmN2VFdi01R0ZJVldxMUZ4V0FYTm4tWmlnRmNvOWhyOTh0R2owT01VdGMydlV1MWlqTjBpMlNTMHlMc3FXNmplZkg2THB5M1VaMWhQWGM3Rmp2R3ZqSkFERUNJYUV6US1RcW9WdmczWlJ0dlE?oc=5",
+          "published": "2026-07-09 16:14 UTC"
+        },
+        {
+          "id": "8e481dd8dd7e",
+          "title_zh": "OpenAI投资人维诺德·科斯拉谈其风险承担哲学",
+          "summary_zh": "华尔街日报专访OpenAI早期投资人维诺德·科斯拉（Vinod Khosla），请其阐述风险承担哲学。作为硅谷标志性风险投资家，科斯拉以押注高风险、长周期的硬科技著称，对OpenAI等前沿AI公司的早期下注使其成为AI浪潮的关键资本推手。报道呈现其「宁可押错方向、不可错过范式」的投资信条，以及对AI将重塑经济的坚定信念。文章指出，科斯拉的冒险文化既成就了超额回报，也伴随高失败率，凸显风投在科技跃迁中的放大器角色。分析认为，此类资本家的风险偏好深刻影响前沿技术的资源供给与节奏，其哲学也为理解AI创业的融资逻辑与估值逻辑提供了一手注脚。",
+          "title_en": "OpenAI Investor Vinod Khosla Explains His Philosophy on Risk-Taking - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWpyUE52bzV0Q0ZZaUxmd0dTYVNYcUN2N0dibFNJazZFSERVb3FXY2tmVWtnR0J2T1AtQXAzNnRTVFBSMXNLNFluXzJaVlBqelJOYlJDcEVDNEpLTU1JNVY0ZURDd2JZN3Uwc1NpdEt4UV9NaGkzVzNaUlRyMGhXb1VQSEI?oc=5",
+          "published": "2026-07-09 15:01 UTC"
+        },
+        {
+          "id": "b812c35a023f",
+          "title_zh": "TeraWulf拟筹35亿美元建设租予Anthropic的数据中心",
+          "summary_zh": "彭博社报道，数据中心运营商TeraWulf计划筹集约35亿美元，用于建设一座将租予AI公司Anthropic使用的数据中心。这反映AI算力需求正驱动专业基建资本大举涌入，云与地产运营商通过「为特定大客户定制建设」的模式锁定长期租约与回报。报道指出，Anthropic作为算力消耗大户，正以长期合约绑定供给，缓解训练与推理的算力瓶颈。分析认为，此类交易凸显AI价值链的利润正向上游基建外溢，也显示算力正成为可证券化、可融资的资产类别。对TeraWulf而言，绑定头部AI客户降低了空置风险；对Anthropic，则保障关键产能，双方以合约对冲AI扩张的不确定性。",
+          "title_en": "TeraWulf Eyes $3.5 Billion for Anthropic-Leased Data Center - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkpabm5IVE1reXgxRzluQk5QLW9kd3h2Vjg5VWZmZ3NPN3NrbmU1V0ZVUTI3LURUcTdhWHc3UHlnT3p4N3ZHSTFRY09pc3ltTXBQUkJOaTl0dWNGYnJXbGtFYXBERlVkZklVaTJzX194Vkt4OXFaWElGcGRqc0o4VnczX0dQemxqVElQZ01QU21iRlE3amZ0RlpHVmtVQzFpZnNTemdfSWU4TFhZc1E?oc=5",
+          "published": "2026-07-09 14:42 UTC"
+        },
+        {
+          "id": "57a653030a56",
+          "title_zh": "美光再度上调在美投资计划，承诺2035年前投入2500亿美元",
+          "summary_zh": "路透社报道，美国存储芯片巨头美光（Micron）再度上调其在美国的投资计划，承诺到2035年前投入高达2500亿美元，用于本土先进内存与封装产能建设。此举契合美国《芯片与科学法案》驱动下的制造业回流潮流，也将强化美光在AI服务器DRAM与HBM供给中的战略地位。报道指出，美光接连追加投资，反映其对AI内存超级周期的看好，以及在地缘紧张下贴近北美客户、获取补贴与政策支持的考量。分析认为，巨额资本开支将巩固美国本土半导体供应链韧性，但也考验美光的现金流与回报周期。该承诺亦具政治意涵，凸显芯片企业以投资换取政策与选区支持的常态。",
+          "title_en": "Micron boosts US investment plan again, commits $250 billion through 2035",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWc0Y2R2MHQ0eXRvalR3ZHVqSGZ3a0pobWJ1RGE2N1lXVUFvU05EcW9YWjY3d21NaUJBblRxOHdfNWVDQU1pX2I1eHJkYnB3dmhvdkRsbVVhN1JSNE1taHZTUGJNRVpsOTFDTXBPRVJDdFVsel9jUVBNcDZ2YUlySjFXcjJEanA1eG1TSS1WTVJBN2hDZE5R?oc=5",
+          "published": "2026-07-09 14:29 UTC"
+        },
+        {
+          "id": "00d9a707bf45",
+          "title_zh": "星巴克借AI降低对微软、IBM软件的依赖",
+          "summary_zh": "彭博社报道，星巴克正借助AI手段降低对微软、IBM等企业软件的依赖。这家全球咖啡连锁巨头通过引入生成式AI与自研或第三方智能工具，重构门店运营、供应链与后台系统的技术栈，意在削减昂贵的传统软件许可与维护成本、提升运营敏捷度。报道指出，星巴克的举措是传统大企业以AI「去绑定」传统供应商的缩影——AI既作为降本工具，也作为议价杠杆。分析认为，若成效显著，或引发零售业对微软、IBM等企业软件霸主地位的重新评估，并加速企业IT向AI原生架构迁移。不过，切换核心系统涉及数据与流程风险，落地需权衡短期阵痛与长期收益。",
+          "title_en": "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHVUVWVqNHpkRnFrVnFsT3oxSzlNYXhKYVRoeVZlS0NqOXpVQ2oxMTIwLTAxQjZNaFo4UnRMN1JIMDNHN1JLNzZuMG9oQ0hmc1gtZWstTXIzTTVnZ1QxdGN6LWxkU05kWkMwYWhUNk5FWkR1Q0lOMmNHVVptbmVZSlczNUZiRkktWVNkUGtoQzFjcWk3V2FCX3FHVWZzUlAwOXNzRUJVYnpZSTI1ZjZTaWx3WQ?oc=5",
+          "published": "2026-07-09 13:31 UTC"
+        },
+        {
+          "id": "cfb159a309d6",
+          "title_zh": "Apollo 350亿美元AI芯片信贷交易启动交易",
+          "summary_zh": "彭博社报道，资产管理巨头Apollo牵头的一笔规模约350亿美元的AI芯片信贷交易正式启动交易。该交易以AI芯片及相关算力资产为支撑，为芯片与数据中心建设提供债务融资，反映AI基础设施正成为结构化金融的新宠。报道指出，在AI资本开支高企、银行信贷趋紧的背景下，私募信贷与资产证券化正填补融资缺口，将未来算力收益提前变现。分析认为，此类交易既为AI产业链输血，也提示金融风险正随算力扩张而累积——若AI回报不及预期，相关信贷资产或面临估值与违约压力。Apollo的入局显示华尔街正以复杂金融工具深度绑定AI浪潮，AI金融化趋势加速。",
+          "title_en": "Apollo’s $35 Billion AI Chip Credit Deal Is Set to Begin Trading - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEhHaHJOMDctSm5rcndvMm1sVUVzdHlSZXRRMlpxc1RSQm9rRk5SanlVc1VUeExXSTQwMVJDeWxjOTdmcHpZcWxNVFJZZzJrYUxHaXF2WGRUQ2swZXp0S2dEQ3c1YXRDbkdwclFBMi1OUExTcGxvQjVrQkk4amV0RmR6b1NhdGIzTHE5WERaUm9RTlVuME9GSnUwQ21PS2x3NjVVTkdYV2VLM1RuOGpsUEFWMmk?oc=5",
+          "published": "2026-07-09 13:04 UTC"
+        },
+        {
+          "id": "eb4b98079ae0",
+          "title_zh": "特朗普与AI数据中心如何提振核电",
+          "summary_zh": "彭博社剖析特朗普政策与AI数据中心热潮如何共同提振核电需求。报道指出，AI算力扩张带来海量、稳定的电力需求，而核电因其低碳、可基荷的特性，成为科技公司与政府青睐的供能选项；特朗普政府亦以能源主导与审批松绑支持核电复兴。报道分析，数据中心运营商正通过购电协议、自备堆与小型模块堆（SMR）投资绑定核电，形成「AI—核电」利益共同体。分析认为，这一趋势有望为停滞多年的核电产业注入资本与政策东风，加速新堆审批与老旧机组延寿；但也伴随成本超支、废料处理与工期风险。核电复兴正从环保叙事转向AI时代的现实供能逻辑。",
+          "title_en": "How Trump and AI Data Centers Are Boosting Nuclear Power - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkItSG1mMnpDdkJqNHNWM0FHeW1MdFltZkdIaFFIbFh0cWdObTh6Y3lNdjNJaTFHdmVIb253LW54M3VHVjNwS1o4Y01VMkxBY0FoUWV5cEZUd1h2WmJUcjBybnR5QUcxdFo3QzJrY2VHS2ZhV2xQZkZ0aUZKWHU5Q0ZTdTJfdWllSW1XUzZ4UVYtcUhRY0U4OS1vQk9NeHpMRkRDcTJvWmNQZzBjOTFSQm5pTEtDQkZOVTJ3c3NQdjlWeXJDNnc?oc=5",
+          "published": "2026-07-09 11:00 UTC"
+        },
+        {
+          "id": "ec58186186e6",
+          "title_zh": "马姆达尼促普拉特纳因性侵指控退出缅因州参议员竞选",
+          "summary_zh": "美联社报道，纽约市长候选人马姆达尼（Mamdani）呼吁缅因州参议员竞选人普拉特纳（Platner）在遭遇性侵指控后退出竞选。该事件将地方选举与对候选人品行、女性权益的审视相连，凸显#MeToo议题在美国选举政治中的持续影响力。报道指出，性侵指控对候选人的选情构成直接冲击，也引发党内关于「在被证实前是否应退选」的程序与伦理讨论。马姆达尼的表态反映进步派对候选人行为标准的强调。分析认为，此类事件往往迅速转化为两党与党内博弈的素材，影响选民态度与竞选资源分配。该案例折射出美国政治中个人操守议题与选举成败日益紧密的绑定关系。",
+          "title_en": "Mamdani says Platner should drop out of Maine's Senate race after sexual assault allegation",
+          "source": "美联社",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdW5qdGFOOHNPYWRKZmxyTmxzZC1QTGlBZmtSZWZWOFNxVG4yTkRKSFgtU1NYYVVQejd5clZqTjRybldqZG54YzZ0em53ZkI0bEdqcVhFUW5QcTRHRzF2YXpYVE9tbjJXNFAyZUIyZ2FyaWNGMmlJMzZvUXVqTTdidkVlVEVHVDhiSG5ZVzFzekViS1lZYkYwaFZzN0hQMXhkT0ZRSm00V0Y3YnZIazlMNFYzLUo3MFNjM1pud2M3ZHNGN3A0WFFBVHlvQXpaa0NJXzI1UlJMWW4zQm5tUHFpX09n?oc=5",
+          "published": "2026-07-09 10:32 UTC"
+        },
+        {
+          "id": "c999a7423370",
+          "title_zh": "苹果将向博通采购300亿美元美国产芯片",
+          "summary_zh": "路透社报道，苹果公司计划向博通（Broadcom）采购价值300亿美元的「美国制造」芯片，以强化本土供应链并呼应美国制造业回流政策。这批芯片预计涵盖无线网络与定制连接等组件，体现苹果在地缘紧张下加速供应链多元化、贴近北美产能的策略。报道指出，苹果此举既为锁定关键零部件供给，也具争取政策支持与舆论友好的意涵。分析认为，巨额本土采购将提振博通的美国产能与投资，也显示消费电子巨头正把「在地制造」纳入风险与合规考量。在关税与出口管制交织的环境中，苹果以长单绑定供应商，既是供应链韧性之举，也是地缘政治下的战略表态。",
+          "title_en": "Apple to spend $30 billion on US-made chips from Broadcom",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDUnd0SmVEV0NwU2VONkpNMGhYc014dXBWR2JhUlpXcFRLM2NWSHFHUlM4WEdqX29JeURlazJoeVNUVFZwdzBFU0xQUGFoYkF3WVhDZGlCNVFnalpN?oc=5",
+          "published": "2026-07-09 09:17 UTC"
+        },
+        {
+          "id": "5be888b671f5",
+          "title_zh": "三星与SK的8800亿美元AI押注；拆解韩国主权AI雄心",
+          "summary_zh": "彭博智库（BI）回放报道，三星与SK海力士合计高达8800亿美元的AI相关投资布局，拆解韩国「主权AI」的雄心。报道指出，韩国正以存储芯片这一战略资产为支点，谋求在AI价值链中从「零部件供应国」升级为具备自主AI能力的「主权AI」玩家。三星的HBM与系统半导体、SK海力士的内存霸主地位，是这一战略的产业基石。分析认为，韩国将AI视为关乎经济安全与国家竞争力的命脉，政策与资本正协同下注。但挑战在于：如何超越存储、补齐AI设计与生态短板，避免长期困于价值链中上游。该布局折射出中等强国以半导体为盾、争夺AI时代话语权的典型路径。",
+          "title_en": "Samsung & Sk’s $880B AI Bet; Dissecting Korea’s Sovereign AI Push: BI Replay - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjRhblR6VDd4OXN5N29KRmVkb241ZDFZZnhmT2E3cmNRNTlFSmV2SGhsa05NTjg3eS1GaGp2RG5wbU1DUHhrem5VN2QtSy0wc0NocGppcl94QVUySm1BNGpZVFo2dmtUaVN3b2QyVVNOMUNISHdsbkdfaXRXS2VnRG9jR01aRFNjckJqV2MyQ09wWUNBR201a2s5SjBfc3hOaW92dmVzTmU3RkR1NWVz?oc=5",
+          "published": "2026-07-09 06:47 UTC"
+        },
+        {
+          "id": "302264aebeef",
+          "title_zh": "Bain Capital在芯片交易获利后退出Kioxia",
+          "summary_zh": "彭博社报道，美国私募股权巨头贝恩资本（Bain Capital）在芯片交易获利后退出对日本存储芯片企业铠侠（Kioxia）的持股。铠侠作为全球重要NAND闪存供应商，其股权变动反映AI与存储景气上行周期中，资本正伺机兑现芯片资产收益。报道指出，贝恩的退出发生在存储价格受AI需求推升、铠侠估值改善的窗口，体现私募资本对半导体周期的高敏感度。分析认为，此举或为铠侠后续资本运作（如上市或战略重组）铺垫，也显示存储板块在AI超级周期下正吸引与释放资本流动。股东结构的调整，将影响铠侠在NAND市场的投资节奏与竞争格局。",
+          "title_en": "Bain Capital Exits Kioxia After Chip Deal Yields Big Returns - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWZRSndlU19BeXphSkxqTV95RTNqM2xkSUxtcERoRnhMSmlhMlpsU0NHNVFvbnA0N2NIZkJzT3ltazNMY3I2QWcyMFExZnp5RmlUb0s5UW0yWkRJTGp3X1BlRWJYM3BfMTR3VV9LM05uVlU4cXZPTGp1aHNPdHkyREdQeUJ2c0VNbEFwdTZRLVllTnpWa0dpVTdYZUFPbmhNSzlzbjlURnhaZXNkSlR0QkkzZ19Zdw?oc=5",
+          "published": "2026-07-09 05:42 UTC"
+        },
+        {
+          "id": "2a945c26db93",
+          "title_zh": "中国科技企业（从苹果供应商到OpenAI对手）在港募资170亿美元",
+          "summary_zh": "路透社报道，中国科技企业在香港市场合计募资约170亿美元，参与者从苹果供应链厂商到对标OpenAI的AI公司不一而足。这折射出在美方上市与融资受限、内地监管与地缘张力并存的背景下，香港正成为中国科技企业重要的资本避风港与国际化跳板。报道指出，AI公司的加入尤其醒目，显示中国生成式AI产业在融资端保持活跃。分析认为，港股此轮科技募资热潮，既受益于内地资产重估与南向资金，也凸显香港连接中国与全球资本的角色强化。不过，估值波动、地缘政治与盈利兑现仍是悬于这些募资之上的不确定因素，市场将审视其真实成长质量。",
+          "title_en": "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWZadmVQb3NCUEZleTdpQ2pQUk1obGZ1SG5pQmx3bXVFUWdHS1g2eWVBYzNvSS1lVFdkZU1oajBwUm5BNUlaOXZ4dTZfUE01aTNtRkRScVpXanYxLWoyTTYzUDRmSDk3dGhIZFpXaG91M1A0bDBPdGlHZ0JpRENTc3cybXVGUVY4blgycEdjajBKY1ZDd3c0RUJxMDIzeGcyTnZqLURZVUZVX3RNN3ZFTXhPcngxSFlJaUc2YU0tSzRVcm14ZGpsaDdB?oc=5",
+          "published": "2026-07-09 04:59 UTC"
+        },
+        {
+          "id": "56168c034068",
+          "title_zh": "Meta拟投数十亿美元在加拿大建首座AI数据中心，系美国境外最大",
+          "summary_zh": "美联社报道，Meta计划投入数十亿美元，在加拿大建设其首座AI数据中心，这也将是Meta在美国境外规模最大的同类设施。在AI算力全球布局中，Meta正将产能延伸至政治稳定、能源充裕且与美国邻近的加拿大，以支撑大模型训练与推理的激增需求。报道指出，选址加拿大既利于获取清洁电力与土地，也有助于分散地缘与监管风险。分析认为，科技巨头将AI基建「出海」至友好邻国，正成为算力地缘的新趋势，也带动加拿大数字基建投资与就业。该数据中心将强化Meta的算力自主，并反映AI竞赛已超越国界、演变为围绕能源与盟友供应链的全球布局。",
+          "title_en": "Meta plans billions for first AI data center in Canada, largest outside the US",
+          "source": "美联社",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNU1USzlTUzNvM0RMbTJFLVRDSkVkQlYxZHlObVlaUU0xaGpacGYyVEhNV0dHNlp2TnFpOEp4RThOOFNyTHAyTUdnU3gzS2xHMl9uc2p1SHRja3ItdlBXZ3gyZF9PMHNOWkRqNVQ2ZEhmNVFwMWd1LUxNNkR1ZDk1RUIyT1lZUF9JVmRyN3VlQQ?oc=5",
+          "published": "2026-07-09 04:50 UTC"
+        },
+        {
+          "id": "b4e3f5808e82",
+          "title_zh": "中国称在Anthropic的Claude Code中发现安全漏洞",
+          "summary_zh": "华尔街日报报道，中国方面声称在AI公司Anthropic的编程工具Claude Code中发现安全漏洞。报道指出，这一表态发生在中美围绕AI能力与安全审查竞争加剧的背景下，中方对进口AI工具进行安全评估的举动，既关乎软件漏洞本身，也折射出对境外AI系统可控性与数据安全的警惕。分析认为，此类安全指认可能被用于本土AI替代的政策叙事，也提示跨国AI产品在地缘敏感市场面临合规与信任门槛上升。对Anthropic而言，需就漏洞作出技术与公关回应以维护企业客户信心。该事件凸显AI工具正被纳入国家网络安全审视框架，跨境AI服务的部署将更受主权安全考量约束。",
+          "title_en": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5",
+          "published": "2026-07-09 02:54 UTC"
+        }
+      ]
+    },
+    "americas": {
+      "name": "美洲时政",
+      "count": 22,
+      "articles": [
+        {
+          "id": "b60b7fe7cb52",
+          "title_zh": "追踪特朗普：美军打击90个伊朗目标；鲁比奥吁盟友谈「反法西斯」；白宫立柱蒙罩",
+          "summary_zh": "华盛顿邮报「追踪特朗普」栏目梳理当日白宫要闻：据报美军对伊朗境内约90个目标实施打击，美伊军事对抗再度升级；国务卿鲁比奥致信多国领导人，提议将「反法西斯」议题纳入双边讨论，引发外交层面的意识形态交锋；与此同时，白宫正面立柱被临时罩布覆盖，疑与特朗普的新建筑工程相关。栏目以每日汇编呈现特朗普政府在内政外交上的密集动作，折射出本届政府在伊朗问题上的强硬姿态，以及白宫形象工程与政治符号运作并行的特点。多条线索交织，凸显当前华盛顿政策议程的复杂与高强度。该栏目以编年史方式将分散动作汇于一处，为观察本届政府的施政节奏与优先事项提供连续性切片，也折射出信息时代的政治叙事正越来越依赖高频、碎片化的日常汇编。",
+          "title_en": "Tracking Trump: U.S. hits 90 Iranian targets; Rubio asks foreign leaders to discuss antifa; White House shrouds columns; and more - The Washington Post",
+          "source": "华盛顿邮报",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMElhbEF2T0tSeUFXTlFGbWxNWmJiUWFRWktYU2MwaGpBV3R6U1pzUWFYSzQ5aE1WWWtyUkJzNFp4Y0F0V2JvcGIxTE54djdRN2IzbHlwYkNFZzNoYXJGT2huRzM2S1Nwa2I2WWtxMFkyLWZKU1dFUlk0d3gyZWtjeUhjY0lpdlNRa3N4RXVFMllLTGhWSTA3WWlZWG5GR3lXUVA5aVExY3VHMzJUZ2lwVHZINi1ZTjAxNlpsNHpoYm5RdUZUUEVJT3g5dzA1QkpxODhKRHRuSnpuMldjTW9rbTZoYkN4NEpYZURGOFFtdUFiMUlGY1VhYVU5QTl4SDBsdThEdGFn?oc=5",
+          "published": "2026-07-10 01:40 UTC"
+        },
+        {
+          "id": "c234cc62a63a",
+          "title_zh": "哥伦比亚和平特别法庭前景不明，当选总统誓言解散",
+          "summary_zh": "华盛顿邮报报道，哥伦比亚专门审理政府与FARC反政府武装冲突相关罪行的「和平特别法庭」（JEP）前途未卜。当选总统在竞选期间明确承诺将解散这一由2016年和平协议设立的司法机构，认为其过度偏袒前叛军、削弱国家司法权威。该立场在军方、受害者团体与学界间引发激烈分歧：支持者视JEP为推进真相与和解的关键机制，反对者则批评其对战争罪追责不力。JEP的存废不仅关乎数十万冲突受害者的司法救济，也将考验哥伦比亚脆弱的和平进程。若遭解散，恐重燃各方对和平协议执行力的疑虑，并削弱国际社会对该国和解努力的信任。围绕JEP的博弈，因此既是法律之争，也是哥伦比亚能否走出半个世纪武装冲突的历史考题。",
+          "title_en": "Colombia's court on the conflict with FARC rebels in limbo as president-elect vows to dismantle it - The Washington Post",
+          "source": "华盛顿邮报",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObXVvVG90QWdnUDJUd0xEQzVxTWVOV0puVjNXT2ViRGUyUXdadU1fZVRKZ0N3ZVNoSUw4Skc1RkpLR2xOalFZWHRSV2FOdlU3Qk43QzN1RHpUUVdVZVhQVUd4NmZydkZSYlhYM2ZwVExaWU9TZUowSDBmeDVlZmt1SkhyTXU5SnQzRU1tQ0VLVXoydUVwS2FYWDh3ZWdBYWQxalAxWFk3MjhxTkxPTHhjNWR5aEd2SENwbllZeWRBbUNRcTRrQ2JnS0k4SjQ3OHhKbjRCelFZRQ?oc=5",
+          "published": "2026-07-10 01:33 UTC"
+        },
+        {
+          "id": "10d246bd4791",
+          "title_zh": "盘点：特朗普对北约防务开支是否更满意？",
+          "summary_zh": "BBC「盘点」栏目探讨特朗普在北约峰会后对盟国防务开支的表态。特朗普长期施压北约成员国将国防开支提高到GDP的2%以上，并在本届峰会上推动盟国作出更大财政承诺。报道分析，尽管部分欧洲国家已显著上调军费，特朗普仍可能以「分摊不均」为由继续施压。栏目从数据角度梳理各国防务投入的差距与趋势，评估峰会成果是否足以让华盛顿满意。分析认为，防务开支议题已成为特朗普重塑跨大西洋同盟关系、将盟友贡献与美方安全承诺挂钩的核心杠杆，其后续走向将影响北约内部的凝聚力与欧洲防务自主的进程。与此同时，欧洲内部也在借机推动防务一体化与联合采购，以降低对单一安全提供者的依赖，使得北约的未来形态在压力下悄然重塑。",
+          "title_en": "Taking Stock: Is Trump happier with NATO on defence spending?",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nOGdFTk43NXNmNk1NbXozVEZYTnU1bnpRMk5ycWJ6N09Ub3RiV2hleFRDSE1mVFlWRTlMUGNwREM5MkFsbEs4ZThVclNmZ05j?oc=5",
+          "published": "2026-07-09 22:59 UTC"
+        },
+        {
+          "id": "aacd3e79b7a1",
+          "title_zh": "巴西警方锁定与Banco Master传播操作相关的企业高管",
+          "summary_zh": "路透社报道，巴西警方在针对Banco Master的调查中锁定一名与该行传播与舆论操作相关的企业高管。Banco Master是一家近年来快速扩张的巴西金融机构，近期因资产负债与合规问题受到监管与司法关注。警方行动指向该行可能通过公关与媒体渠道影响舆论、掩盖风险的操作链条。调查折射出巴西金融监管机构对中小型金融机构透明度与公司治理的审查正在加严。分析指出，此类案件若证实，将损害投资者对巴西非银行金融机构的信心，并可能促使监管层加快完善银行体系的披露与问责机制，防范系统性风险在监管盲区累积。此案也提醒投资者，巴西金融业在高速扩张期积聚的治理隐患，或成为新兴市场资产定价中新的不确定性来源。",
+          "title_en": "Brazil police target executive linked to Banco Master's communication efforts",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGlkVUVsZEVmNnVxUUtBaU5qbEVYVTRDejg4OUlFN3loNTdTQXlkeHphbE9DMmhKNnNBSUxyYTNEdUtIYmRTeHljS1hURld1dGJPWGRYeS1sOTFWc3VIdkRZWDFhUGtiUy1HUnBVc2YzNWtrT2lZcEtTTGZoNFNvRXNBNGVuSWRjNnY5X2lMYzltQTU0YXBKN3VhUE5MZzkyMU5Hd3hJWUg4ajB1NUxrNXRMd2w2TDVlOEVkb2szTjVMR2pT?oc=5",
+          "published": "2026-07-09 22:48 UTC"
+        },
+        {
+          "id": "d74dc3937f83",
+          "title_zh": "观点｜特朗普的关税究竟如何「奏效」",
+          "summary_zh": "华尔街日报发表观点文章，剖析特朗普关税政策在实际经济中的运作逻辑与后果。文章指出，关税虽被宣扬为重振制造业、缩减逆差的工具，但其成本正通过供应链层层转嫁至美国企业与消费者，并引发贸易伙伴的反制。作者认为，关税的「成效」高度依赖谈判筹码与豁免安排，且具有显著的行业与地区分配效应，受益与受损并不均衡。文章还批评政策的不确定性与频繁调整扰乱了企业投资预期。该评论折射出美国内对贸易保护主义成效的深层分歧，也为观察特朗普第二任期经贸议程的连贯性与可持续性提供了批判性视角。文章提醒，关税从来不是零和工具，其外溢成本最终会回流至发起国自身，贸易政策的反复更会削弱长期投资与产业规划的可预见性。",
+          "title_en": "Opinion | How Trump’s Tariffs Really ‘Work’ - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hQUVWMV9MQjdlNlZMOG83bGpNNWJOX2tvOWMzTHNFQmQ5OUhWTVo2UXNTczBhWVIzT1haZWk2dkpNYTRLU2xGbVpWTGdoVGlyb1ludXF1VUhnQ1ZDenZxSUhST1RMVkMwX1N6bmVPcGZHSDcxTVE?oc=5",
+          "published": "2026-07-09 22:15 UTC"
+        },
+        {
+          "id": "79c94ffea4d2",
+          "title_zh": "新墨西哥州指责司法部阻挠前Epstein牧场调查",
+          "summary_zh": "路透社与纽约时报报道，美国新墨西哥州政府指责联邦司法部阻挠其对一处与前金融家爱泼斯坦（Jeffrey Epstein）相关牧场的调查。州方称司法部在证据移交、证人配合等方面设置障碍，妨碍厘清爱泼斯坦网络在该州的活动。爱泼斯坦案长期牵动美国政治与司法神经，其关联人物与权贵网络持续受到舆论与司法审视。两媒体报道显示，州与联邦在调查权限与优先级上的张力正在显现。分析认为，此争端不仅关乎一桩历史案件的真相，也折射出联邦与地方在敏感政治案件上的博弈，以及公众对司法透明度与问责的强烈诉求。此案后续若升级，或成为检视美国联邦与地方政府权限划分、乃至选举年司法公正度的又一标志性样本。",
+          "title_en": "New Mexico says US Justice Dept hindering probe of former Epstein ranch",
+          "source": "路透社/纽约时报",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVQwUXZQVXpEWmhmVEluaE5NcTBIRTZqUnNvbU94NUFsbGh2VUxmNS1lNjZfcjJtNzRfMm9rWXprQ2Y4NFlzTUNGY1UtZVExSndfLWp0SFIyeFdfdUVxT3YzbmFlb0NtN2lYM3JWbXk0R0otcGxoYXUwSm5RLTYweEtzSmRFTElpUnZEMEFWN1pVNnZhN0x6WDNNNUVxempDWm9ZU3ZlNFBDeTUtV1ROVk9FX19melNfZ2VyS3dxMUdVSWVkQXZPNVUwVjNuNVE?oc=5",
+          "published": "2026-07-09 21:36 UTC"
+        },
+        {
+          "id": "8c9acd24bd2a",
+          "title_zh": "巴西将对网络博彩公司施加严格广告监管",
+          "summary_zh": "路透社报道，巴西政府计划对在线博彩企业施加更严格的广告监管规则。近年来巴西网络赌博市场迅速膨胀，相关广告在电视、社交媒体与体育赛事中高频出现，引发对未成年人保护与问题赌博的担忧。新规拟限制广告投放时段与渠道、要求风险提示并加强运营商资质审查。此举折射出巴西在培育数字娱乐税基与防范社会风险之间的平衡努力。分析指出，网络博彩已成为巴西重要的税收与就业来源，但监管缺位带来的成瘾与诈骗问题日益突出。更严广告规则或倒逼行业合规，也可能影响相关企业的营销成本与用户增长节奏。对巴西而言，如何在扩大税基、保护就业与抑制社会风险之间拿捏分寸，将是数字博彩监管从放任走向规范的长期课题。",
+          "title_en": "Brazil to impose strict advertising rules on online betting firms",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZl9Bdk9MZEJPN0FreHFMUzMzYWJYNndFNXNkMVlfYjBtRXNfckxxZWZKVUtGbTNSb2p2ZlYxTmxmYjI4bE9tUS05Y19hblU1RXFGaThXbGQtd0hMOE5EcjV0WnQ5QUxvMjJselg4bnVEYlEtbVFBNU45VXZNVEI0aVdfSzY2WERTV3NLTFhyWWhGYjN3c0I2TDBhdlM4WFNlLWIyb3c5TlZmNzFyYV9F?oc=5",
+          "published": "2026-07-09 19:59 UTC"
+        },
+        {
+          "id": "271600bd8f76",
+          "title_zh": "特朗普亲自上阵白宫改造，「builder-in-chief」动工新工程",
+          "summary_zh": "华盛顿邮报与纽约时报报道，美国总统特朗普以「总建筑师长」（builder-in-chief）自居，亲自推动白宫正面立柱等建筑工程的改造。两家媒体描述了白宫南草坪与建筑立面被脚手架与罩布覆盖的现场，以及特朗普对设计细节的直接介入。报道指出，此类工程延续了特朗普将建筑形象视为政治符号的一贯风格，既是对白宫物理空间的改造，也成为其个人品牌与国家叙事的延伸。分析认为，白宫形象工程在提供视觉政治资本的同时，也引发对公共资源分配与历史建筑保护的讨论。该项目折射出本届白宫在「建造」叙事上的鲜明个人化色彩。此类工程如何在国家象征、历史保护与个人政治表达之间取得平衡，料将继续引发华盛顿内外关于公共资源用途的讨论。",
+          "title_en": "Trump takes on builder in chief role at White House - The Washington Post",
+          "source": "华盛顿邮报/纽约时报",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1ZLT0ZXZWJsVFQ0YnVYeTFOWXVwUGJ4VXJ2X2R3T1hHbF9zSVgtRnJBTVF0dDhjZWhzMUdvMXl2LTRfVGZhdVRZbmxuZFlvQkljNlFLczE3bmVZWFhERTJKZUVwNmFUUmE0dnlEX2RwTDVfSDhMUktBUW1EcEZicGIxaUpYSkRFNHZnVDVaZVY2VjAwRld5WENnRWNxVzVsSlE?oc=5",
+          "published": "2026-07-09 19:15 UTC"
+        },
+        {
+          "id": "69e63087c287",
+          "title_zh": "观点｜查韦斯主义政权、委内瑞拉与特朗普",
+          "summary_zh": "华尔街日报发表观点文章，评析委内瑞拉查韦斯主义政权与特朗普政府之间的互动。文章审视马杜罗政权在制裁、移民与地区安全议题上的处境，并探讨特朗普对委政策的可能走向——包括是否延续高压制裁、是否调整对反对派的支持力度。作者认为，委内瑞拉既是西半球地缘政治的痛点，也是特朗普展示「美国优先」外交的舞台。文章还论及委内瑞拉石油、移民外流与地区稳定的关联。该评论为理解美委关系在特朗普第二任期的可能演变提供框架，也凸显拉美左翼政权与美国在意识形态与地缘利益上的持续角力。文章同时警示，将复杂的委内瑞拉议题简化为意识形态对抗，可能忽视该国人道危机与区域移民压力的真实维度。",
+          "title_en": "Opinion | The Chavista Regime, Venezuela and Trump - WSJ",
+          "source": "华尔街日报",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTVxSXYzQkdWel9TWnVtNlBLV0dCSnpnSVRTNTVsUmR5VHBUaVlId2UwNXdnVXdpN1VPVm1ENk9CbGxkbk9qQWRtbllONmYtbmNscDN4ajJ2SDVCcnY1dHlFNDlqS1doQVRfdHBkbVF2Q25WOHNtanFQSWRJa21RMExn?oc=5",
+          "published": "2026-07-09 18:10 UTC"
+        },
+        {
+          "id": "4b6f93ddd1aa",
+          "title_zh": "巴西维持12%石油出口税，30天后复审",
+          "summary_zh": "路透社报道，巴西政府决定维持对石油出口征收12%的税率，并计划在30天后对该措施进行复审。此税是巴西在油价波动与财政平衡之间权衡的产物，旨在增加出口环节收入、支撑公共财政，同时避免过快冲击本国石油产业的国际竞争力。业界对该税种的态度分化：政府视其为合理的资源红利回收，油企则担忧削弱出口吸引力并影响投资意愿。报道指出，巴西作为重要产油国，其税制调整牵动全球原油供给预期与炼厂采购策略。30天复审窗口为政策留有余地，也令市场关注后续是否回调或配套出台补偿性安排。对巴西政府而言，如何在油价高位时兼顾财政收入与国内燃料可负担性，始终是一道兼顾民意与预算的难题。",
+          "title_en": "Brazil keeps 12% oil export tax, to review measure in 30 days",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbmhubkh1SDQwLThsSW1ZSXpPM2ZvZTdUN1hzZDZEOTBBQWFLTWlnN3duZF9Zd2FNZzNmSmxJR3JVZjIwRXB2RVF2VnlQQ1Fkelo0YXBOWERwQ1JVYnBCUlQxcHJmalRSd1o3OVdVME12VG9seVdJNnFVNzRnc1VMUVhnU25zNW5WSFpTN0NPN2hGZjlPZ3R4ZXg1Y1NJS2VsYlU3TmNnUDM?oc=5",
+          "published": "2026-07-09 18:00 UTC"
+        },
+        {
+          "id": "45b0db6fcf8d",
+          "title_zh": "特朗普的北约峰会，与其他人的北约峰会",
+          "summary_zh": "纽约时报以对比视角报道本次北约峰会：在特朗普眼中，峰会的成功取决于盟国对防务开支与「美国优先」议程的让步；而在其他成员国看来，峰会关乎跨大西洋团结、对俄威慑与多边机制的存续。文章刻画了特朗普以交易式风格主导会议、将安全承诺与盟国贡献挂钩的做法，以及欧洲领导人在迎合与维系自主之间的艰难平衡。报道认为，峰会折射出北约内部权力结构与叙事的分裂——美国主导性与欧洲战略自主诉求并存。这场峰会既是对同盟凝聚力的压力测试，也预示特朗普第二任期对多边军事同盟的重塑路径。文章认为，峰会余热将长期作用于盟国的安全规划，迫使欧洲在依赖美国与强化自主之间作出更清晰的取舍。",
+          "title_en": "Trump’s NATO Summit, and Everyone Else’s - The New York Times",
+          "source": "纽约时报",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODEzVXBZcl8wNnYzRXdEVDd6Uk5ZUE5xWXRndVhqY0JsYzJEb1p4aEtKeDBjNzQwQkFKc0lIeWk2ZVkzOUNaZ2pteU5EdzQ1Z2tSRFUtMTJ5SnhhUmVhOE1sQjZxdW82TDlqOFZlWkZSOF9DMUNWWXlSYWJZelR6UDk2TQ?oc=5",
+          "published": "2026-07-09 13:42 UTC"
+        },
+        {
+          "id": "0df73a12b963",
+          "title_zh": "巴西下周决定汽油补贴，拟重组农村债务",
+          "summary_zh": "路透社报道，巴西政府将于下周就是否延续汽油补贴作出决定，并同时推进农村债务重组计划。汽油补贴关乎通胀与民生，取消或调整将直接影响居民消费价格，是政府在经济稳定与社会安抚之间的重要权衡；农村债务重组合则旨在缓解农业部门偿债压力、稳定粮食与出口基本盘。两项举措共同体现巴西在财政纪律与政治安抚之间的平衡术。报道指出，农业是巴西经济与出口支柱，债务压力累积已威胁农户现金流。政策走向将影响国内通胀预期、选民政缘以及农产品国际竞争力，亦考验财政部的腾挪空间。在通胀回落与增长放缓并存的环境下，巴西政府的政策空间其实有限，每一项补贴与减免都需在国会博弈与财政红线之间小心翼翼地寻求平衡。",
+          "title_en": "Brazil to decide on gasoline subsidy next week, plans rural debt restructuring",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzlBNEdxV3A2LTNrYXlCY0Z5dHlvTFJYa3ZxQTY3M1hvWXp2QTlnRjFCOUQ2RUhQNXBHZnFoSVRSdU5NSHpiSmh4aVZ6d3VycGFwSzhab01SVWxyVEJ3Mm5XQWVwWHFBelR4TGRFX1dlVTlFZklwZkxnRE5vS0hRN0hxemdQU195bnZZNkFwdDV1Y2hXZk9SRXJ1SmVseG1PR0lLNlphZWxzOEx0M3pnZmUtRWhuTUduVDl3YVFOalI?oc=5",
+          "published": "2026-07-09 13:25 UTC"
+        },
+        {
+          "id": "8189e5f38917",
+          "title_zh": "墨西哥年通胀率降至逾五年最低",
+          "summary_zh": "路透社与彭博社报道，墨西哥年度通胀率降至五年多以来的最低水平，且降幅超出市场预期。这一数据反映出墨西哥央行此前紧缩周期与内需放缓的累积效应，也为货币政策转向宽松打开空间。通胀回落有望缓解家庭实际收入压力，并增强消费者与投资者信心；但对央行而言，也需警惕通缩风险与汇率波动。两家媒体指出，墨西哥在应对美国关税不确定性、供应链重组与比索汇率波动的背景下取得这一成果，凸显其宏观管理的成效。该数据将成为墨西哥央行后续利率决策的关键参考，也影响市场对拉美第二大经济体增长前景的评估。不过，核心通胀与服务价格粘性仍存，墨西哥央行在宽松路径上料将循序渐进，避免通胀反复侵蚀来之不易的治理成果。",
+          "title_en": "Mexico's annual inflation hits lowest level in over five years",
+          "source": "路透社/彭博社",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEtpSGwzdWpIOFlhc2Vjdl9WYjRVd3VBNFFFd0cxdjFpYXpxVUFPZEQzX3c2R3JBdXhORnkydGI1VzA2bzlXRnN5RXVGOWNrVWhFU2V6ZGoyQUl0V0p5SklzOFdVX2xaMVBNeHJsOXByUmN0U0kxaXNpaG1EZFlYWHVubGNUMG81OUM1YVUxa01fbU5IZl9EQnJOd01JTGs?oc=5",
+          "published": "2026-07-09 13:03 UTC"
+        },
+        {
+          "id": "8bfe63764f38",
+          "title_zh": "北约挺过又一场「特朗普风暴」，安卡拉峰会后戒备仍存",
+          "summary_zh": "路透社报道，在安卡拉举行的北约峰会虽已落幕，但盟国在经受又一轮「特朗普风暴」后，仍对后续摩擦保持戒备。报道指，特朗普在会上以强硬的财政与议程要求施压盟友，使会议过程充满张力；尽管最终达成表面共识，深层分歧并未消解。北约成员国担忧特朗普可能以单边行动或条件式承诺冲击同盟一致性，尤其在援乌、对俄威慑与防务开支上。分析认为，本届美国政府的交易式外交正持续考验北约的凝聚力与制度韧性，盟国或在军费、产业链与战略自主上加速自我强化，以应对跨大西洋关系的不确定性。报道提醒，峰会的表面共识难掩结构性分歧，北约的未来或更依赖成员国以实质投入换取制度韧性，而非仅靠领导人的即时默契。",
+          "title_en": "NATO weathers another Trump storm but braces for more after Ankara summit",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTllzSTJITGFzb0xiZWJYOFZhR1gydnktNG81STlqTWxSbFUyYTgwYXl1WDd4YlNOSFFUOWNyVXlwQjlLeTVOeVFhaENjUFh3UGxnN0xfXzZkVU9qcXh1VkY3ZTZZdXBSekxldHNCTHBWbGZ6RWhTdjZzQjZIV0w5bDRxZGRRQ25jX2RER2ItZ2ZOY04xV1hnZjJKSVRHSm9US0hjZGZYY3haWWZNVUplbzF6aUFOeWE1dXF5QzJ3dWdXRS1PbDJR?oc=5",
+          "published": "2026-07-09 10:32 UTC"
+        },
+        {
+          "id": "beb20ca308f5",
+          "title_zh": "藤森遗产折射特朗普在秘鲁「反华」攻势的局限",
+          "summary_zh": "彭博社评论指出，秘鲁前总统藤森的政治遗产，凸显特朗普政府在该国推动「反华」议程时面临的局限。秘鲁虽为美国在拉美的传统伙伴，但其对华经贸依赖深厚，在基础设施、矿业与融资上对中方需求显著，使华盛顿难以简单施压其选边。文章分析，藤森时代留下的制度与外交遗产，叠加秘鲁当前的经济现实，削弱了美国以意识形态划线、要求盟友对华脱钩的号召力。报道折射出拉美国家在中美博弈中奉行务实平衡外交的普遍倾向，也提示美国的区域影响力需以投资与合作为支撑，而非仅靠政治施压，否则恐在资源竞争中处于下风。文章由此提醒，美国若要维系在西半球的影响力，须以可落地的投资与多边合作替代单边施压，方能真正赢得区域国家的长期靠拢。",
+          "title_en": "Fujimori Legacy Shows Limits of Trump’s Push Against China in Peru - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHVrMWg1UWJud05QY0JGSFZEQlN6TFpZYmNLQXZraTRzeFZUbGg1ZHJfSFJPWFItYTJEX0RZMm9JLU44ZEdNR0t2RWNzWUdKeXdzemFldHNJOVNjN296YjRYTkVCY3hfTGZ2SXEtS2liQzE5UlZsNnA4dFVYUURfN1c4TmEtbmRET0poSlh0bm1NVmhTUWhFSHRTTkRWMVJDVjB0cUJGVnVuSE0wbGdOQVpqQUE5SmFG?oc=5",
+          "published": "2026-07-09 09:00 UTC"
+        },
+        {
+          "id": "1a55ced4f896",
+          "title_zh": "毒品暴力与财政风险，考验特朗普的哥伦比亚新盟友",
+          "summary_zh": "彭博社报道，毒品暴力与财政风险正摆在特朗普政府新近靠拢的哥伦比亚政治力量面前，构成现实考验。哥伦比亚长期受贩毒集团与安全危机困扰，同时公共财政承压、增长乏力，使任何执政联盟都面临治理难题。文章指出，特朗普倾向以安全与反毒议题界定与哥伦比亚的关系，但哥方在治安、司法与经济重建上的短板，限制了美哥合作的可兑现空间。报道还提示，美国若仅以政治立场划线、忽视哥国结构性挑战，恐难以收获稳定的区域盟友。该评估折射出拉美安全治理的复杂性，以及美国在西半球推行「优先」外交时须面对的地缘与现实约束。报道最后指出，安全与财政双重压力若处理不当，可能反噬美国试图构筑的区域伙伴网络，使原本的政治红利转为治理负担。",
+          "title_en": "Narco Violence, Fiscal Risk Await Trump’s New Colombian Ally - Bloomberg.com",
+          "source": "彭博社",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHZJNnFwdEh6NklfdnRqa09YWUY2NTQzT3dzUmwwNXBMLS1GUzJRUmNvd1JYOWJXRG9OclhJZVdUMVJ1QmxIVDFlM1pZSFVaLW5PWFRKQ0hsNmt3WVZnQ2RTUVJEcWNIVWRBVEdFaDd5b2xEQzlhRERDZzExTzgxZUFibmlSM2REUWtSeXYtQXd1X00zNl9BM1BHU0U0UGF0YTJ3UWE3a0pVdXkxRi1aNVpyODA1d3djX2l6ZVdHTVdsdnZYaFR6N3VpaFpGQQ?oc=5",
+          "published": "2026-07-09 09:00 UTC"
+        },
+        {
+          "id": "3fd8a295cb72",
+          "title_zh": "特朗普否认曾劝阻委内瑞拉反对派领袖勿回国",
+          "summary_zh": "路透社报道，美国总统特朗普否认曾劝阻委内瑞拉反对派领袖玛丽亚·科里娜·马查多（María Corina Machado）不要返回本国。马查多是委内瑞拉反对派核心人物，长期遭现政府限制与打压，其能否安全回国牵动该国政治走向与美委关系。此前有报道称美方曾表态不会阻止其返乡，特朗普此番否认则意在撇清对其行程的干预。分析认为，美方在委内瑞拉议题上的姿态既有对反对派的支持信号，也显露避免直接卷入的克制。委内瑞拉政局复杂、多方博弈交织，马查多返乡前景仍充满变数，并将持续牵动拉美地缘格局。在美委关系敏感微妙的当下，任何涉及反对派领袖的表态都可能被放大解读，进而牵动制裁、能源与人道援助等多条政策线索。",
+          "title_en": "Trump denies telling Venezuela opposition leader not to return",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQa1pJV25FckdTWUcyYzlTVEZKX2REV0RfLTJyRU5MU0FRaWhGbkpLUnhxNlhQRGN4WER3aVRqNTlMZ0FKQWZyUTBneF9PV3NBZmZzNTRfRlNzaTNXSlZ6YjFMMzFZb1U?oc=5",
+          "published": "2026-07-09 07:52 UTC"
+        },
+        {
+          "id": "87b9d7cd76d7",
+          "title_zh": "墨西哥调查FBI在「El Mayo」被捕中可能扮演的角色",
+          "summary_zh": "纽约时报报道，墨西哥方面正在调查美国联邦调查局（FBI）在毒枭「El Mayo」伊斯梅尔·赞巴达（Ismael \"El Mayo\" Zambada）被捕事件中可能扮演的角色。赞巴达是锡纳罗亚贩毒集团联合创始人，其此前在美被捕引发墨方对美方是否设局、是否越境执法的质疑。墨政府关注本国主权与司法管辖是否受侵蚀，并审视被捕过程的合规性与政治动机。报道指出，该调查折射出墨美在禁毒合作上的深层不互信：美方强调执法成果，墨方则警惕行动损害双边关系与国内政治稳定。事件持续考验两国安全协作的边界与互信基础。分析认为，若调查进一步披露美方操作细节，或将在墨西哥国内激起更强主权情绪，给本就脆弱的墨美安全框架增添变数。",
+          "title_en": "Mexico Investigates Possible F.B.I. Role in El Mayo Arrest - The New York Times",
+          "source": "纽约时报",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmZOc0hkaHpHMW13QVlVUUl0OFU0T19Ub0M5UlFzZWQ4ZHNpUjMwa0VYWGk5QjhwTDM3WDdNZnoxZ2NwSXVfOUkzckxQb3NJOHBBaWx6dVdNc0NqUHR5THV0Vjg3b1VDRS12d2hnb2g0d2hBNVpKUkZRYk92YVEyTlpoWHFpNGFPRG1N?oc=5",
+          "published": "2026-07-09 07:13 UTC"
+        },
+        {
+          "id": "2669db1181f9",
+          "title_zh": "告别TACO：特朗普最好的墨西哥食物缩写是TAMALES",
+          "summary_zh": "路透社以轻松笔调报道，在「TACO」——即「Trump Always Chickens Out（特朗普总是退缩）」——这一调侃特朗普贸易政策的缩写流行后，白宫抛出了自己的墨西哥食物谐音梗「TAMALES」。报道以戏谑方式呈现特朗普阵营将批评话语转化为政治营销的熟练手法，借墨西哥饮食文化制造亲拉美、亲协议的叙事氛围。文章指出，这类措辞游戏虽属政治娱乐，却折射出贸易政策沟通的高度符号化：市场与舆论以缩写解构政策可信度，而白宫则以新梗反将一军。报道在幽默之外，也提示特朗普贸易议程的不可预测性仍是投资者与盟友关注的核心变量。",
+          "title_en": "Forget TACO. Trump's best Mexican food acronym is TAMALES",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVlCTE1xSndQd2lBWjRreFBZa1JLTGliSWlweWprR2xYMS1OeE5pc2ZCLUE5VzJadUIwUWRhdXpya3dFYkFGMmY1eDB1cDV6ZkFXZnNOZFVGSGlvNmRMSEtTVC1PRmx5TWoxU1dkRDVtLWc5SWdOb0RvTENKR3N1a2FETVlUY3ZTS0ZQa0lNb0VtMnE1VEdUa1lzOVBfMXR4ZzI1VVhCQUtIbTRCX1lpZjJIMDREcm02WmR2M2ppSjdKUQ?oc=5",
+          "published": "2026-07-09 05:25 UTC"
+        },
+        {
+          "id": "dd162d52826a",
+          "title_zh": "北约峰会后返程，特朗普在英国换机前往华盛顿",
+          "summary_zh": "路透社报道，在北约峰会结束后返程途中，美国总统特朗普因故在英国更换专机，随后继续飞往华盛顿。这一插曲被媒体以纪实笔法记录，凸显峰会行程的紧凑与后勤安排的偶然性。报道虽聚焦行程细节，但也从侧面反映特朗普高密度外交活动下的运作节奏。结合峰会期间特朗普在防务开支、格陵兰等议题上的表态，此次换机事件成为外界观察美国总统欧洲之行的注脚之一。分析认为，此类幕后细节虽不影响政策实质，却常被用以刻画领导人的行事风格与外交姿态，也为理解本届政府的峰会叙事提供花絮式素材。尽管只是行程插曲，它仍被外界视为观察美国总统外交风格与后勤运作的窗口，凸显当代政治报道对细节叙事的高度敏感。",
+          "title_en": "Trump switches planes in UK en route to Washington after NATO summit",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RdG85X181Y0lhVnpMMEJVbnhweWl3YkFuRm5yYVdFaXh3YmpCTVllWHRRSF9Zb1I4cFZBc3ZSVDRMQ1VHNFFERG5jSnZjWnlIYTB2VFNldmhISW15YUFsaFhvWVJ1dw?oc=5",
+          "published": "2026-07-09 05:14 UTC"
+        },
+        {
+          "id": "110a00e7e2b7",
+          "title_zh": "特朗普在北约称「格陵兰对我们是大问题」",
+          "summary_zh": "路透社报道，美国总统特朗普在北约场合再度提及格陵兰，称其为「对我们而言的大问题」。格陵兰作为丹麦自治领地，战略位置重要、资源丰富，特朗普此前曾表达过对其控制或购买的兴趣，引发丹麦与欧洲盟友不安。此番表态延续了他对北极地缘与资源议程的执着，也被解读为向欧洲盟国施压、将安全议题与资源诉求挂钩的信号。报道指出，格陵兰议题触及北约内部主权敏感神经，凸显美国对北极航道与矿产的战略雄心。分析认为，特朗普将格陵兰反复置于多边场合，意在强化「美国优先」下的资源与安全议程，也令盟国对主权边界的担忧升温。分析认为，格陵兰议题的反复提出，既是对欧洲盟友的战略试探，也折射出北极正从地缘边缘走向大国资源与安全竞争的中心舞台。",
+          "title_en": "'Greenland is a big problem for us,' Trump says at NATO",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVnRnWVlYZ050SHZsNHhYTXhCam5ZTFRkZXYyTzFhVEEzalJ3TWViQkVDdnZvb04yQTNNN3ZEeUVKZjJzYUx6Q0sweWhyWUYtcDJCeVA5b0txNVpudGt0U3BHMWo5Qzg?oc=5",
+          "published": "2026-07-09 05:12 UTC"
+        },
+        {
+          "id": "420226c1b716",
+          "title_zh": "ICE休斯顿致命枪击引发震荡，墨西哥誓言采取法律措施",
+          "summary_zh": "华盛顿邮报、纽约时报、路透社与美联社多家媒体集中报道：美国移民与海关执法局（ICE）特工在休斯顿开枪，导致一名墨西哥男子死亡，事后调查显示死者并非预定目标。事件在休斯顿「小墨西哥」拉丁社区引发抗议与恐慌，墨西哥政府就本国公民在美执法中死亡向美方提出刑事控告，总统誓言采取「法律措施」维权。报道揭示事件暴露的执法过度、种族紧张与移民执法争议。多家媒体从社区创伤、墨美外交反应与ICE问责等角度展开，凸显美国移民执法的高风险与政治敏感性。此案或成移民政策辩论焦点，并加剧墨美在公民权益与执法边界上的外交摩擦。",
+          "title_en": "Mexico’s president vows ‘legal measures’ after immigrant fatally shot by ICE - The Washington Post",
+          "source": "华盛顿邮报/纽约时报/路透社/美联社",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzc1a3BjM3hOQTFDQTdvUXVBLVNGM05EN0xMTkdRU0FmaHVwVU1tZXBDZ2l0ZGFDNGpSQ0xERndLSTRiZEhzY2NBSE9Ic3B6ODJlZW1QOC11UmhkVTE5OWk1NDJyM1FQMzF5ZXBaV2FuR25UZDRsS1g4bHFJaXJsZHkxZEQzSnJHckpjVjBQNlF6M3lBSy1FcU9PVVhuQzhObWpDcnhNTnpxZUktSWxVdThyeWY3UUQ4VGg5RjdB?oc=5",
+          "published": "2026-07-09 04:20 UTC"
+        }
+      ]
+    }
+  }
+}
