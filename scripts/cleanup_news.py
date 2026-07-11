@@ -11,6 +11,10 @@ from collections import Counter
 REMOVE_TITLES_KEYWORDS = [
     'messi', 'box score', 'game in miami', 'colombia clash', 'colombia fans',
     'profile and biography', 'rate the player', 'copa america', 'welsh teens arrested',
+    'camilo duran', 'celtic complete',
+    # 明显越界（非科技/美洲时政）
+    'bavi', 'egypt win', 'trending news', 'ryanair',
+    'step up strikes on russia', 'monaco bomb',
 ]
 
 REMOVE_TITLE_PATTERNS = [
@@ -28,35 +32,18 @@ REMOVE_TITLE_PATTERNS = [
     r'indian shares.*open steady',
 ]
 
+# 每日事件组：运营者按当日实际抓取结果更新，确保同一事件跨媒体报道合并为一条
 EVENT_GROUPS = [
     # 科技
-    ("OpenAI/Anthropic限制AI模型", [['openai', 'anthropic', 'limit'], ['openai', 'limits', 'release'], ['openai', 'limits', 'access'], ['openai', 'defer', 'gpt'], ['anthropic', 'mythos'], ['anthropic', 'deal', 'lift'], ['anthropic', 'cleared'], ['anthropic', 'moves toward']]),
-    ("Google限制Meta使用Gemini", [['google', 'limits', 'meta'], ['google caps meta'], ['google', 'meta', 'gemini']]),
-    ("苹果涨价", [['apple', 'raising prices'], ['apple', 'price increases'], ['soaring ipad'], ['apple', 'micron', 'rough summer'], ['week in numbers', 'micron']]),
-    ("芯片商借AI获利", [['chip makers', 'profiting'], ['chip makers', 'ai']]),
-    ("中国网络安全AI追平Anthropic", [['china', 'matched anthropic'], ['china', 'cybersecurity', 'ai race']]),
-    ("PC/主机涨价", [['tech firms', 'raising pc'], ['pc and console prices']]),
-    ("OpenAI印度业务", [['openai hires uber'], ['openai.*india operations']]),
-    ("Firmus与英伟达合作", [['firmus', 'nvidia'], ['firmus', 'ai access']]),
-    ("OpenAI IPO", [['morgan stanley', 'goldman', 'openai'], ['openai', 'ipo', '2027']]),
-    ("政府限制ChatGPT", [['tracking trump', 'chatgpt'], ['feds controlling chatgpt'], ['government', 'restrict', 'chatgpt']]),
-    ("OpenAI内部争论", [['openai', 'mass shootings'], ['debate at openai']]),
-    ("苹果Vision Pro人才流失", [['apple', 'vision pro', 'meade'], ['meade', 'openai']]),
-    ("AI成本考验科技股", [['bloomberg intelligence', 'ai cost'], ['ai cost', 'tech stocks']]),
+    ("苹果起诉OpenAI窃取商业机密", [['apple', 'openai']]),
+    ("SK海力士美国上市首发", [['hynix']]),
+    ("Meta AI图片隐私争议", [['meta', 'image']]),
+    ("南亚科Nanya 2027年资本开支", [['nanya']]),
+    ("美国放宽对阿联酋AI芯片出口管制", [['uae', 'export']]),
     # 美洲时政
-    ("阿根廷内阁辞职", [['argentina cabinet chief'], ["milei.*cabinet chief"]]),
-    ("美墨绝育蝇工厂", [['sterile fly', 'screwworm'], ['screwworm', 'cattle']]),
-    ("特朗普关税欧洲", [['trump', 'tariff', 'europe'], ['trump', 'tariff', 'digital services'], ['trump', '100% tariff']]),
-    ("Julia Letlow初选", [['letlow']]),
-    ("委内瑞拉地震政治", [['venezuela', 'earthquakes'], ['machado', 'venezuela'], ['venezuela', 'quakes']]),
-    ("墨西哥官员线人", [['mexican officials', 'informants']]),
-    ("美墨加协定", [['us-mexico-canada'], ['usmca']]),
-    ("Pemex新CFO", [['mexico', 'pemex'], ['pemex', 'cfo']]),
-    ("DEA芬太尼调查", [['new mexico', 'dea'], ['dea', 'fentanyl']]),
-    ("墨西哥央行会议", [['mexico cenbank'], ['mexico', 'finance ministry', 'trump']]),
-    ("五角大楼任命", [['trump pentagon', 'appointee'], ['pentagon', 'republicans']]),
-    ("特朗普伊朗制裁", [['trump', 'iran sanctions'], ['trump', 'iran', 'u-turn']]),
-    ("巴西经常账户", [['brazil', 'current account']]),
+    ("休斯顿ICE枪击墨裔男子事件", [['ice', 'houston'], ['ice', 'mexican']]),
+    ("美伊同意继续谈判", [['iran', 'talks', 'trump']]),
+    ("特朗普两党住房法案", [['trump', 'housing', 'bill']]),
 ]
 
 
@@ -72,9 +59,10 @@ def should_remove(title):
 
 
 def match_event(title_lower):
+    """按事件组匹配（词边界+可选复数s，避免 'ai' 误中 'said' / 'ice' 误中 'price' / 'image' 漏 'images'）"""
     for event_name, keyword_groups in EVENT_GROUPS:
         for kw_group in keyword_groups:
-            if all(kw in title_lower for kw in kw_group):
+            if all(re.search(r'\b' + re.escape(kw) + r's?\b', title_lower) for kw in kw_group):
                 return event_name
     return None
 
