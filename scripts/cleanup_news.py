@@ -1,24 +1,54 @@
 #!/usr/bin/env python3
 """
-清理脚本 - 移除体育/无关内容 + 同事件多源合并
+清理脚本 - 移除体育/无关内容 + 同事件多源合并 + 板块重分类
 同一事件多篇报道合并为一条，来源合并为「媒体A/媒体B/媒体C」格式
 仅科技 + 美洲时政两个板块
+
+每日事件组与移除列表：由运营者按当日实际抓取结果更新（见 EVENT_GROUPS / REMOVE_*）。
 """
 import json
 import re
 from collections import Counter
 
+# ---------------------------------------------------------------------------
+# 1) 移除列表：与「科技 + 美洲时政」无关的内容
+#    体育赛事、ETF/股票行情页、乌克兰/俄罗斯、西班牙/欧洲、伊朗(非美行动)、
+#    以巴/西岸、孟加拉/津巴布韦、赞比亚(非洲)、彭博/混合轮替稿 等
+# ---------------------------------------------------------------------------
 REMOVE_TITLES_KEYWORDS = [
-    'messi', 'box score', 'game in miami', 'colombia clash', 'colombia fans',
-    'profile and biography', 'rate the player', 'copa america', 'welsh teens arrested',
-    'camilo duran', 'celtic complete',
-    # 明显越界（非科技/美洲时政）
-    'bavi', 'egypt win', 'trending news', 'ryanair',
-    'step up strikes on russia', 'monaco bomb',
+    # 体育
+    'wimbledon', 'cricket', 'konsa', 'chelsea', 'bull run',
+    'nations championship', 'box score', 'messi', 'mega-preview',
+    'soccer', 'colombian soccer', 'quarter-final', 'mitchell out',
+    'argentina win at home over wales',
+    # 股票/ETF 行情页（非新闻）
+    'etf', 'plc', 'sdr', 'bdr', 'octave intelligence',
+    'space exploration technologies corp',
+    'global x asia semiconductor etf', 't-rex 2x long', 'corgi lrcx',
+    # 非美洲地缘（乌克兰/俄罗斯）
+    'ukraine', 'zelenskiy', 'zelensky', 'russian attacks',
+    # 欧洲（西班牙野火等）
+    'wildfire', 'spain',
+    # 伊朗(非美国行动)：霍尔木兹海峡关闭 / 伊朗战事解读（仅移除伊朗单方面行动，
+    # 不含「美国打击伊朗」类美方行动报道，后者保留并归入美洲时政）
+    #  （具体模式见 REMOVE_TITLE_PATTERNS）
+    # 以巴 / 西岸
+    'west bank', 'israeli military', 'israeli settlers',
+    # 亚洲/非洲（无关）
+    'bangladesh', 'zimbabwe', 'zambia',
+    # 外语重复稿（BBC 索马里语版，与英文稿重复）
+    'ku dhawaaqay',
 ]
 
 REMOVE_TITLE_PATTERNS = [
-    r'openai.*advertising.*cannes', r'trump.*trade war.*news guide',
+    # 伊朗(非美国行动)：仅移除伊朗单方面宣布/解读类，保留「美国打击伊朗」美方行动稿
+    r'iran declares strait of hormuz',
+    r'irgc navy says strait of hormuz',
+    r'iran war: what is happening in the strait',
+    # 彭博混合轮替稿（多主题拼凑，非单事件报道）
+    r'iran rejects us talks.*apple sues openai',
+    r"trump threatens to .?decimate.? iran, apple sues openai, more",
+    # 其他已知越界内容
     r'wpi conversation', r'psni officer', r'takaichi visits',
     r'legendary japanese game director', r'kailash pilgrims', r'kenji takano',
     r'immigration wins.*centenarian', r'nato chief.*trump.*doubts',
@@ -32,18 +62,42 @@ REMOVE_TITLE_PATTERNS = [
     r'indian shares.*open steady',
 ]
 
-# 每日事件组：运营者按当日实际抓取结果更新，确保同一事件跨媒体报道合并为一条
+# ---------------------------------------------------------------------------
+# 2) 每日事件组：将同一事件跨媒体报道合并为一条
+#    关键词组用「词边界 + 可选复数 s」匹配，避免 'ai' 误中 'said' 等
+# ---------------------------------------------------------------------------
 EVENT_GROUPS = [
     # 科技
     ("苹果起诉OpenAI窃取商业机密", [['apple', 'openai']]),
-    ("SK海力士美国上市首发", [['hynix']]),
-    ("Meta AI图片隐私争议", [['meta', 'image']]),
-    ("南亚科Nanya 2027年资本开支", [['nanya']]),
-    ("美国放宽对阿联酋AI芯片出口管制", [['uae', 'export']]),
+    ("Meta AI工具自动抓取公开图片引争议", [['meta', 'image'], ['meta', 'ai']]),
+    ("OpenAI安全负责人离职", [['openai', 'safety']]),
     # 美洲时政
-    ("休斯顿ICE枪击墨裔男子事件", [['ice', 'houston'], ['ice', 'mexican']]),
-    ("美伊同意继续谈判", [['iran', 'talks', 'trump']]),
-    ("特朗普两党住房法案", [['trump', 'housing', 'bill']]),
+    ("美国对伊朗发动军事打击", [['iran', 'stri']]),
+    ("委内瑞拉强震", [
+        ['venezuela', 'quake'],
+        ['venezuelan', 'quake'],
+        ['venezuela', 'earthquake'],
+        ['venezuelan', 'earthquake'],
+    ]),
+    ("骄傲男孩案被撤销", [['proud boys']]),
+    ("特朗普政府传讯纽约时报记者", [
+        ['new york times', 'subpoena'],
+        ['times journalists', 'subpoena'],
+        ['air force one', 'subpoena'],
+    ]),
+]
+
+# ---------------------------------------------------------------------------
+# 3) 板块重分类：清理后，按内容将每条归入 tech / americas
+#    含强科技信号 -> tech；其余（美国/拉美政治） -> americas
+# ---------------------------------------------------------------------------
+TECH_PATTERNS = [
+    r'\bai\b', r'artificial intelligence', r'chatgpt', r'openai', r'\bgpt\b',
+    r'anthropic', r'claude', r'gemini', r'\bllm\b', r'machine learning',
+    r'semiconductor', r'\bchip\b', r'tsmc', r'nvidia', r'intel', r'samsung',
+    r'\bamd\b', r'asml', r'qualcomm', r'iphone', r'smartphone', r'galaxy',
+    r'android', r'consumer electronics', r'\b5g\b', r'telecom', r'huawei',
+    r'\bzte\b', r'data center', r'cloud computing', r'cybersecurity', r'\brobot\b',
 ]
 
 
@@ -59,12 +113,22 @@ def should_remove(title):
 
 
 def match_event(title_lower):
-    """按事件组匹配（词边界+可选复数s，避免 'ai' 误中 'said' / 'ice' 误中 'price' / 'image' 漏 'images'）"""
+    """按事件组匹配（词首边界匹配，兼容复数/-ed/派生词：strikes/striking、
+    subpoenaed、Venezuelan、quakes 等）"""
     for event_name, keyword_groups in EVENT_GROUPS:
         for kw_group in keyword_groups:
-            if all(re.search(r'\b' + re.escape(kw) + r's?\b', title_lower) for kw in kw_group):
+            if all(re.search(r'(?<!\w)' + re.escape(kw), title_lower) for kw in kw_group):
                 return event_name
     return None
+
+
+def classify_section(title, summary):
+    """重分类到 tech / americas"""
+    text = (title + ' ' + summary).lower()
+    for pat in TECH_PATTERNS:
+        if re.search(pat, text):
+            return 'tech'
+    return 'americas'
 
 
 def merge_sources(articles):
@@ -77,15 +141,14 @@ def merge_sources(articles):
             filtered.append(art)
     print(f"  过滤移除: {removed_count} 条")
 
+    # 事件合并（跨板块合并同一事件）
     event_groups = {}
     ungrouped = []
     for art in filtered:
         title_lower = art['title_en'].lower()
         event = match_event(title_lower)
         if event:
-            if event not in event_groups:
-                event_groups[event] = []
-            event_groups[event].append(art)
+            event_groups.setdefault(event, []).append(art)
         else:
             ungrouped.append(art)
 
@@ -108,9 +171,13 @@ def merge_sources(articles):
             merged.append(main)
             merge_count += 1
             print(f"  合并 [{event_name}]: {' + '.join(sources)}")
-
     merged.extend(ungrouped)
     print(f"  事件合并: {merge_count} 组合并，{len(ungrouped)} 条未分组保留")
+
+    # 重分类板块
+    for art in merged:
+        art['section'] = classify_section(art['title_en'], art.get('summary_en', ''))
+
     return merged
 
 
