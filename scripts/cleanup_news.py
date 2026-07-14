@@ -16,22 +16,24 @@ from collections import Counter
 #    以巴/西岸、孟加拉/津巴布韦、赞比亚(非洲)、彭博/混合轮替稿 等
 # ---------------------------------------------------------------------------
 REMOVE_TITLES_KEYWORDS = [
-    # 体育
+    # 体育（足球/橄榄球/网球/高尔夫/棒球/赛车/帆船/奥运）
     'wimbledon', 'cricket', 'konsa', 'chelsea', 'bull run',
     'nations championship', 'box score', 'messi', 'mega-preview',
     'soccer', 'colombian soccer', 'quarter-final', 'mitchell out',
     'argentina win at home over wales',
+    'nascar', 'yankees', 'nationals', 'world sailing', 'olympic',
+    'lautaro', 'martinez', 'jim gracey', 'sports journalist',
+    'evian', 'haeran ryu', 'brooke henderson', 'golf', 'zverev',
+    'fifa', 'england win', 'argentina get ready', 'fans in london',
+    'scaloni', 'switzerland', 'var rule', 'andy burnham', 'kumuu ahaa',
     # 股票/ETF 行情页（非新闻）
     'etf', 'plc', 'sdr', 'bdr', 'octave intelligence',
     'space exploration technologies corp',
     'global x asia semiconductor etf', 't-rex 2x long', 'corgi lrcx',
-    # 非美洲地缘（乌克兰/俄罗斯）
+    # 非美洲地缘（乌克兰/俄罗斯/欧洲/英国/西班牙/澳洲/亚太）
     'ukraine', 'zelenskiy', 'zelensky', 'russian attacks',
-    # 欧洲（西班牙野火等）
-    'wildfire', 'spain',
-    # 伊朗(非美国行动)：霍尔木兹海峡关闭 / 伊朗战事解读（仅移除伊朗单方面行动，
-    # 不含「美国打击伊朗」类美方行动报道，后者保留并归入美洲时政）
-    #  （具体模式见 REMOVE_TITLE_PATTERNS）
+    'wildfire', 'spain', 'gibraltar', 'australia', 'superannuation',
+    'typhoon', 'bavi', 'china',
     # 以巴 / 西岸
     'west bank', 'israeli military', 'israeli settlers',
     # 亚洲/非洲（无关）
@@ -45,6 +47,10 @@ REMOVE_TITLE_PATTERNS = [
     r'iran declares strait of hormuz',
     r'irgc navy says strait of hormuz',
     r'iran war: what is happening in the strait',
+    # 彭博混合轮替稿（多主题拼凑，非单事件报道）
+    r'trump remembers lindsey graham, us-iran',
+    # 阿根廷足协邮件被黑（体育相关网络事件，非科技主线）
+    r'argentina investigating cyberattack',
     # 彭博混合轮替稿（多主题拼凑，非单事件报道）
     r'iran rejects us talks.*apple sues openai',
     r"trump threatens to .?decimate.? iran, apple sues openai, more",
@@ -67,23 +73,26 @@ REMOVE_TITLE_PATTERNS = [
 #    关键词组用「词边界 + 可选复数 s」匹配，避免 'ai' 误中 'said' 等
 # ---------------------------------------------------------------------------
 EVENT_GROUPS = [
-    # 科技
-    ("苹果起诉OpenAI窃取商业机密", [['apple', 'openai']]),
-    ("Meta AI工具自动抓取公开图片引争议", [['meta', 'image'], ['meta', 'ai']]),
-    ("OpenAI安全负责人离职", [['openai', 'safety']]),
-    # 美洲时政
-    ("美国对伊朗发动军事打击", [['iran', 'stri']]),
+    # 美洲时政：林赛·格雷厄姆逝世（多源合并）
+    ("美参议员林赛·格雷厄姆逝世", [
+        ['lindsey', 'graham'],
+        ['graham', 'dies'],
+        ['graham', 'death'],
+        ['graham', 'trump'],
+        ['key', 'ally', 'trump', 'dies'],
+    ]),
+    # 美洲时政：美国对伊朗发动打击 / 霍尔木兹海峡对峙
+    ("美国对伊朗发动打击 霍尔木兹海峡对峙升级", [
+        ['iran', 'stri'],
+        ['strait', 'hormuz'],
+        ['us', 'iran'],
+    ]),
+    # 美洲时政：委内瑞拉强震
     ("委内瑞拉强震", [
         ['venezuela', 'quake'],
         ['venezuelan', 'quake'],
         ['venezuela', 'earthquake'],
         ['venezuelan', 'earthquake'],
-    ]),
-    ("骄傲男孩案被撤销", [['proud boys']]),
-    ("特朗普政府传讯纽约时报记者", [
-        ['new york times', 'subpoena'],
-        ['times journalists', 'subpoena'],
-        ['air force one', 'subpoena'],
     ]),
 ]
 
