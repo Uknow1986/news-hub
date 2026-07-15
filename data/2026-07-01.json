@@ -13,7 +13,7 @@
           "summary_zh": "彭博社报道，围绕AI公司Anthropic旗下Mythos模型的风波，揭示了前沿AI技术带来的新型网络安全风险。Mythos事件暴露出AI模型在被恶意利用时，可能成为网络攻击的放大器，包括自动化钓鱼攻击、漏洞挖掘和社会工程学攻击等。安全研究人员发现，具备强大推理能力的AI模型能够生成更具欺骗性的攻击载荷，大幅降低了网络犯罪的门槛。这一事件引发了对AI安全治理的广泛讨论，监管机构正考虑对前沿模型实施更严格的安全审查和红队测试要求。业界担心，随着AI能力持续提升，网络攻防的天平可能进一步向攻击者倾斜，企业需要重新评估安全架构。事件也凸显了AI公司在发布模型前进行充分安全评估的重要性，行业呼唤建立统一的安全基准。",
           "title_en": "What the Saga Over Anthropic’s Mythos Tells Us About the Cyber Risks From AI - Bloomberg.com",
           "source": "彭博社/路透社",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHZTa2xpSEYyY09ESm1YeUEydmFSTmJVd3lzT0YzcG1pUEY3bF9pU1lSSEdMRzFsRFFxWTNPS2VaaGVKWkktSmlSOWZtWXJwbEYwQjdEQW4tX0lXcFlPMGdlLWpibWxRakk3QjNvWGhnRnZ3cEdiVGlXbVJFRUM2UnJKVVgyNHJtUlItcThucXd4ZzN1RVl1T3VoTVZCaEIxUndzM2cyOWgyUTd1bjZvMmVsUlM1aVlzankybTMzOWt5YTJBR0E?oc=5",
+          "url": "https://news.google.com/articles/CBMixgFBVV95cUxQaHZTa2xpSEYyY09ESm1YeUEydmFSTmJVd3lzT0YzcG1pUEY3bF9pU1lSSEdMRzFsRFFxWTNPS2VaaGVKWkktSmlSOWZtWXJwbEYwQjdEQW4tX0lXcFlPMGdlLWpibWxRakk3QjNvWGhnRnZ3cEdiVGlXbVJFRUM2UnJKVVgyNHJtUlItcThucXd4ZzN1RVl1T3VoTVZCaEIxUndzM2cyOWgyUTd1bjZvMmVsUlM1aVlzankybTMzOWt5YTJBR0E?oc=5",
           "published": "2026-06-30 08:52 UTC"
         },
         {
@@ -22,7 +22,7 @@
           "summary_zh": "华盛顿邮报报道，白宫宣布取消对Anthropic公司AI模型实施的限制措施，结束为期两周的禁令。此前美国政府以国家安全为由，限制Anthropic部分前沿模型的访问权限，引发科技行业和学术界强烈反弹。禁令期间，依赖Claude模型的研究机构和企业研发受到严重影响，多项AI应用项目被迫暂停。Anthropic与政府进行了密集谈判，承诺加强模型安全评估和滥用防范机制，最终达成恢复访问的协议。此次事件反映出美国政府在AI国家安全管控与产业创新之间寻求平衡的艰难努力，也为AI行业监管树立了重要先例。分析人士指出，短期内政府与AI公司的博弈仍将持续，类似的限制措施可能反复出现，企业需要建立应对政策不确定性的合规体系，同时行业呼吁建立更透明的监管框架。",
           "title_en": "White House drops restrictions on Anthropic AI models after two-week ban - The Washington Post",
           "source": "华盛顿邮报",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGxKSHlWcTR3cGdaeElyeVdvZmlUUERGd1FucHVMNHhYWWhOc1hrVTdkZ2FCUUI4MFJlakYxMWlhUlZVclVWcE03a3lqSXF6eWVuTHA3THhWQnMzc1FhNHZGQjY0azl5TmxfdzJ3WW1HenhGVUZzc3RpMVh1aU1GemNJMEpvQnlZbk0yVDVCaG9pNVhsaW16cERUUWRFVHdjWDJTOURZdEd6Mi1xdFgxRk5WSDRaOXZod1dlZGZn?oc=5",
+          "url": "https://news.google.com/articles/CBMivgFBVV95cUxOeGxKSHlWcTR3cGdaeElyeVdvZmlUUERGd1FucHVMNHhYWWhOc1hrVTdkZ2FCUUI4MFJlakYxMWlhUlZVclVWcE03a3lqSXF6eWVuTHA3THhWQnMzc1FhNHZGQjY0azl5TmxfdzJ3WW1HenhGVUZzc3RpMVh1aU1GemNJMEpvQnlZbk0yVDVCaG9pNVhsaW16cERUUWRFVHdjWDJTOURZdEd6Mi1xdFgxRk5WSDRaOXZod1dlZGZn?oc=5",
           "published": "2026-07-01 01:09 UTC"
         },
         {
@@ -31,7 +31,7 @@
           "summary_zh": "BBC报道，澳大利亚竞争与消费者委员会（ACCC）对亚马逊提起诉讼，指控其与Prime等订阅服务用户签订的合同包含不公平条款，违反澳大利亚消费者法。ACCC认为，亚马逊在订阅条款中设置单方面修改费用、自动续费难以取消、以及限制用户救济权利等条款，严重损害消费者权益。这是澳大利亚监管机构对全球科技巨头消费者权益保护的又一次重要行动。亚马逊表示将积极应诉，并称其条款符合当地法律。近年来澳大利亚在数字平台监管方面态度强硬，已先后对Google、Meta等公司采取执法行动。本案结果将为全球订阅制服务的合同条款合规性树立重要参考，也可能促使其他司法管辖区加强类似审查。澳大利亚一直走在全球数字监管前沿，本案备受国际关注。",
           "title_en": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
           "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZDJ5ZzBTa3pfR2pIMEM5OGRSNUZMVXlDX0I1MXRlRUlRNm1sZ0FmUUpwWXpaLXJuaFktYnlkNDNpbTNwMkpXODlNWng5WmYzS2JBWWdKRU5BZw?oc=5",
+          "url": "https://news.google.com/articles/CBMiWkFVX3lxTE9PZDJ5ZzBTa3pfR2pIMEM5OGRSNUZMVXlDX0I1MXRlRUlRNm1sZ0FmUUpwWXpaLXJuaFktYnlkNDNpbTNwMkpXODlNWng5WmYzS2JBWWdKRU5BZw?oc=5",
           "published": "2026-07-01 01:04 UTC"
         },
         {
@@ -40,7 +40,7 @@
           "summary_zh": "彭博社报道，受全球AI热潮带动芯片需求激增影响，韩国出口持续保持强劲增长态势。作为全球半导体出口大国，韩国6月出口数据显示，芯片出口同比增长超过30%，连续多月创历史新高，成为拉动整体出口增长的核心动力。三星电子和SK海力士的HBM高带宽存储芯片和AI加速器订单饱满，产能利用率维持高位。AI基础设施建设浪潮是本轮芯片需求爆发的根本驱动，全球科技巨头纷纷加大AI算力投入。出口强劲为韩国经济提供重要支撑，但也带来对单一产业依赖加深的担忧。韩元汇率相对稳定也有助于出口竞争力。分析人士警告，若AI投资周期见顶或中美贸易摩擦升级，韩国出口可能面临回调压力，需警惕周期性风险。",
           "title_en": "S. Korea’s Exports Stay Strong as AI Boom Fuels Chips Demand - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXVXLXViMGRzRmhnRDVNdDYwMUx6RVZORjVZRkNoNEJFczNZWXlvU3I1bzJibTVnSkl1MkhjSXQ4dTcwbUw4Y1NfcHVrYWMxOGMyODI5Q0NVVmY4V0NRTjlSYzllalBkSkFsWWhQdXo0QXM3NzA4ZUNEbHZyRHl2VGRtYUs5MnZjM2M4Tk1JdjFUU3NuZWo4VGNfMjV6X20zRnJHMVlyOXZ2eklubjln?oc=5",
+          "url": "https://news.google.com/articles/CBMirwFBVV95cUxQNXVXLXViMGRzRmhnRDVNdDYwMUx6RVZORjVZRkNoNEJFczNZWXlvU3I1bzJibTVnSkl1MkhjSXQ4dTcwbUw4Y1NfcHVrYWMxOGMyODI5Q0NVVmY4V0NRTjlSYzllalBkSkFsWWhQdXo0QXM3NzA4ZUNEbHZyRHl2VGRtYUs5MnZjM2M4Tk1JdjFUU3NuZWo4VGNfMjV6X20zRnJHMVlyOXZ2eklubjln?oc=5",
           "published": "2026-07-01 00:32 UTC"
         },
         {
@@ -49,7 +49,7 @@
           "summary_zh": "华尔街日报报道，AI公司Anthropic与特朗普政府达成协议，恢复其Fable AI模型的用户访问权限。此前白宫以国家安全考量为由，对Fable模型实施为期两周的访问限制，引发行业震动。协议内容包括Anthropic承诺加强模型安全测试、建立滥用监测机制，并配合政府的安全审查要求。Fable是Anthropic最新推出的多模态前沿模型，在推理和内容生成方面能力突出，被广泛应用于企业和研究机构。此次协议的达成标志着政府与AI公司在安全管控上找到临时平衡点，但根本性的监管框架争议仍未解决。业界普遍认为，AI模型出口和安全管控将成为常态化议题，企业需建立专门的政府合规团队。事件也加速了行业对AI安全标准的讨论。",
           "title_en": "Anthropic Reaches Deal With Trump Administration to Restore Access to Fable AI Model - WSJ",
           "source": "华尔街日报",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmVjU1BXaDgyaWRiOUh5LTB0NTBmWHN3SnptZG9WSThxYUZKLVp4cjRFNnZLNTRZYXBuMERKY3k4X0hrSWtxX2tmMFlTbkloMHRqX2ViaUdxQWNfaVk5cUpKbW5PM1dyTkU5OC1GbEw3LXh1eHhJRVlLeVlpeUdKQnBReDNCVlR4NEVPWFR6WDEtVGw1MFZUVmpxRnF4dzNySVJ3aTdycTBkRWQ3MzBQMDNvbUJPS0ljZVdR?oc=5",
+          "url": "https://news.google.com/articles/CBMiuwFBVV95cUxNZmVjU1BXaDgyaWRiOUh5LTB0NTBmWHN3SnptZG9WSThxYUZKLVp4cjRFNnZLNTRZYXBuMERKY3k4X0hrSWtxX2tmMFlTbkloMHRqX2ViaUdxQWNfaVk5cUpKbW5PM1dyTkU5OC1GbEw3LXh1eHhJRVlLeVlpeUdKQnBReDNCVlR4NEVPWFR6WDEtVGw1MFZUVmpxRnF4dzNySVJ3aTdycTBkRWQ3MzBQMDNvbUJPS0ljZVdR?oc=5",
           "published": "2026-07-01 00:02 UTC"
         },
         {
@@ -58,7 +58,7 @@
           "summary_zh": "美联社报道，OpenAI题材电影《Artificial》在被亚马逊放弃发行后，找到新东家Neon接手。该片以OpenAI公司的发展历程和内部故事为素材，探讨AI革命背后的人物与冲突。亚马逊此前已签约发行该片，但出于对内容敏感性和商业利益的综合考量突然退出，引发好莱坞对科技公司题材内容边界的讨论。Neon是近年崛起的独立发行商，曾成功发行多部获奖影片，此次接手显示其对新题材的敏锐嗅觉。影片预计将在今年下半年上映，正值AI话题热度持续升温之际，市场关注度较高。OpenAI方面表示支持影片发行，但强调影片为独立创作。事件折射出科技巨头对自身公众形象的高度敏感，以及流媒体行业内容决策的政治化趋势。",
           "title_en": "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
           "source": "美联社",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZqaFlabEQtSzJTaGl0bmJSVFNLaVFtMlMzZzZaSDFJR3F6U2xicTJvV3JuSU1JTG55NzczN2p3OWY0R3o1NGMtVkYwSVZFenpVbE4wTXRtcFZEV3MxZjN1WXBsVmlwbEpJeHd1Y2R4TDZTSlY3OUNlaHFZTzBLQnRyY1lKTzE2X2g4QnQ2U2FOeWM?oc=5",
+          "url": "https://news.google.com/articles/CBMikwFBVV95cUxNeTZqaFlabEQtSzJTaGl0bmJSVFNLaVFtMlMzZzZaSDFJR3F6U2xicTJvV3JuSU1JTG55NzczN2p3OWY0R3o1NGMtVkYwSVZFenpVbE4wTXRtcFZEV3MxZjN1WXBsVmlwbEpJeHd1Y2R4TDZTSlY3OUNlaHFZTzBLQnRyY1lKTzE2X2g4QnQ2U2FOeWM?oc=5",
           "published": "2026-06-30 23:43 UTC"
         },
         {
@@ -67,7 +67,7 @@
           "summary_zh": "纽约时报报道，独立电影发行商Neon宣布买下OpenAI题材电影《Artificial》的发行权，接替此前退出的亚马逊。该片聚焦OpenAI从非营利研究机构到全球最具影响力AI公司之一的戏剧性转变，涵盖山姆·奥特曼的领导故事和公司内部权力斗争。亚马逊的退出被认为与其对AI题材敏感内容的谨慎态度有关，也可能担心与OpenAI的商业竞争关系影响发行中立性。Neon以发行大胆独立影片著称，此次收购被视为对其内容组合的重要补充。影片导演表示将坚持独立视角，呈现AI行业真实面貌。好莱坞密切关注科技巨头题材影片的市场表现，该片的上映将成为检验观众对AI叙事兴趣的重要试金石，也为后续科技题材项目打开空间。",
           "title_en": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It - The New York Times",
           "source": "纽约时报",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaTI1ZGZDeFVVX3NlYnFwTHE4QmxzMkJnZ0RSMkt6cUdYX1FuRklaaXltOC1FZ2ZUNlRycE1DakN2dFBsNXJ3VGxhRk4zM0dvLVBlMWY3UHM1LWN2THU4UFNwdVB2OTh5eHZiVHdLckhEQmg0SG9mZHJ2bTIzNkFfbzgzal9YbGtIeThNeFd6YXpEaVNm?oc=5",
+          "url": "https://news.google.com/articles/CBMilAFBVV95cUxPaTI1ZGZDeFVVX3NlYnFwTHE4QmxzMkJnZ0RSMkt6cUdYX1FuRklaaXltOC1FZ2ZUNlRycE1DakN2dFBsNXJ3VGxhRk4zM0dvLVBlMWY3UHM1LWN2THU4UFNwdVB2OTh5eHZiVHdLckhEQmg0SG9mZHJ2bTIzNkFfbzgzal9YbGtIeThNeFd6YXpEaVNm?oc=5",
           "published": "2026-06-30 23:02 UTC"
         },
         {
@@ -76,7 +76,7 @@
           "summary_zh": "彭博社报道，独立发行商Neon确认将发行此前被亚马逊放弃的OpenAI题材电影《Artificial》。该片讲述OpenAI崛起的故事，是首部以生成式AI浪潮为背景的好莱坞叙事长片。亚马逊在临近发行时退出，业界推测与其对OpenAI竞争关系和内容敏感性的双重顾虑有关。Neon迅速接手，展现了独立发行商在内容选择上的灵活性。影片计划在秋季节季上映，恰逢AI行业话题热度高涨，有望吸引关注科技和商业叙事的观众群体。此次发行权转移也反映出流媒体和传统发行渠道在争夺高话题性内容时的博弈格局。Neon此前以《寄生虫》等影片发行闻名，具备将话题影片转化为票房成功的能力，市场对此次发行期待较高。",
           "title_en": "Neon to Release the OpenAI Film That Amazon Dropped - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWlTM1ZVeTBwVVU0Qms5dHB0U0Foa2dLaHdRQjRraHhNWkU1c09nMGQ3SnBHQ08xaXh2WElxaEZ2Zms2cEZtVDdfX3ZGUFRTLVR4SjlKWUNzMFJjbG16a1l0VWZ3dzhMVGZCN0xOQmM0YVBKcjBxOG5iN1VLRVFpM2NqVlVEaEphMHFNQW5KNHlncGVkWHhMdGl5LUEzMHhzMldCZQ?oc=5",
+          "url": "https://news.google.com/articles/CBMipAFBVV95cUxOeWlTM1ZVeTBwVVU0Qms5dHB0U0Foa2dLaHdRQjRraHhNWkU1c09nMGQ3SnBHQ08xaXh2WElxaEZ2Zms2cEZtVDdfX3ZGUFRTLVR4SjlKWUNzMFJjbG16a1l0VWZ3dzhMVGZCN0xOQmM0YVBKcjBxOG5iN1VLRVFpM2NqVlVEaEphMHFNQW5KNHlncGVkWHhMdGl5LUEzMHhzMldCZQ?oc=5",
           "published": "2026-06-30 22:52 UTC"
         },
         {
@@ -85,7 +85,7 @@
           "summary_zh": "路透社报道，律师事务所表示TikTok同意在加州社交媒体成瘾案审判前与一名青少年原告达成和解。该案是各州检察长对TikTok提起的多起诉讼之一，指控其算法设计故意使青少年上瘾，造成心理健康损害。和解金额未披露，但标志着TikTok在应对美国青少年安全诉讼方面取得重要进展。TikTok面临美国多州类似诉讼，和解策略可能成为其降低法律风险的模板。案件凸显了短视频平台对青少年心理健康影响的持续争议，也反映了美国社会对科技巨头未成年人保护责任的日益关注。国会正在推进的相关立法可能进一步收紧平台责任。TikTok同时面临国家安全审查和强制剥离压力，法律风险叠加使其在美国市场前景更趋复杂，和解可能减少部分不确定性。",
           "title_en": "TikTok to settle with teen plaintiff before California social media trial, law firm says",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGx2dGdJNWdLb09BUF9UZW1WNWkyWFZJdVhNTUdqTUNLeDJTZFZPcW04OEQ1dDlmeTRTNUhvUmE4MTF0NlhXdzhleGJ4bFNNMFJDQVQ0OVo3UnBkR0FMNXdyS2MyeXJHZjRvaWxFblNqUjJadEJXeHlHOXpMQzlOaDdVTkN0RVdZMTE2NnRyYTFnaG5PdnFjQUhaaWxBc2VJeVpIa2M0ZDl6N1pwZlpiV2dQaFlweXJqV2NR?oc=5",
+          "url": "https://news.google.com/articles/CBMiuwFBVV95cUxQcGx2dGdJNWdLb09BUF9UZW1WNWkyWFZJdVhNTUdqTUNLeDJTZFZPcW04OEQ1dDlmeTRTNUhvUmE4MTF0NlhXdzhleGJ4bFNNMFJDQVQ0OVo3UnBkR0FMNXdyS2MyeXJHZjRvaWxFblNqUjJadEJXeHlHOXpMQzlOaDdVTkN0RVdZMTE2NnRyYTFnaG5PdnFjQUhaaWxBc2VJeVpIa2M0ZDl6N1pwZlpiV2dQaFlweXJqV2NR?oc=5",
           "published": "2026-06-30 22:43 UTC"
         },
         {
@@ -94,7 +94,7 @@
           "summary_zh": "路透社报道，三星电子和SK海力士在韩国的大规模芯片投资计划，正考验着市场对AI周期持续性的乐观预期。两家公司合计承诺数千亿美元投资于先进制程产能和HBM高带宽存储芯片，押注AI基础设施需求将长期增长。然而，AI芯片库存开始累积，部分下游需求出现放缓迹象，引发对投资回报的担忧。韩国半导体产业高度依赖全球科技周期，历史经验显示周期逆转可能造成巨额资产减值。三星和SK的投资规模远超以往周期，若AI需求不及预期，产能过剩风险显著。同时，中美芯片出口管制和地缘政治不确定性也是重要变量。投资者密切关注订单簿和库存数据，以判断AI周期的健康度。韩国政府的产业政策支持为投资提供了缓冲。",
           "title_en": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMk1zekxDdlhicFlKSXppbTBDQk9TaTFwX04wUnNiWFVsWm45aUQ2ckt4R2Nhbm12NFViN2FDa2t3anBJOXZ0QTdqUnBkelNqSVpTaXdPYnlyYkVMQldEVENpVU16dUt6eGZSLXlXY0g1b3hlZXBTeUlHTno2MGoxQnp6M3hiXzJKdnRMNEJxbzljN25MVDhkUTdtYWdOMDhnWE1mOE02cURBeDJRUTdaNGlVeEh3MWZzVnZmMWN6ZTFqSG9FWVpKN1gyRlU1OWRBZzlpMDBVTmtGSnY1LVE?oc=5",
+          "url": "https://news.google.com/articles/CBMi3gFBVV95cUxQMk1zekxDdlhicFlKSXppbTBDQk9TaTFwX04wUnNiWFVsWm45aUQ2ckt4R2Nhbm12NFViN2FDa2t3anBJOXZ0QTdqUnBkelNqSVpTaXdPYnlyYkVMQldEVENpVU16dUt6eGZSLXlXY0g1b3hlZXBTeUlHTno2MGoxQnp6M3hiXzJKdnRMNEJxbzljN25MVDhkUTdtYWdOMDhnWE1mOE02cURBeDJRUTdaNGlVeEh3MWZzVnZmMWN6ZTFqSG9FWVpKN1gyRlU1OWRBZzlpMDBVTmtGSnY1LVE?oc=5",
           "published": "2026-06-30 22:08 UTC"
         },
         {
@@ -103,7 +103,7 @@
           "summary_zh": "彭博社报道，全球芯片股出现大幅飙升，推动半导体板块成为本季度表现最强的行业之一。英伟达、AMD、ASML等龙头公司股价集体上涨，带动费城半导体指数创阶段新高。本轮芯片股走强的核心驱动是AI基础设施建设浪潮带来的需求爆发，数据中心GPU、HBM存储和先进制程产能供不应求。三星和SK海力士宣布大规模投资计划，进一步提振了设备供应商和产业链信心。分析人士指出，芯片股的强势也反映了市场对AI长期增长故事的认可，资金持续从传统科技股流向半导体板块。然而，估值水平已处于历史高位，获利回吐和周期见顶担忧随时可能引发调整。投资者需关注AI资本开支的可持续性和地缘政治风险对供应链的潜在冲击。",
           "title_en": "Bloomberg Businessweek Daily: Chip Stocks Soar - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVgtNjZ0aTJMWE42ZTZHMWlCTnJGMXJxOEpjTWNBVGxab1Z4VkdHUGtWLXVrelgydm5hbEpDYlIzSDBQT1RuMGN2SDMxUGZseDMycHdMY0RPNU85NkYwUTlHeUFQQzhOWVdZdmlpSFJCVW9kVEFJYmlWeDh3YWJPOWp1S2E2UUJmVmdyb3luYW5xaFZYdXFXd0RKcGlta1dzMVhR?oc=5",
+          "url": "https://news.google.com/articles/CBMiowFBVV95cUxNTVgtNjZ0aTJMWE42ZTZHMWlCTnJGMXJxOEpjTWNBVGxab1Z4VkdHUGtWLXVrelgydm5hbEpDYlIzSDBQT1RuMGN2SDMxUGZseDMycHdMY0RPNU85NkYwUTlHeUFQQzhOWVdZdmlpSFJCVW9kVEFJYmlWeDh3YWJPOWp1S2E2UUJmVmdyb3luYW5xaFZYdXFXd0RKcGlta1dzMVhR?oc=5",
           "published": "2026-06-30 22:00 UTC"
         },
         {
@@ -112,7 +112,7 @@
           "summary_zh": "日经亚洲报道，日本京瓷公司正与卫浴巨头东陶（TOTO）在芯片制造和数据中心用陶瓷部件领域展开激烈竞争。随着先进制程和AI数据中心对高性能陶瓷材料需求激增，两家日本制造商看好这一新兴增长市场。京瓷凭借其在电子陶瓷领域的技术积累，为半导体设备提供精密陶瓷部件，而东陶则利用其精密陶瓷技术进入半导体制造设备供应链。AI数据中心的服务器散热和绝缘需求也为陶瓷材料开辟新应用场景。日本企业在精细陶瓷领域具有全球领先地位，此次竞争被视为传统材料制造商向高科技转型的重要案例。分析人士认为，芯片制造和数据中心基础设施需求将在未来数年持续增长，为陶瓷部件供应商提供稳定增长动力，但市场竞争也将日趋激烈。",
           "title_en": "Kyocera vies with Toto in ceramic parts for chipmaking, data centers",
           "source": "日经亚洲",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlhfNnJMY1FNUFBOdlVncm44LVlKNEwydjk0eV9WaDlqdGpabHBHeU9ZR1IwX29ydURLS1FHdXJCVnhRcWNNSnpLZmRvMjFlbHdFMFVWRVU5VDdWbWJPcGppOHJSUFpmSFJESnhJMDZiZ05XcHVQZ0I3a2pDYVJZdUlfTEQ5RmZXN3NkdjBtN3cwV0gweXM4NXR4d2JzUHlGZWk5dW5aRWl5SGZiLWNMMXZDUks?oc=5",
+          "url": "https://news.google.com/articles/CBMitAFBVV95cUxPSlhfNnJMY1FNUFBOdlVncm44LVlKNEwydjk0eV9WaDlqdGpabHBHeU9ZR1IwX29ydURLS1FHdXJCVnhRcWNNSnpLZmRvMjFlbHdFMFVWRVU5VDdWbWJPcGppOHJSUFpmSFJESnhJMDZiZ05XcHVQZ0I3a2pDYVJZdUlfTEQ5RmZXN3NkdjBtN3cwV0gweXM4NXR4d2JzUHlGZWk5dW5aRWl5SGZiLWNMMXZDUks?oc=5",
           "published": "2026-06-30 21:10 UTC"
         },
         {
@@ -121,7 +121,7 @@
           "summary_zh": "彭博社报道，美国联邦能源监管委员会（FERC）出台的AI数据中心新规，正在推动电网基础设施加速升级。新规要求数据中心运营商与电网公司更紧密协调用电计划，并鼓励建设分布式发电和储能设施。AI数据中心的电力需求呈爆发式增长，单个大型数据中心用电量可达数百兆瓦，相当于一座小型城市，对局部电网构成巨大压力。FERC的新规旨在平衡AI产业发展与电网稳定性，避免重蹈加州停电覆辙。规则推动电网公司加快输电线路升级和智能电网建设，也为可再生能源和核电接入创造条件。业界认为，电力已成为AI产业发展的关键瓶颈，电网升级的速度将直接影响美国AI竞争力。数据中心选址正从电力充裕地区向核电和新能源富集区域转移。",
           "title_en": "US regulator’s AI data center rules nudge grids forward - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUV9fX2RPU1hLMldEeE1KRnN0ejZkYTRGSXM1d0h6OWxJNkhiOVpKNnJOc3dOSFdYd3VPUlJJUTJ5TVFsLWZmZVJpaEF0bGFnVFY3S1pkYjZBUU82ZmJCLUdEYUhrWl9CLTVKNEhOQ1NoWHRSWllGYkwyaW9IUkhKSVJuVHhGcjVIYUEzeWR4NTZXN1h4ZUtrZUJmTkJPZ1ZIVlRFSzd0LXV1RWJkbnByUkpHcTN3V2gyRUNGdjBETHg?oc=5",
+          "url": "https://news.google.com/articles/CBMiwAFBVV95cUxNUV9fX2RPU1hLMldEeE1KRnN0ejZkYTRGSXM1d0h6OWxJNkhiOVpKNnJOc3dOSFdYd3VPUlJJUTJ5TVFsLWZmZVJpaEF0bGFnVFY3S1pkYjZBUU82ZmJCLUdEYUhrWl9CLTVKNEhOQ1NoWHRSWllGYkwyaW9IUkhKSVJuVHhGcjVIYUEzeWR4NTZXN1h4ZUtrZUJmTkJPZ1ZIVlRFSzd0LXV1RWJkbnByUkpHcTN3V2gyRUNGdjBETHg?oc=5",
           "published": "2026-06-30 21:00 UTC"
         },
         {
@@ -130,7 +130,7 @@
           "summary_zh": "路透社报道，美国能源部长公开敦促数据中心产业的支持者积极反击来自环保和社区团体的反对声音。随着AI数据中心大规模建设，电力消耗、水资源使用和噪音污染等问题引发当地社区强烈抵制，多个项目被迫延期或取消。能源部长认为，数据中心是美国AI竞争力的关键基础设施，过度反对将损害国家利益。政府正推动简化数据中心审批流程，并协调电力和水资源供应。反对者则担忧环境负担和电价上涨。这场博弈反映了AI产业发展与传统社区利益、环保诉求之间的深层矛盾。分析人士指出，数据中心选址正成为地方政治敏感议题，产业界需要更积极的环境沟通和社区补偿机制。核电和可再生能源供电成为化解争议的重要方向。",
           "title_en": "US energy chief exhorts data center backers to push back against opponents",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFBsM2JOcEFLMkFsUnoxV2FCZHl3bk1jQk1JWVNQUVVUNzBZc0Y5cFVwWHB5S1NtdWZuakR0ZFk3VmZ0T1NEbUVtU0dwdGVpMnVCOS01M0stZmhWQWtUSzhyeDZIV25LZDBxNGxmTUxhYXpnbjVDZ25nTEhTdHpXTGVNWE1lTVFFYXlQb3R3em9NUlNTZmhyZ0FkWi0xY0JyMDM4dmJzNklWQkpIUnEtMV9fejYza21NTTRZSl9aMnAxZw?oc=5",
+          "url": "https://news.google.com/articles/CBMiwgFBVV95cUxPNFBsM2JOcEFLMkFsUnoxV2FCZHl3bk1jQk1JWVNQUVVUNzBZc0Y5cFVwWHB5S1NtdWZuakR0ZFk3VmZ0T1NEbUVtU0dwdGVpMnVCOS01M0stZmhWQWtUSzhyeDZIV25LZDBxNGxmTUxhYXpnbjVDZ25nTEhTdHpXTGVNWE1lTVFFYXlQb3R3em9NUlNTZmhyZ0FkWi0xY0JyMDM4dmJzNklWQkpIUnEtMV9fejYza21NTTRZSl9aMnAxZw?oc=5",
           "published": "2026-06-30 20:57 UTC"
         },
         {
@@ -139,7 +139,7 @@
           "summary_zh": "路透社报道，美国法院驳回了Meta公司要求撤销多州检察长诉讼的请求，意味着Meta将面临关于Facebook和Instagram故意令青少年上瘾的全面审判。各州指控Meta的算法设计和内容推荐机制系统性地使青少年沉迷，造成焦虑、抑郁等心理健康问题，违反消费者保护法。法院认为各州提供了足够证据显示Meta知情并故意设计成瘾机制，案件应进入事实审理阶段。此案是科技巨头面临的最重要未成年人保护诉讼之一，判决结果可能重塑社交媒体平台的设计责任和算法透明度要求。Meta否认指控，称已推出多项青少年保护工具。案件凸显了算法推荐系统的社会影响和监管需求，国会正在讨论的相关立法可能进一步强化平台责任。赔偿金额可能高达数百亿美元。",
           "title_en": "Meta loses bid to dismiss US states' claims that Facebook, Instagram addict children",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTW1oX1plcXNSQ1ZoOXBJanVnUlhSbjZ3WEcwQ1NrUHUyMDFZa1ZzR2o0VERfX1JYdjdkRXIzVmVSMEthblRwOFJqRGZfalA5bE1Yd0QxeGxfNGltaGZJdnhYeHo1M1NkM0xsamRuY0xVWkk0VGxfZnhna083enVoQkhzdWlhdEZhZXRNVUNPQ0djaDhPSDg5YnVDZmx6YkZxVGtVaU0wNHluMUVSaFREejBMOU4zbVRzMWtuNHVCRWJETHJ4ZWRIWEdlRUI?oc=5",
+          "url": "https://news.google.com/articles/CBMizAFBVV95cUxQTW1oX1plcXNSQ1ZoOXBJanVnUlhSbjZ3WEcwQ1NrUHUyMDFZa1ZzR2o0VERfX1JYdjdkRXIzVmVSMEthblRwOFJqRGZfalA5bE1Yd0QxeGxfNGltaGZJdnhYeHo1M1NkM0xsamRuY0xVWkk0VGxfZnhna083enVoQkhzdWlhdEZhZXRNVUNPQ0djaDhPSDg5YnVDZmx6YkZxVGtVaU0wNHluMUVSaFREejBMOU4zbVRzMWtuNHVCRWJETHJ4ZWRIWEdlRUI?oc=5",
           "published": "2026-06-30 20:23 UTC"
         },
         {
@@ -148,7 +148,7 @@
           "summary_zh": "华盛顿邮报报道，全球核能产业正经历新一轮复兴，AI数据中心爆发式增长的电力需求是核心驱动力。微软、亚马逊、谷歌等科技巨头纷纷签订核电购电协议，甚至考虑直接投资核电站和小型模块化反应堆。核电的稳定基荷供电和零碳排放特性，使其成为满足AI算力需求的首选清洁能源。美国政府在政策上支持核电发展，简化审批流程，鼓励先进反应堆技术商业化。核能复兴也面临挑战，包括建设成本超支、核废料处理和公众接受度问题。小型模块化反应堆被视为破解难题的关键，但商业化进程仍需时间。分析人士认为，AI驱动的电力需求为核能产业提供了数十年来最佳发展机遇，全球核电装机容量有望在未来十年显著增长。铀矿价格已先行上涨。",
           "title_en": "Inside the nuclear renaissance - WP Intelligence",
           "source": "华盛顿邮报",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDdOcVhvVFQzWGFNRzFCSEx5UW9NVkJTZG84T3ZqLXJqcVJnUlNYZjU0WENuX08zSzdCV3pvdjFnSElEdkE5WmNPMTU0eVh1Y0ZsSXE1Wk42ejhkalVnWXhvUXZmSUViSmhjLUxjeFJ5NjZmdXFBeldiSGNiT3NQbXJjN1ZTLUUweWdEWVJlbXp4VDlnTC1qWDE1dnpyeG9UcXhhTGtWX3Njak51WXFMUTJDNVk3cWR0VldCM3hlVjdFZw?oc=5",
+          "url": "https://news.google.com/articles/CBMiwgFBVV95cUxQdDdOcVhvVFQzWGFNRzFCSEx5UW9NVkJTZG84T3ZqLXJqcVJnUlNYZjU0WENuX08zSzdCV3pvdjFnSElEdkE5WmNPMTU0eVh1Y0ZsSXE1Wk42ejhkalVnWXhvUXZmSUViSmhjLUxjeFJ5NjZmdXFBeldiSGNiT3NQbXJjN1ZTLUUweWdEWVJlbXp4VDlnTC1qWDE1dnpyeG9UcXhhTGtWX3Njak51WXFMUTJDNVk3cWR0VldCM3hlVjdFZw?oc=5",
           "published": "2026-06-30 19:15 UTC"
         },
         {
@@ -157,7 +157,7 @@
           "summary_zh": "路透社报道，AI公司Anthropic发布名为「Claude Science」的科学研究专用AI工具，旨在加速科学研究流程。该工具基于Claude模型，针对科研场景进行了专门优化，能够辅助文献综述、实验设计、数据分析和论文写作等任务。Anthropic表示，Claude Science与多家顶级研究机构合作开发，确保其对科学方法论和专业术语的理解准确性。此举标志着AI公司从通用大模型向垂直领域专业化产品延伸的趋势。科研AI工具市场竞争激烈，OpenAI、Google等公司也在推出类似产品。业界关注AI在科研中的可信度和可重复性问题，以及学术伦理边界。Anthropic强调Claude Science定位为研究助手而非替代者，所有输出需研究人员验证。该产品已开放学术机构申请试用。",
           "title_en": "Anthropic unveils 'Claude Science' for scientific research",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVW04WFFFTWxrMWR2WFBhNUZlZGkzV3V4czZ4WE1KV3FDTWNQd19XZGpuM1V4dmw0ZjM2c24zRVhOOFVVLUtzT3lrM19nVDdxNmhuNFlCUTlOMGJvaDE1Rks3ZlZ5c1dKdGtoNVRjbFFCUmxpVEdIWURWWUw4emVfalV0dGVQMGJfYklVQUw5TS1MVWdoLUotSHZJN1lvaktqWXZBeFBEX3NOZHRN?oc=5",
+          "url": "https://news.google.com/articles/CBMirAFBVV95cUxQVW04WFFFTWxrMWR2WFBhNUZlZGkzV3V4czZ4WE1KV3FDTWNQd19XZGpuM1V4dmw0ZjM2c24zRVhOOFVVLUtzT3lrM19nVDdxNmhuNFlCUTlOMGJvaDE1Rks3ZlZ5c1dKdGtoNVRjbFFCUmxpVEdIWURWWUw4emVfalV0dGVQMGJfYklVQUw5TS1MVWdoLUotSHZJN1lvaktqWXZBeFBEX3NOZHRN?oc=5",
           "published": "2026-06-30 18:57 UTC"
         },
         {
@@ -166,7 +166,7 @@
           "summary_zh": "彭博社报道，三星电子和SK海力士宣布大规模芯片投资计划后，ASML等半导体设备股应声飙升。ASML作为全球唯一能制造EUV极紫外光刻机的公司，是先进制程扩产的直接受益者。此外，应用材料、泛林集团等设备商股价也大幅上涨。三星和SK的投资计划涵盖先进逻辑芯片和HBM存储芯片产能扩张，预计将持续数年，对设备需求形成强劲拉动。AI芯片需求是本轮投资的核心驱动，HBM和AI加速器对先进制程依赖度高。设备股的强势也反映出市场对AI周期持续性的信心。然而，设备订单的交货周期较长，短期内业绩兑现有限，估值已反映较高预期。中美芯片出口管制对设备销售的影响仍是重要不确定性因素，投资者需密切关注政策动向。",
           "title_en": "ASML, Chip-Tool Stocks Soar as Samsung, SK Plan Investments - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXdzZFF1bWZzOUNIZnpMVDhROGt1ZGNJZmxKLTVTZ0VkOEpmeGNaQkNISHRDWkxjeGFnUGtEWlFnRERaY0taMjM1T1lON1dnSnpFdDVmLXV4aDBXV21WWTBzSml4X3hiRkRSV0NkUzA2a2dfWDdveUtvU3I0UktObHRRc01wbnBtTVZFemFWbXdwcy1KTHFIcUpYY1BRTC1UMF9JYVI5TWtacUFZ?oc=5",
+          "url": "https://news.google.com/articles/CBMirAFBVV95cUxNaXdzZFF1bWZzOUNIZnpMVDhROGt1ZGNJZmxKLTVTZ0VkOEpmeGNaQkNISHRDWkxjeGFnUGtEWlFnRERaY0taMjM1T1lON1dnSnpFdDVmLXV4aDBXV21WWTBzSml4X3hiRkRSV0NkUzA2a2dfWDdveUtvU3I0UktObHRRc01wbnBtTVZFemFWbXdwcy1KTHFIcUpYY1BRTC1UMF9JYVI5TWtacUFZ?oc=5",
           "published": "2026-06-30 17:18 UTC"
         },
         {
@@ -175,7 +175,7 @@
           "summary_zh": "彭博社报道，彭博情报分析显示，全球芯片股本季度创下历史最佳表现，费城半导体指数涨幅创纪录。英伟达继续领涨，AMD、博通、美光等AI相关芯片股全面走强。本轮芯片股爆发式上涨的核心驱动是AI基础设施建设带来的需求超预期，数据中心GPU和HBM存储芯片供不应求，价格持续上行。三星、SK海力士的大规模投资计划进一步提振了产业链信心。分析人士指出，芯片股本季度表现已超越2023年AI行情高点，但估值水平也处于历史高位。获利回吐和周期见顶的担忧隐现，部分机构开始减仓。投资者需关注AI资本开支的可持续性，以及库存累积和地缘政治风险。短期内，芯片股的波动可能加剧，但AI长期增长逻辑仍未被打破。",
           "title_en": "Bloomberg Intelligence: Chip Stocks’ Best Quarter Ever - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnVxQjZUUEd0Wm1wT1R6SmpqcUVVNnpLOEdoaC04VUF3TUllcl9DeVpERmZxTmxkN2pua2xTXzNFTTV4T1RIY0tfc3NTTzZjZjFIU05IZ0czYmFpb0VYamp1Wk0tMkRROEJLQzVNX1YyM2RMSHlheW1QNjBRUWw5VS1ZZ01qRVlnUXJqSVBGdzd6TlpUV0M2X29kdjB5dUxZMnYtcElwTHhjRHFT?oc=5",
+          "url": "https://news.google.com/articles/CBMirAFBVV95cUxNbnVxQjZUUEd0Wm1wT1R6SmpqcUVVNnpLOEdoaC04VUF3TUllcl9DeVpERmZxTmxkN2pua2xTXzNFTTV4T1RIY0tfc3NTTzZjZjFIU05IZ0czYmFpb0VYamp1Wk0tMkRROEJLQzVNX1YyM2RMSHlheW1QNjBRUWw5VS1ZZ01qRVlnUXJqSVBGdzd6TlpUV0M2X29kdjB5dUxZMnYtcElwTHhjRHFT?oc=5",
           "published": "2026-06-30 17:14 UTC"
         },
         {
@@ -184,7 +184,7 @@
           "summary_zh": "彭博社报道，最新交易日股市表现活跃的个股包括Strategy（原MicroStrategy）、Air Products以及多只芯片股。Strategy股价受比特币价格波动影响大幅震荡，作为持有大量比特币的上市公司，其股价与加密货币走势高度联动。Air Products因业绩超预期和氢能业务进展受到资金追捧。芯片股延续近期强势，英伟达、AMD等AI概念股继续上涨，三星和SK海力士的投资计划提振了产业链信心。分析人士指出，当前市场资金在AI概念、加密货币和能源转型主题之间轮动，板块分化明显。投资者正在消化美联储货币政策前景和企业盈利数据，市场整体维持强势但波动加大。芯片股的高估值和集中度风险引发部分谨慎声音，建议关注基本面和估值匹配度。",
           "title_en": "Stock Movers: Strategy, Air Products, Chip Stocks - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkxjaEpqeHlFaEZGV1RHOGZuZ19QckR5MU4wek15aDZlOHZOcm9hcWdhRmZzcUY4V0R4dW9ESm5PSTE1eXVIQmFJS3pGdzlacFJXSW5IcjFBSGtxRm9MNWFkdGE5Z0hLY2p3Z2ZkTkFyNUZ3UXEza1ZqWks0aUVwSTRUZTBfd3ZUNDNVMXdBZFBBeUJ0azRvWS1nSGZHVHlNN2Yteg?oc=5",
+          "url": "https://news.google.com/articles/CBMipAFBVV95cUxQUkxjaEpqeHlFaEZGV1RHOGZuZ19QckR5MU4wek15aDZlOHZOcm9hcWdhRmZzcUY4V0R4dW9ESm5PSTE1eXVIQmFJS3pGdzlacFJXSW5IcjFBSGtxRm9MNWFkdGE5Z0hLY2p3Z2ZkTkFyNUZ3UXEza1ZqWks0aUVwSTRUZTBfd3ZUNDNVMXdBZFBBeUJ0azRvWS1nSGZHVHlNN2Yteg?oc=5",
           "published": "2026-06-30 17:03 UTC"
         },
         {
@@ -193,7 +193,7 @@
           "summary_zh": "彭博社报道，AI公司Anthropic正式发布Claude Science科研自动化工具，进军科学研究垂直市场。该产品基于Claude前沿模型，针对科研工作流进行优化，可辅助文献分析、实验数据处理、假设生成和论文撰写等任务。Anthropic与多家顶级大学和研究所合作开发，确保工具在专业领域的准确性和可靠性。此举反映AI公司从通用大模型向专业垂直产品延伸的趋势，科研AI市场正成为新竞争热点。OpenAI、Google等竞争对手也在布局科研工具市场。业界关注AI在科研中的可信度、可重复性和伦理边界问题。Anthropic强调Claude Science定位为研究助手，所有结论需研究人员独立验证，并内置了防止学术不端的机制。产品已向学术机构开放申请。",
           "title_en": "Anthropic Releases Claude Science for Automating Research - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3NrTWJRR2R6QkxaNnlHUU44WGZzV25TVW9OZmUxN3JjRGZkN2J0OTB5QTI4SEhfdjlHbzMxbl9SbEVNNXpBdndwNkhRX0RVUk5EeUl5aGtfZ0NNZG1qaWlKNGxrdWpEOUhrUUs4bi14QlRsWXhsRGJWeDhBNENfMkJXSjA4WlRlS3ZHY09jTGZBVHE2VjBMOVJhLXE1cVNWWElBUFhjdzN0b3Jm?oc=5",
+          "url": "https://news.google.com/articles/CBMirAFBVV95cUxQV3NrTWJRR2R6QkxaNnlHUU44WGZzV25TVW9OZmUxN3JjRGZkN2J0OTB5QTI4SEhfdjlHbzMxbl9SbEVNNXpBdndwNkhRX0RVUk5EeUl5aGtfZ0NNZG1qaWlKNGxrdWpEOUhrUUs4bi14QlRsWXhsRGJWeDhBNENfMkJXSjA4WlRlS3ZHY09jTGZBVHE2VjBMOVJhLXE1cVNWWElBUFhjdzN0b3Jm?oc=5",
           "published": "2026-06-30 17:00 UTC"
         },
         {
@@ -202,7 +202,7 @@
           "summary_zh": "路透社报道，法国工业巨头施耐德电气宣布以31亿美元收购挪威AI软件公司Cognite，加码工业AI领域布局。Cognite专注于工业数据分析和AI应用，其Cognite Data Fusion平台为能源、制造等行业提供资产性能管理和运维优化解决方案。施耐德电气希望通过收购补齐工业软件能力，将AI技术嵌入其电气设备和自动化产品组合。交易反映了工业巨头通过并购加速AI转型的趋势，西门子、ABB等竞争对手也在积极布局工业AI。工业AI市场被视为下一个增长点，工厂和能源设施的数字化升级需求旺盛。分析人士认为，施耐德的收购估值合理，协同效应明显，但整合挑战不小。交易预计在年内完成，将增强施耐德在工业软件领域的竞争力。",
           "title_en": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "url": "https://news.google.com/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
           "published": "2026-06-30 16:40 UTC"
         },
         {
@@ -211,7 +211,7 @@
           "summary_zh": "彭博社报道，OpenAI首席经济学家在采访中表示，AI不会成为人类工作者的简单替代品，而是增强生产力的协作工具。他认为AI将自动化部分重复性任务，但也会创造新的工作岗位和需求，整体就业市场将经历结构性调整而非萎缩。这一观点与部分经济学家对AI导致大规模失业的担忧形成对比。OpenAI经济学家的表态也被视为公司塑造AI社会接受度的公关策略。实证证据仍有限，AI对就业的净影响需更长时间观察。不同行业和技能水平的劳动者受影响程度差异显著，白领知识工作者面临的冲击最为直接。政策制定者关注再培训和过渡支持机制。企业界普遍认为，AI采用将改变工作内容而非消除岗位，但转型期的阵痛不容忽视，劳动市场需要适应性调整。",
           "title_en": "AI Won’t Be Substitute for Human Workers, OpenAI Economist Says - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXk3bzdyYnZPWmsyYWZ3R2piM29IN3RwLWRUWmZqcUotdWNpUW9JN05tMHU5Y2xVQjJ6UFdjMklXNzY3UnhBSzNyOElSV2Z0SlEyWDVnLXhIVWZ2ZU5GZ1I0RFM4RWFyVVlJSkh4ZHJWdjBKWHZFX2ZoWlhWcl9ZT29QeHR1T1pSM2lFU3RJNERDZWNtNDlpX3lULTM5dFVOS0JuRWxSRlJEU1YycnpNODZzYw?oc=5",
+          "url": "https://news.google.com/articles/CBMiswFBVV95cUxQYXk3bzdyYnZPWmsyYWZ3R2piM29IN3RwLWRUWmZqcUotdWNpUW9JN05tMHU5Y2xVQjJ6UFdjMklXNzY3UnhBSzNyOElSV2Z0SlEyWDVnLXhIVWZ2ZU5GZ1I0RFM4RWFyVVlJSkh4ZHJWdjBKWHZFX2ZoWlhWcl9ZT29QeHR1T1pSM2lFU3RJNERDZWNtNDlpX3lULTM5dFVOS0JuRWxSRlJEU1YycnpNODZzYw?oc=5",
           "published": "2026-06-30 15:33 UTC"
         },
         {
@@ -220,7 +220,7 @@
           "summary_zh": "路透社报道，以色列自动驾驶公司Autobrains首席执行官表示，公司正瞄准欧洲机器人出租车市场的增长机会。Autobrains采用独特的「白盒」AI架构，相比端到端黑盒模型更易通过监管审查，这在监管严格的欧洲市场具有优势。欧洲多个城市正推进自动驾驶商业化试点，Waymo等美国同行也开始进入欧洲市场。Autobrains认为，欧洲对安全透明度的监管要求为其差异化技术提供机会。机器人出租车市场在经历前几年低谷后重新升温，技术成熟度和监管框架逐步完善。分析人士指出，欧洲市场碎片化和高合规成本是挑战，但单车智能和车路协同的结合可能成为可行路径。Autobrains正与多家车企和出行服务商洽谈合作，计划在未来两年内扩大欧洲业务规模。",
           "title_en": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRqYVVTVVppVmVvRUg4MkQyRE1COURDSXUxbmFDQnVuUGU3anJoeEZsSl9fbFZEcWdZT1AxR1N5WUI1aEFKZHRzbmZKSWpzTi1UZU1BMFhldEdqSTNWZWF1di1SRmlPZTdRUGFHay1zXzB6NVhQYkNjQTdHNmNOOFljYlo3STA3QkV5QnpvLTUyOTlPV0F3eEdwdVJrN1FvUkVMcW5GaUMyeWtLOVV1V2dLcjZucWM?oc=5",
+          "url": "https://news.google.com/articles/CBMitwFBVV95cUxNUGRqYVVTVVppVmVvRUg4MkQyRE1COURDSXUxbmFDQnVuUGU3anJoeEZsSl9fbFZEcWdZT1AxR1N5WUI1aEFKZHRzbmZKSWpzTi1UZU1BMFhldEdqSTNWZWF1di1SRmlPZTdRUGFHay1zXzB6NVhQYkNjQTdHNmNOOFljYlo3STA3QkV5QnpvLTUyOTlPV0F3eEdwdVJrN1FvUkVMcW5GaUMyeWtLOVV1V2dLcjZucWM?oc=5",
           "published": "2026-06-30 15:19 UTC"
         },
         {
@@ -229,7 +229,7 @@
           "summary_zh": "路透社报道，亚马逊云服务（AWS）宣布投入10亿美元建立新部门，专门部署嵌入式AI工程师团队服务企业客户。该举措旨在帮助传统企业将AI能力深度整合到业务流程中，解决AI落地「最后一公里」问题。AWS将组建由AI工程师和行业专家组成的团队，深入客户现场提供定制化方案。此举反映云服务商竞争重心从算力基础设施向应用服务延伸的趋势。微软Azure和Google Cloud也在加强类似服务能力。企业AI采用率仍低于预期，技术人才短缺是主要瓶颈。AWS的嵌入式服务模式旨在降低客户AI采用门槛，同时增强客户粘性。分析人士认为，这标志着AI商业化进入深水区，云服务商需要从卖算力转向卖解决方案。10亿美元投入显示亚马逊对AI服务市场的长期信心。",
           "title_en": "Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnN2ZVVJdDBidHNmQklYVW9kTC1ORjFFNVA5UTlRelBoRFRLWWM0ODllUzN0UkJBX2ZpNmRtRl9Gd2FFZ2R0aV94M1FpOVNIaE9PS1pEbm1aZk9xMFVxR00wdUpsLVczVXRhMDc5S1hfdUhBUzNVT1htTTZvTm9EOXNTd2NlNFNzdlZoXzU4ZFpMMzNYWm8wU3VqWXVMMml1Z0pPYzV2eUpPNlBpcURIQjhuYi1Xc2lCRkh1bmxWWXhUQkNuWjBV?oc=5",
+          "url": "https://news.google.com/articles/CBMixwFBVV95cUxNUnN2ZVVJdDBidHNmQklYVW9kTC1ORjFFNVA5UTlRelBoRFRLWWM0ODllUzN0UkJBX2ZpNmRtRl9Gd2FFZ2R0aV94M1FpOVNIaE9PS1pEbm1aZk9xMFVxR00wdUpsLVczVXRhMDc5S1hfdUhBUzNVT1htTTZvTm9EOXNTd2NlNFNzdlZoXzU4ZFpMMzNYWm8wU3VqWXVMMml1Z0pPYzV2eUpPNlBpcURIQjhuYi1Xc2lCRkh1bmxWWXhUQkNuWjBV?oc=5",
           "published": "2026-06-30 15:15 UTC"
         },
         {
@@ -238,7 +238,7 @@
           "summary_zh": "路透社报道，中东伊朗战争局势和全球AI投资热潮两大因素交织，驱动全球金融市场经历剧烈波动。地缘政治风险推高油价和避险资产，资金涌入黄金和美债。同时，AI概念股的强势上涨与能源股形成跷跷板效应，市场板块轮动加速。投资者在地缘风险和AI增长故事之间艰难平衡，波动率指数维持高位。伊朗冲突的不确定性使原油供应前景蒙上阴影，通胀预期有所升温。AI热潮则持续吸引资金流入科技和半导体板块，推动美股维持强势。分析人士指出，两大因素的博弈将主导短期市场走势，若地缘局势缓和，AI主题可能继续引领市场。央行货币政策前景和企业盈利也是关键变量。投资者建议保持多元化配置，应对复杂市场环境。",
           "title_en": "Iran war and AI boom drive wild ride on global markets",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
+          "url": "https://news.google.com/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
           "published": "2026-06-30 15:09 UTC"
         },
         {
@@ -247,7 +247,7 @@
           "summary_zh": "彭博社报道，AI芯片初创公司Etched获得知名量化交易公司Jane Street和台积电关联风投机构的新一轮投资。Etched专注于开发专用AI推理芯片，其SoHU架构针对Transformer模型推理进行硬件级优化，号称在特定工作负载上性能远超通用GPU。Jane Street的加入不仅提供资金，还可能带来算力采购订单。台积电关联风投的投资则有助于Etched获取先进制程产能。AI芯片初创公司众多，但能同时获得金融资本和制造链支持者寥寥。Etched的差异化策略是押注单一架构极致优化，而非通用性。分析人士认为，专用推理芯片市场前景广阔，但竞争激烈，需与英伟达等巨头正面竞争。融资将用于芯片流片和量产准备，预计明年推出商用产品，市场关注度较高。",
           "title_en": "AI Chip Startup Etched Lures Jane Street, TSMC-Linked VC as Investors - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmRCNHl1MmtFWkhGRktiUFFWNk1CNUswc3dWZHBSMjdkcVprYWswWnlaVW5LVFgyZ2I3bnZBTGo0eGIwOHozNjZ4VUhVZDY0blE3UWN4V2U3Z09TZDFTbDJYQXBDQ1JQNGNURzEyNTNLdzc0Z1RrSmY4RUtIemNNY2VpTmVmMVYtdVY2N29iZUJxRG9OTFFKX1ZDT2U1dF9mQlJGamRNSHpWWEZqME9ndVh0VzQ?oc=5",
+          "url": "https://news.google.com/articles/CBMitAFBVV95cUxQSmRCNHl1MmtFWkhGRktiUFFWNk1CNUswc3dWZHBSMjdkcVprYWswWnlaVW5LVFgyZ2I3bnZBTGo0eGIwOHozNjZ4VUhVZDY0blE3UWN4V2U3Z09TZDFTbDJYQXBDQ1JQNGNURzEyNTNLdzc0Z1RrSmY4RUtIemNNY2VpTmVmMVYtdVY2N29iZUJxRG9OTFFKX1ZDT2U1dF9mQlJGamRNSHpWWEZqME9ndVh0VzQ?oc=5",
           "published": "2026-06-30 14:00 UTC"
         },
         {
@@ -256,7 +256,7 @@
           "summary_zh": "路透社报道，美国人形机器人公司Apptronik宣布推出机器人训练中心，并发布新一代人形机器人Apollo 2。新机型在运动能力、灵巧操作和AI决策方面显著升级，续航和负载能力也有所提升。训练中心旨在加速机器人学习，通过模拟环境和遥操作数据采集，提升机器人通用能力。Apptronik是特斯拉Optimus之外最受关注的人形机器人公司之一，已与多家制造和物流企业开展试点合作。人形机器人赛道正吸引大量资本和人才涌入，图灵、Agility等竞争对手也在快速迭代。分析人士指出，人形机器人商业化仍面临成本、可靠性和通用性挑战，但在工业场景的早期应用前景可期。Apptronik计划明年扩大生产规模，Apollo 2的目标应用包括工厂装配和仓储物流。",
           "title_en": "Apptronik launches robot training hub, unveils Apollo 2 humanoid robot",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTU5qdFZ0alRGN1d4TE5RcmRjQXNsSlp1RW5zYUdGM2RYNjZNQU55eDhTNGJFZ1VyTWY2dTgtWVJES0ttd2tabldWLTA0bS1ybm96amlmOXBZX3FQelNHMTNpVEpEZHhkZ09FcU9JcGkwM1RaVmlIbENpMzBob0J2SHFNNFZ3ZE1acmlNclZHOTJzYmlLNURsX2FKaHZ3OVcxU1JYSmN4dmVuMWJmT21Jczh0UlZVZnM?oc=5",
+          "url": "https://news.google.com/articles/CBMitwFBVV95cUxNTU5qdFZ0alRGN1d4TE5RcmRjQXNsSlp1RW5zYUdGM2RYNjZNQU55eDhTNGJFZ1VyTWY2dTgtWVJES0ttd2tabldWLTA0bS1ybm96amlmOXBZX3FQelNHMTNpVEpEZHhkZ09FcU9JcGkwM1RaVmlIbENpMzBob0J2SHFNNFZ3ZE1acmlNclZHOTJzYmlLNURsX2FKaHZ3OVcxU1JYSmN4dmVuMWJmT21Jczh0UlZVZnM?oc=5",
           "published": "2026-06-30 13:25 UTC"
         },
         {
@@ -265,7 +265,7 @@
           "summary_zh": "彭博社报道，韩国李氏家族宣布的8800亿美元AI和芯片投资计划，将家族商业遗产与韩国芯片产业热潮深度绑定。该投资规模史无前例，涵盖半导体、AI基础设施和相关产业链，是韩国保持全球芯片竞争力的核心战略。李氏家族控制着三星电子等韩国财阀，其投资决策对国家经济具有系统性影响。此举被视为李氏家族在代际交接期确立战略方向的关键举措，也回应了政府对民间投资引领产业升级的期待。AI芯片需求的爆发为投资提供了市场逻辑，但巨量资本支出的回报周期长、风险高。中美芯片竞争和地缘政治是最大不确定性。分析人士认为，该投资将重塑全球芯片产业格局，但也考验李氏家族的执行力和财阀治理模式，影响深远。",
           "title_en": "Lee’s $880 Billion AI Bet Ties Legacy to South Korea Chip Boom - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHZCd0lzRWtRNm9sOThhWUFlRG5sa1N0YzM4YkpGc05DRW1KbmNXbDdlNXJ1MjU0VWlkNXRxRXoxWjl2SS0wa3M1TVpHcWdFeGJ5bDZlSnY4TEZVdE1NODc4R3ZYN1UwMGt3WkJBVkQycVRvaHZuX0lCOHdaM3Z1MVJrLVZUb29PLWM4Unh2aFl0YWxCanh3UWllWWdHUHRSajlOYkYxeUUyOUpscDJ6M1Vn?oc=5",
+          "url": "https://news.google.com/articles/CBMisgFBVV95cUxPTHZCd0lzRWtRNm9sOThhWUFlRG5sa1N0YzM4YkpGc05DRW1KbmNXbDdlNXJ1MjU0VWlkNXRxRXoxWjl2SS0wa3M1TVpHcWdFeGJ5bDZlSnY4TEZVdE1NODc4R3ZYN1UwMGt3WkJBVkQycVRvaHZuX0lCOHdaM3Z1MVJrLVZUb29PLWM4Unh2aFl0YWxCanh3UWllWWdHUHRSajlOYkYxeUUyOUpscDJ6M1Vn?oc=5",
           "published": "2026-06-30 10:00 UTC"
         },
         {
@@ -274,7 +274,7 @@
           "summary_zh": "彭博社报道，据知情人士透露，中国家电巨头美的集团正考虑将旗下的德国机器人制造商库卡（KUKA）在中国进行IPO。美的2016年以约45亿欧元收购库卡，是中国对欧洲制造业最大并购之一。此次IPO计划反映美的希望释放库卡估值，并借助中国资本市场为机器人业务融资。库卡是全球四大工业机器人制造商之一，在汽车制造领域优势明显。中国是全球最大工业机器人市场，本地化上市有助于库卡深化中国市场布局。分析人士认为，库卡在华IPO也面临挑战，包括中德关系和欧洲技术保护主义的压力。美的可能保留控股权，仅释放少数股份。机器人产业受AI和自动化趋势利好，估值前景积极。交易时间和估值仍待确定，市场关注度较高。",
           "title_en": "Midea Is Said to Consider China IPO for German Robot Maker Kuka - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEJKOFJFQ3JKSC1VWk5YNS1hd0duT3NVWHRIVzZnbDQ0czhhOHdYMnlTX0xnbEVQLUdrRHUwbnZMM0dTUmM2Rmk5Q2FpRU1ZTE15blJob3h4SGE1bWxrX0VYOG9QVW5Jb181OC1SQ05tSmYwc3BiNkp5djlpUllFSkNtQkFaN2FvbUhCdUdEUEgzSTBfSW9rckF1OWRaWjRxbFpteWZjNTZqOG9QaEFEQjdza1Q?oc=5",
+          "url": "https://news.google.com/articles/CBMitAFBVV95cUxQUEJKOFJFQ3JKSC1VWk5YNS1hd0duT3NVWHRIVzZnbDQ0czhhOHdYMnlTX0xnbEVQLUdrRHUwbnZMM0dTUmM2Rmk5Q2FpRU1ZTE15blJob3h4SGE1bWxrX0VYOG9QVW5Jb181OC1SQ05tSmYwc3BiNkp5djlpUllFSkNtQkFaN2FvbUhCdUdEUEgzSTBfSW9rckF1OWRaWjRxbFpteWZjNTZqOG9QaEFEQjdza1Q?oc=5",
           "published": "2026-06-30 09:13 UTC"
         },
         {
@@ -283,7 +283,7 @@
           "summary_zh": "路透社报道，中国本地生活服务平台美团表示，其最新AI模型已基于国产芯片完成训练，标志着中国AI公司在应对芯片出口管制方面取得进展。美团训练的大模型用于其搜索推荐和智能客服等业务，选择国产芯片是基于供应链安全考量。美国对先进AI芯片的出口管制促使中国公司加速国产替代，华为昇腾等国产AI芯片的采用率持续提升。美团的实践显示，国产芯片在特定规模模型训练上已具备可用性，虽然性能与英伟达仍有差距，但供应链韧性显著增强。分析人士认为，中美AI芯片脱钩趋势下，中国AI生态将形成独立技术栈，长期可能催生竞争性产品。国产芯片的软件生态和工具链仍是短板，需持续投入。美团的成功案例可能推动更多中国公司采用国产芯片。",
           "title_en": "China's Meituan says new AI model trained on domestic chips",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUDZFSi1jZ1UxQ0VHOU1jYUtoZlkwWFVZM2duQmxNMlZJSVJ5OW01SFUzSHJYSnRLU3JWM2xWUGVCZEtwb3dkSUFpQUJfbGV5TXNaTE1WalQyaGlYQmNIbWFvOTY0ZmpjMGV4ZDl1RG5MNWp2WTAwN2U2bURNbWh1NWRJYW1GcW5pNTR5bG9LT3htZG9kUHUydWtOWHBadTlqVnU0RE93?oc=5",
+          "url": "https://news.google.com/articles/CBMipgFBVV95cUxPUDZFSi1jZ1UxQ0VHOU1jYUtoZlkwWFVZM2duQmxNMlZJSVJ5OW01SFUzSHJYSnRLU3JWM2xWUGVCZEtwb3dkSUFpQUJfbGV5TXNaTE1WalQyaGlYQmNIbWFvOTY0ZmpjMGV4ZDl1RG5MNWp2WTAwN2U2bURNbWh1NWRJYW1GcW5pNTR5bG9LT3htZG9kUHUydWtOWHBadTlqVnU0RE93?oc=5",
           "published": "2026-06-30 08:45 UTC"
         },
         {
@@ -292,7 +292,7 @@
           "summary_zh": "路透社报道，苹果iPhone 18 Pro的详细规格和照片在印度塔塔集团的数据泄露事件中提前曝光。泄露信息显示，iPhone 18 Pro将采用全新设计，搭载A20 Pro芯片和升级版相机系统。塔塔集团是苹果在印度的主要代工合作伙伴，此次泄露暴露出供应链信息安全管理的薄弱环节。苹果一向以产品保密严格著称，供应链泄露对其营销节奏构成干扰。塔塔近年大举投资苹果代工业务，承接部分从中国转移的产能。此次事件可能影响苹果与塔塔的合作关系，也可能促使苹果加强供应链信息安全管控。泄露的iPhone 18 Pro信息引发市场关注，分析师认为设计升级幅度较大，有望刺激换机需求。苹果官方未确认泄露信息，发布会仍按计划举行。印度代工的产能占比持续提升。",
           "title_en": "Apple iPhone 18 Pro details, photos exposed in Tata data leak",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SLW1jS3lFdmROV1BaRFBxbkNXQnZqeFdPU3RiN3hQbXdtOVBpMHNxSkJWRHd4aHE5QWdJVzFuRXgzZkxyV3dDQ0dQSkcwUWZ5Q1d3ZHduWWcxbndnWGo0RzI5d3hPWm8?oc=5",
+          "url": "https://news.google.com/articles/CBMiZ0FVX3lxTE1SLW1jS3lFdmROV1BaRFBxbkNXQnZqeFdPU3RiN3hQbXdtOVBpMHNxSkJWRHd4aHE5QWdJVzFuRXgzZkxyV3dDQ0dQSkcwUWZ5Q1d3ZHduWWcxbndnWGo0RzI5d3hPWm8?oc=5",
           "published": "2026-06-30 08:21 UTC"
         },
         {
@@ -301,7 +301,7 @@
           "summary_zh": "日经亚洲报道，据知情人士透露，中国三大手机制造商小米、OPPO和vivo再次下调2026年智能手机出货目标。这是年内第二次下调，反映国内和新兴市场需求疲软超出预期。高端市场竞争加剧和换机周期延长是主因，消费者对AI等新功能的付费意愿低于预期。华为回归高端市场进一步挤压了三家厂商的份额。供应链也被要求相应调整零部件订单。中国智能手机市场已进入存量竞争阶段，增长动力不足。小米、OPPO、vivo正将资源向海外新兴市场和IoT产品倾斜，寻求多元化增长。分析人士认为，手机市场低迷可能持续，AI手机概念虽有热度但难以快速转化为销量。芯片和零部件供应商也将受到连锁影响，行业整体面临库存调整压力，竞争格局或重塑。",
           "title_en": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
           "source": "日经亚洲",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlhSam9kWHA5RkpSZW1pZTVfVEIxX0xnbnRlLWFQSjhIUmJyOERyaXJQZ2NzVTlJRWdCYmZKVEQ4cHZIWFRveEJwSEt5NVdyMUJRNmpwa0dVQUcwQUNQM3BqSDlraFVXVk01cVR1SG50U1ZoWHJIU3V6MHI2T2lvRkl0dlB6TmNPa1VId19paFkwbHdESXpsUDhMTmh6VzBndkNfM0tXNnpZSm1LdzZV?oc=5",
+          "url": "https://news.google.com/articles/CBMirwFBVV95cUxNQlhSam9kWHA5RkpSZW1pZTVfVEIxX0xnbnRlLWFQSjhIUmJyOERyaXJQZ2NzVTlJRWdCYmZKVEQ4cHZIWFRveEJwSEt5NVdyMUJRNmpwa0dVQUcwQUNQM3BqSDlraFVXVk01cVR1SG50U1ZoWHJIU3V6MHI2T2lvRkl0dlB6TmNPa1VId19paFkwbHdESXpsUDhMTmh6VzBndkNfM0tXNnpZSm1LdzZV?oc=5",
           "published": "2026-06-30 03:09 UTC"
         },
         {
@@ -310,7 +310,7 @@
           "summary_zh": "彭博社报道，台湾检调机构扩大芯片走私调查，对美国服务器制造商Super Micro（超微电脑）的台湾办公室进行突击搜查。调查焦点是涉嫌违反台湾法规将台积电芯片通过非授权渠道转运至中国大陆。台湾对先进芯片出口有严格管制，配合美国对华芯片限制措施。Super Micro是AI服务器市场重要供应商，股价在消息传出后大幅下跌。公司声明配合调查，但未承认违规。事件凸显了AI芯片供应紧张下的灰色市场和走私风险，也反映出地缘政治对全球芯片供应链的深远影响。分析人士认为，台湾此次高调执法具有政治信号意义，意在展示对芯片出口管制的严格执行。若违规行为被证实，Super Micro可能面临罚款和供应链调整，AI服务器市场竞争格局或受影响，市场密切关注后续进展。",
           "title_en": "Super Micro Raided as Taiwan Expands Chip Smuggling Probe - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE8wWm9URTJrXzMwc0xQakVNdjBRV0kzenJvOFN3OUZDLS1DaXFtMWVHWkpnVFRVNVBWMUNad2FmU0piSDhSaGpJNnRSZ1ZWaWxBcGhOSlRWcTlQTjNXUHB2TXlDbWZRSjRYTEdMeVRPM1lHZTB5Nk5KQmZPcGIwWTIzZHFJbHhBaEFRc3h5d2czZU5SMUg5MDI5RlU5dTRrWHdRUVFoaUdyS1ZvZFg2eEg2UnRwZw?oc=5",
+          "url": "https://news.google.com/articles/CBMitgFBVV95cUxPdE8wWm9URTJrXzMwc0xQakVNdjBRV0kzenJvOFN3OUZDLS1DaXFtMWVHWkpnVFRVNVBWMUNad2FmU0piSDhSaGpJNnRSZ1ZWaWxBcGhOSlRWcTlQTjNXUHB2TXlDbWZRSjRYTEdMeVRPM1lHZTB5Nk5KQmZPcGIwWTIzZHFJbHhBaEFRc3h5d2czZU5SMUg5MDI5RlU5dTRrWHdRUVFoaUdyS1ZvZFg2eEg2UnRwZw?oc=5",
           "published": "2026-06-30 02:30 UTC"
         }
       ]
@@ -325,7 +325,7 @@
           "summary_zh": "纽约时报报道，特朗普政府因对委内瑞拉地震响应的分歧，决定边缘化委内瑞拉反对派领袖玛丽亚·科里纳·马查多。马查多长期是反对马杜罗政府的核心人物，曾在美国支持下领导反对派运动。近期委内瑞拉发生强烈地震，造成重大人员伤亡和基础设施破坏，人道主义援助分配和政治协调成为各方博弈焦点。特朗普政府认为马查多在地震救援协调中表现不力，未能有效整合反对派力量，因而调整对其支持力度。此举反映出美国对委政策正从单纯支持反对派转向更务实的人道主义和稳定优先路线，也暴露出反对派内部长期分裂问题。委内瑞拉政治过渡进程因此再添变数，马查多政治前途蒙上阴影，反对派阵营面临重组压力。",
           "title_en": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response - The New York Times",
           "source": "纽约时报",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObW9LZkZZU3M5TWtFMlpvdERMUmNEcWxxWEpCa2ZwVFNwVUdteThwaFcyb0R4SGprMHRZY2haaTluWmRJbDVianRvV2RjQXFoYWxSNWN4QUl2aVkxUXpaM3dZajdHa21QNUlQZEVpR1RNT1JJU1FwX0Myb3A3bmE3eEhwSXVVQjRMSE5V?oc=5",
+          "url": "https://news.google.com/articles/CBMiiwFBVV95cUxObW9LZkZZU3M5TWtFMlpvdERMUmNEcWxxWEpCa2ZwVFNwVUdteThwaFcyb0R4SGprMHRZY2haaTluWmRJbDVianRvV2RjQXFoYWxSNWN4QUl2aVkxUXpaM3dZajdHa21QNUlQZEVpR1RNT1JJU1FwX0Myb3A3bmE3eEhwSXVVQjRMSE5V?oc=5",
           "published": "2026-07-01 01:48 UTC"
         },
         {
@@ -334,7 +334,7 @@
           "summary_zh": "彭博社报道，美墨加贸易协定（USMCA）即将启动审查程序，但协定前景面临多重挑战。USMCA是特朗普首届政府重新谈判的NAFTA替代版本，2026年迎来关键审查节点。当前美墨加三方在汽车原产地规则、农产品市场准入和争端解决机制上分歧加深。美国国内保护主义升温，特朗普政府考虑加征钢铝和汽车关税，与协定精神产生冲突。墨西哥总统辛鲍姆在主权议题上态度强硬，加拿大则担忧美国保护主义侵蚀市场准入。若审查未能达成共识，协定可能在2026年到期后终止，对三国产业链造成重大冲击。分析人士认为，USMCA的不确定性已影响企业投资决策，汽车和制造业供应链首当其冲。谈判结果将定义北美经济一体化未来走向。",
           "title_en": "USMCA Review: Why the US-Mexico-Canada Trade Deal Is in Jeopardy - Bloomberg.com",
           "source": "彭博社/路透社",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVRkZ0pxbXFDUWxFRlVrU0g3UU1sSnF1NjBjaFJmV1R5eE9FVnhUdXRLbEg0c2VaVkdVZWtsSW5GajgtMUUxbDB4NDI1bWNVdVNHNk5HaXFraDRfRkVYWG00cGdaZVFpYWktR1FoN2pCS1pxZE9XSm1XTG13WnJiWGRSSkxTdTRtZUh2TzVkb0RCbkFwOE1hZWNUUW4tVzA4U05tVzJFMk5Kb0s5Yzl1UWI0eVQ?oc=5",
+          "url": "https://news.google.com/articles/CBMitAFBVV95cUxQSVRkZ0pxbXFDUWxFRlVrU0g3UU1sSnF1NjBjaFJmV1R5eE9FVnhUdXRLbEg0c2VaVkdVZWtsSW5GajgtMUUxbDB4NDI1bWNVdVNHNk5HaXFraDRfRkVYWG00cGdaZVFpYWktR1FoN2pCS1pxZE9XSm1XTG13WnJiWGRSSkxTdTRtZUh2TzVkb0RCbkFwOE1hZWNUUW4tVzA4U05tVzJFMk5Kb0s5Yzl1UWI0eVQ?oc=5",
           "published": "2026-06-30 09:00 UTC"
         },
         {
@@ -343,7 +343,7 @@
           "summary_zh": "华盛顿邮报报道，特朗普在联邦法院裁定其行政令违宪后，转而呼吁国会通过立法终止出生公民权。特朗普此前签署行政令试图取消无证移民子女的美国出生公民权，但被法院裁定违反宪法第十四修正案。第十四修正案明确规定在美国出生者自动获得公民身份，是宪法长期共识。特朗普的国会策略被视为政治姿态，因修宪门槛极高，难以在国会通过。此举旨在巩固反移民选民基础，为中期选举制造议题。法律学者普遍认为，出生公民权是宪法明确保障的权利，行政令和立法都难以撼动。事件反映了移民议题在美国政治中的持续极化，也凸显了行政权与司法权的制衡。民权组织谴责特朗普此举为政治操弄，可能引发针对移民社区的歧视，影响深远。",
           "title_en": "Trump calls on Congress to end birthright citizenship after court defeat - The Washington Post",
           "source": "华盛顿邮报",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHVBOV9qQUxJZUJqWnNfVmpncExScHBLZU1GX0NQNFA2TmFCRlNPS01VVkVnN3MzekY2WVNVcVg3d2x1NVFoYVNkV0U1LW5BRnQyME9SVDdiSW8xeHpOQXlIVFpPcTNOMUJfUDR3U3U1TkJfRkhXcEhFQVNCbWtRSkI2X2RQTTV5ZHI4Y3NSUEJPSDRvQWVsbDlFNGVUUU1DQ0NxMGgwRVh5eHZxRUE?oc=5",
+          "url": "https://news.google.com/articles/CBMirgFBVV95cUxQNHVBOV9qQUxJZUJqWnNfVmpncExScHBLZU1GX0NQNFA2TmFCRlNPS01VVkVnN3MzekY2WVNVcVg3d2x1NVFoYVNkV0U1LW5BRnQyME9SVDdiSW8xeHpOQXlIVFpPcTNOMUJfUDR3U3U1TkJfRkhXcEhFQVNCbWtRSkI2X2RQTTV5ZHI4Y3NSUEJPSDRvQWVsbDlFNGVUUU1DQ0NxMGgwRVh5eHZxRUE?oc=5",
           "published": "2026-07-01 01:58 UTC"
         },
         {
@@ -352,7 +352,7 @@
           "summary_zh": "华盛顿邮报报道，哥伦比亚总统大选败选候选人威胁，若当选者不放弃美国国籍，将发动「公民不服从」运动。哥伦比亚宪法禁止双重国籍者担任总统，胜选者的美国国籍问题成为政治争议焦点。败选方借题发挥，质疑胜选者对国家的忠诚度，试图动员反美民族主义情绪。哥伦比亚与美国关系密切，但历史上对美国干预存在敏感情绪。此次国籍争议反映了哥伦比亚社会对美关系的复杂态度。分析人士认为，败选方的策略旨在为未来政治布局积累资本，但可能加剧政治对立和社会分裂。胜选者若坚持保留美国国籍，可能面临司法挑战和执政阻力。事件也凸显了拉美国家宪法对国籍和公职资格的严格规定，以及双重国籍在全球化时代的政治敏感性。",
           "title_en": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship - The Washington Post",
           "source": "华盛顿邮报",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTHBpSS1kXzd6V3Fxblpvcll5VDFDS1N3MTN6a3JOeXIzVElReDUwS0lfT0xaVmhZT3ZGcmtmckZyQWVLT25LNDAtSG1KdWU2ZERVc2RaNVR4UWRPcVlZQjl1cmd6XzZEd04yelBfODBMcFNMdk9QN0pZMmZnVlp3aDhFZkxRVkthMWhyX2lsNURnd0dZZXgxYkMzc0hfSEo3eE05ZE5FTmtLbE4xQ1NkQmRNRm1iT3Fmdkw5NmVsVFRQWW9CUVg4YXoxWjVqV2lCc0Nuc1JOWUdqSGZVb3RndGhJZ283cFRONS03blpUNDNERkdPdTJQdXliMGh1SXhod25EMW93?oc=5",
+          "url": "https://news.google.com/articles/CBMihgJBVV95cUxNTHBpSS1kXzd6V3Fxblpvcll5VDFDS1N3MTN6a3JOeXIzVElReDUwS0lfT0xaVmhZT3ZGcmtmckZyQWVLT25LNDAtSG1KdWU2ZERVc2RaNVR4UWRPcVlZQjl1cmd6XzZEd04yelBfODBMcFNMdk9QN0pZMmZnVlp3aDhFZkxRVkthMWhyX2lsNURnd0dZZXgxYkMzc0hfSEo3eE05ZE5FTmtLbE4xQ1NkQmRNRm1iT3Fmdkw5NmVsVFRQWW9CUVg4YXoxWjVqV2lCc0Nuc1JOWUdqSGZVb3RndGhJZ283cFRONS03blpUNDNERkdPdTJQdXliMGh1SXhod25EMW93?oc=5",
           "published": "2026-07-01 01:21 UTC"
         },
         {
@@ -361,7 +361,7 @@
           "summary_zh": "路透社报道，美国财政部宣布对多名墨西哥个人和实体实施制裁，指其参与与贩毒集团有关的燃料走私网络。制裁冻结其在美资产，并禁止美国人与其交易。墨西哥燃料走私长期猖獗，贩毒集团通过窃取管道原油和伪造燃料销售获利，每年造成数十亿美元损失。美国制裁旨在切断走私网络的资金流和供应链。美墨在打击燃料走私方面有合作，但墨西哥执法能力有限，腐败问题严重。此次制裁也反映美国对墨西哥安全形势的持续关注。分析人士认为，制裁虽能施加压力，但难以根治问题，需要墨西哥加强国内执法和能源行业监管。燃料走私还助长腐败和暴力，是墨西哥安全和治理的重要挑战。美墨合作效果取决于墨西哥政治意愿和执行力度。",
           "title_en": "US imposes sanctions on Mexicans, entities tied to Mexican fuel smuggling network",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHR1dDFpRUx1dlFzQlhtZThDNTA4dFloTzItLVRnREFobEJSbEpxYWJTOFdNaGNKWkpZY2lHdDBSVnhzVmkzb1NCcldSY1RWbE5jX01KNkpTeG8wb00yNVJFT3lCVDJsYVlnVkpYcWVFTlVHM2VjSXlSenlMNDY4SVhGRDNJZU14c2dEbW5leE1nTjdmdldIbGR4RFA3WXQ3NURZbHQzSnp6RmJUZ3hlYkpuZU9EMWc?oc=5",
+          "url": "https://news.google.com/articles/CBMitwFBVV95cUxPbHR1dDFpRUx1dlFzQlhtZThDNTA4dFloTzItLVRnREFobEJSbEpxYWJTOFdNaGNKWkpZY2lHdDBSVnhzVmkzb1NCcldSY1RWbE5jX01KNkpTeG8wb00yNVJFT3lCVDJsYVlnVkpYcWVFTlVHM2VjSXlSenlMNDY4SVhGRDNJZU14c2dEbW5leE1nTjdmdldIbGR4RFA3WXQ3NURZbHQzSnp6RmJUZ3hlYkpuZU9EMWc?oc=5",
           "published": "2026-07-01 00:32 UTC"
         },
         {
@@ -370,7 +370,7 @@
           "summary_zh": "纽约时报报道，尽管特朗普一贯对对外援助持负面态度，美国政府仍为委内瑞拉地震救援进行大规模动员。特朗普执政期间多次削减对外援助预算，质疑其是否符合美国利益。但委内瑞拉地震的严重人道主义危机迫使政府做出回应，美国国际开发署派出救援队伍和物资。此举也被视为在委内瑞拉政治过渡期巩固影响力的重要举措，平衡俄罗斯等国在委的存在。特朗普的「美国优先」理念与这次救援行动形成张力，反映了现实主义外交与人道主义诉求的复杂平衡。分析人士认为，此次救援既有人道动机，也有地缘政治考量。委内瑞拉局势不稳定可能引发难民潮，影响美国地区利益。救援行动也面临物流和政治协调挑战，效果有待观察。",
           "title_en": "U.S. Mobilizes for Venezuela Despite Trump’s Disdain for Foreign Aid - The New York Times",
           "source": "纽约时报",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWE0VW1sM2RpRXhQdWVTRjNXTlNteDBWY0VmM3cyRldBZGJfTjIxX0t0aC1Kd195NWl1dGlrRWs1SHNkSTNMTVk0TkNrb3dZMEJhRHpoR2VHaFJtLVkyWENmS2lZTmltZEROeDlTS1NtX1pCQ1YxVUs1YmJCbklaTmd2cGh2QQ?oc=5",
+          "url": "https://news.google.com/articles/CBMihgFBVV95cUxOOWE0VW1sM2RpRXhQdWVTRjNXTlNteDBWY0VmM3cyRldBZGJfTjIxX0t0aC1Kd195NWl1dGlrRWs1SHNkSTNMTVk0TkNrb3dZMEJhRHpoR2VHaFJtLVkyWENmS2lZTmltZEROeDlTS1NtX1pCQ1YxVUs1YmJCbklaTmd2cGh2QQ?oc=5",
           "published": "2026-06-30 23:55 UTC"
         },
         {
@@ -379,7 +379,7 @@
           "summary_zh": "路透社报道，特朗普重返白宫后高调宣布的多项关税政策，实际落地效果远低于威胁力度，呈现「雷声大雨点小」特征。分析指出，特朗普关税政策在执行中频繁遭遇法院挑战、行业游说和盟友施压，多项威胁未能转化为实际措施。法院裁定部分关税越权，企业通过申请豁免和调整供应链规避影响。同时，特朗普也将关税作为谈判筹码，达成让步后即收回威胁。然而，关税不确定性本身已对企业和市场造成显著影响，投资决策延迟和成本上升。分析人士认为，特朗普关税策略虚实结合，实际贸易壁垒有所上升但未达威胁水平。市场已逐步适应其谈判风格，但对突发性政策变动保持警惕。中美和美欧贸易关系仍是关键变量，关税政策走向影响全球贸易格局。",
           "title_en": "Why Trump's tariffs had plenty of bark, but limited bite",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHg0ZUxrMmdiUkpUOFVfeGp5RGZ3TkJuQ3NMb1JHZ2FNUHg0RnFFRWowNGVjS0lQa3dwQlZ1NjQtdVJqd0JYdGJjSkctUHpmbzRWZVdfT3puVmo1dEQ1eDNKQ0tIZGVvVnpPZTdLOUNEU0pqU3lBMllSdkVzNWZtRjVvQmtVWDdYRHg2Vkl4cWxfbnJ4WUphbFcxQnJiQVd1SWEwSExPY19GelhCMHByaGNHN0FsOGM?oc=5",
+          "url": "https://news.google.com/articles/CBMitwFBVV95cUxORHg0ZUxrMmdiUkpUOFVfeGp5RGZ3TkJuQ3NMb1JHZ2FNUHg0RnFFRWowNGVjS0lQa3dwQlZ1NjQtdVJqd0JYdGJjSkctUHpmbzRWZVdfT3puVmo1dEQ1eDNKQ0tIZGVvVnpPZTdLOUNEU0pqU3lBMllSdkVzNWZtRjVvQmtVWDdYRHg2Vkl4cWxfbnJ4WUphbFcxQnJiQVd1SWEwSExPY19GelhCMHByaGNHN0FsOGM?oc=5",
           "published": "2026-06-30 23:30 UTC"
         },
         {
@@ -388,7 +388,7 @@
           "summary_zh": "路透社报道，巴西国家石油公司（Petrobras）宣布下调柴油价格，并暂停此前的销售折扣政策。此次调价反映国际油价走弱和巴西国内需求放缓的双重影响。Petrobras采用跟踪国际价格的定价政策，价格调整反映市场供需。柴油是巴西物流和农业的关键燃料，价格下调有助于缓解通胀压力，对运输和农业部门是利好。暂停折扣则表明公司对市场需求前景趋于谨慎。Petrobras的定价政策一直是巴西政治敏感议题，政府希望压低燃料价格控制通胀，但公司需平衡盈利和投资能力。分析人士认为，此次调价反映公司对市场的理性判断，但也可能受到政府影响。巴西通胀走势和货币汇率将影响后续定价决策，市场密切关注。",
           "title_en": "Brazil's Petrobras cuts diesel prices, suspends discount",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHEwYnpEcFhKS1B6S196dm94QnhKU05sMHVFZWJpQkhac25ZVmczaUlaRlR5NTdyalZpbHVhRmo5Q29ndDJxbWtKR1p3VXJYeFRFdXJmM3hqY1BJbW1YZUxoZGxPN0N4RlNxbzZQV3pFVkR4UFBNd0lXUFJxSVRySDVZeDhnWEg2RGx5MWV4alZ2LTR4dnFpYjV4RFc5X3VEc1dpMWhURU4wZw?oc=5",
+          "url": "https://news.google.com/articles/CBMiqgFBVV95cUxQeHEwYnpEcFhKS1B6S196dm94QnhKU05sMHVFZWJpQkhac25ZVmczaUlaRlR5NTdyalZpbHVhRmo5Q29ndDJxbWtKR1p3VXJYeFRFdXJmM3hqY1BJbW1YZUxoZGxPN0N4RlNxbzZQV3pFVkR4UFBNd0lXUFJxSVRySDVZeDhnWEg2RGx5MWV4alZ2LTR4dnFpYjV4RFc5X3VEc1dpMWhURU4wZw?oc=5",
           "published": "2026-06-30 23:17 UTC"
         },
         {
@@ -397,7 +397,7 @@
           "summary_zh": "路透社报道，哥伦比亚当选总统正式任命米格尔·戈麦斯为财政部长，结束了市场对新政府经济政策方向的猜测。戈麦斯是受过国际训练的经济学家，具备技术和务实特质，市场普遍欢迎这一任命。哥伦比亚正面临财政赤字扩大、信用评级承压和通胀高企的挑战，新财长需迅速制定可信的财政路径。左翼政府的社会支出诉求与财政可持续性之间的平衡是核心难题。戈麦斯的人选显示新政府在意识形态诉求与市场现实之间寻求折中。分析人士认为，财政部的政策方向将决定哥伦比亚的投资级评级命运。市场将密切关注新政府的首份预算案和税收改革方案。戈麦斯可能采取渐进调整策略，避免剧烈市场波动，但执行阻力不小。",
           "title_en": "Colombia president-elect taps Miguel Gomez as finance minister",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3dEM1NDOHpZRS1nekswdS1wSl9GaFhkaTBSdEpjaUc3NTdDS0EzR0twSHJycUZ6YVJ4Y291OW90TmcydEZkZTdLOHItR213V3FRMVZ6ckI0eWxjRHphZEhPNWxzQmJOenhhWDR6MWlGdTZfZ2NjMnk0b3JTbGlHdXFKWnN4R1Q0bURXYldPcWh2ajNKbzc2ZHpFVmJ2ci1JVmpRYWhwTjk0LWdHdDR0UA?oc=5",
+          "url": "https://news.google.com/articles/CBMisAFBVV95cUxPM3dEM1NDOHpZRS1nekswdS1wSl9GaFhkaTBSdEpjaUc3NTdDS0EzR0twSHJycUZ6YVJ4Y291OW90TmcydEZkZTdLOHItR213V3FRMVZ6ckI0eWxjRHphZEhPNWxzQmJOenhhWDR6MWlGdTZfZ2NjMnk0b3JTbGlHdXFKWnN4R1Q0bURXYldPcWh2ajNKbzc2ZHpFVmJ2ci1JVmpRYWhwTjk0LWdHdDR0UA?oc=5",
           "published": "2026-06-30 22:12 UTC"
         },
         {
@@ -406,7 +406,7 @@
           "summary_zh": "路透社独家报道，北约军队罕见地在美国海岸参加联合军事演习，尽管北约在特朗普的华盛顿正逐渐失去政治支持。演习展示北约作为军事联盟的持续运作能力，但也凸显了政治层面的张力。特朗普政府对北约持批评态度，多次质疑集体防御承诺，要求盟友增加国防开支。国会虽有跨党派支持北约的传统，但特朗普的影响力使北约政治前景蒙上阴影。此次演习被视为北约在政治不确定性下展示团结和能力的努力。分析人士认为，北约在美国海岸演习具有象征意义，向盟友和对手传递信号。然而，若美国政治转向孤立主义，北约的军事协调能力将受严重影响。欧洲盟友正加强自主防务能力，以应对美国承诺的不确定性。",
           "title_en": "EXCLUSIVE: NATO joins exercises off US coast, even as it loses political fight in Trump's Washington",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFdTRjVCQk00TjFPaWhGNU44dUFtYmhMRU9xZEFESHh4aWg5UjMwYm5qWFhFeFJ6YmxmRHhIS3ZDZllXY1ZMdy1EZThUX08xYzhBYU8wUkxPYXY3cGNpZFJkdmJwN0pib2FFQlROZ1BRME0zMUxVVUgzU1A1amNSWHNNNVVQbmpBM1VXWGFGWnhNMGlGZUJxaTRTV3RKbmFTTVBUa1Y0Qk1XQWR4UGcxc2N3?oc=5",
+          "url": "https://news.google.com/articles/CBMisgFBVV95cUxObFdTRjVCQk00TjFPaWhGNU44dUFtYmhMRU9xZEFESHh4aWg5UjMwYm5qWFhFeFJ6YmxmRHhIS3ZDZllXY1ZMdy1EZThUX08xYzhBYU8wUkxPYXY3cGNpZFJkdmJwN0pib2FFQlROZ1BRME0zMUxVVUgzU1A1amNSWHNNNVVQbmpBM1VXWGFGWnhNMGlGZUJxaTRTV3RKbmFTTVBUa1Y0Qk1XQWR4UGcxc2N3?oc=5",
           "published": "2026-06-30 21:58 UTC"
         },
         {
@@ -415,7 +415,7 @@
           "summary_zh": "彭博社引述哥伦比亚《时代报》报道，哥伦比亚当选总统任命曾在巴黎受教育的经济学家米格尔·戈麦斯为财政部长。戈麦斯具有国际视野和专业技术背景，曾在国际金融机构任职，市场对其任命反应积极。哥伦比亚正面临财政赤字和信用评级压力，新财长需在控制支出与支持增长间取得平衡。戈麦斯的学术背景和务实风格被市场视为稳定信号，有助于提振投资者信心。哥伦比亚大选后政策走向备受关注，财长人选是关键信号。分析人士认为，戈麦斯面临艰难任务，需在左翼政府倾向和社会支出压力下维持财政纪律。市场将密切关注其首份财政计划，信用评级机构也持观望态度。哥伦比亚经济基本面稳健，但政治风险仍需警惕。",
           "title_en": "Paris-Educated Economist Named Colombia Finance Chief: El Tiempo - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNW1YZGdUWHNFenp1aEFtN3NwOWZxM2s4dmlXdGM3bVk5NU84TVFwX3RBZWU0QVNSbXB3aXVxZWhVUmhvRUZaYjF6NmtaeWpKZkpSRUZ0LTQyWXZ1V3ZTa0NIaV9OSDZZclBJVWpaT1BRNXR4aGRFR0JVWWl2UHVKWmJqRllVcy0zamFTeVJLc1JFNzZpbkh1alJJMEFrc1dUbmYtQW5xZ1RiWHdMd1RvNHFmbEwwaHRkMDdv?oc=5",
+          "url": "https://news.google.com/articles/CBMiuwFBVV95cUxPNW1YZGdUWHNFenp1aEFtN3NwOWZxM2s4dmlXdGM3bVk5NU84TVFwX3RBZWU0QVNSbXB3aXVxZWhVUmhvRUZaYjF6NmtaeWpKZkpSRUZ0LTQyWXZ1V3ZTa0NIaV9OSDZZclBJVWpaT1BRNXR4aGRFR0JVWWl2UHVKWmJqRllVcy0zamFTeVJLc1JFNzZpbkh1alJJMEFrc1dUbmYtQW5xZ1RiWHdMd1RvNHFmbEwwaHRkMDdv?oc=5",
           "published": "2026-06-30 21:43 UTC"
         },
         {
@@ -424,7 +424,7 @@
           "summary_zh": "彭博社报道，美国政府对多家墨西哥公司实施制裁，指其与贩毒卡特尔勾结参与燃料走私活动。被制裁公司涉嫌为卡特尔提供洗钱和物流支持，协助其从燃料走私中获利。燃料走私是墨西哥贩毒集团的重要收入来源，每年造成国家石油公司数十亿美元损失。美国制裁旨在切断卡特尔资金链，配合墨西哥的反毒和反走私努力。然而，墨西哥执法能力有限，腐败问题使打击效果打折。分析人士认为，制裁能施加压力但难以根治问题，需要墨西哥加强国内执法和能源行业监管。燃料走私还助长腐败和暴力，是墨西哥安全和治理的重要挑战。美墨合作效果取决于墨西哥政治意愿，卡特尔多元化经营也使单一打击效果有限，需综合治理。",
           "title_en": "US Sanctions Mexican Companies for Cartel-Linked Fuel Smuggling - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWxBWkxiX18xTC01eklfQkVXVEhjUzNia3RBNVpsclkwTjdhV0hkSFJwLWNVR0kzeWRScHppS1pLMEsyeU1fVEdwaFpFWmE4YUxQd2ZXTEpza3ljd2cyUEgySXByVGFZNkZPLTFYb19kSXR6amZKNnh0ZFF3dGxFd1pRQWdjYkExS1lzaHRWSkpwLWE1Umg1dFFCMmZrMjRxUndTZGtqSmVDdWVaN2JCd3hGVEc?oc=5",
+          "url": "https://news.google.com/articles/CBMitAFBVV95cUxOeWxBWkxiX18xTC01eklfQkVXVEhjUzNia3RBNVpsclkwTjdhV0hkSFJwLWNVR0kzeWRScHppS1pLMEsyeU1fVEdwaFpFWmE4YUxQd2ZXTEpza3ljd2cyUEgySXByVGFZNkZPLTFYb19kSXR6amZKNnh0ZFF3dGxFd1pRQWdjYkExS1lzaHRWSkpwLWE1Umg1dFFCMmZrMjRxUndTZGtqSmVDdWVaN2JCd3hGVEc?oc=5",
           "published": "2026-06-30 19:53 UTC"
         },
         {
@@ -433,7 +433,7 @@
           "summary_zh": "华尔街日报报道，特朗普政府推翻委内瑞拉马杜罗政权后，许多在马杜罗执政期间被关押的政治犯家属仍在为释放亲人而艰难奔走。马杜罗执政期间关押了大量政治反对派人士，部分人质被长期关押且条件恶劣。政权更迭后，新过渡政府启动释放程序，但官僚体系混乱和司法程序延迟使释放进展缓慢。部分政治犯的健康状况恶化，家属焦虑万分。报道聚焦几个典型家庭的故事，揭示了政治迫害的人道代价和过渡正义的复杂性。分析人士认为，委内瑞拉政治过渡面临多重挑战，包括释放政治犯、追究人权侵害和实现和解。国际社会密切关注过渡进程，但能力有限。这些家庭的遭遇也反映了威权统治的长期阴影，重建法治和信任任重道远。",
           "title_en": "Trump Ousted Maduro. These Families Are Still Fighting to Free His Prisoners. - WSJ",
           "source": "华尔街日报",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkFQX1UzbW9JY1gxNDZXNUZFdDNpRkVvak9KZExSaEphalg1Vm1sZUpVb1ViYVFuYnNRVFB1V0RYRzlSYTFBRk04OVlqZVNvQUlxdFA1c1ZoSTJpU3BPcVpkNHpqN2JkSHA1TW10R2g5d1VUWU9HeU1FRW5oQU1oaTBpNDI0cTRhRjFnR3k4S0ttNmRUNVF6Mk9CaDU0MjF4THMxMTZaWEdJa2s2UFRPcWpHM3Jqd0Jud0FHankzS2RYT1pDQW9zektMcmdrV2hzaXhBUGgwMkdlcVZ6cTZDQ3lCazg?oc=5",
+          "url": "https://news.google.com/articles/CBMi5AFBVV95cUxPTkFQX1UzbW9JY1gxNDZXNUZFdDNpRkVvak9KZExSaEphalg1Vm1sZUpVb1ViYVFuYnNRVFB1V0RYRzlSYTFBRk04OVlqZVNvQUlxdFA1c1ZoSTJpU3BPcVpkNHpqN2JkSHA1TW10R2g5d1VUWU9HeU1FRW5oQU1oaTBpNDI0cTRhRjFnR3k4S0ttNmRUNVF6Mk9CaDU0MjF4THMxMTZaWEdJa2s2UFRPcWpHM3Jqd0Jud0FHankzS2RYT1pDQW9zektMcmdrV2hzaXhBUGgwMkdlcVZ6cTZDQ3lCazg?oc=5",
           "published": "2026-06-30 19:35 UTC"
         },
         {
@@ -442,7 +442,7 @@
           "summary_zh": "彭博社报道，巴西政府宣布将开始逐步削减紧急燃料补贴计划，反映财政压力和油价回落的双重考量。该补贴计划在油价高企期间推出，旨在保护消费者免受燃料价格上涨冲击。随着国际油价回落和通胀缓解，政府认为补贴的必要性下降，且财政成本难以承受。巴西正面临财政赤字扩大和债务负担加重的挑战，信用评级机构警告需控制支出。削减补贴有助于改善财政状况，但可能引发消费者不满。政府计划采取渐进方式，避免对低收入群体造成过大冲击。分析人士认为，补贴退出策略将影响政府支持度和通胀走势。市场欢迎财政整顿信号，但政治执行风险仍存。巴西央行货币政策也将因补贴调整面临复杂权衡，市场密切关注后续细节。",
           "title_en": "Brazil Government to Start Paring Back Emergency Fuel Subsidies - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3hhUDNWZTRkdVlFOFhzYUhlcFI2ZkFaU3VoRVVBWU84RGxPY1pHNHpTcU1SNnhuOFloY3R0NHlkb0Q3VktvdTIwUzVHWVVNQnBsMGhCSXQ4Mm1fQnVSNUZBVHpHNEFHS2xJZk5kcFJucm9JbklJM0IzdDBjaUNaVkxpd3dCak1CVFZpd3Jvc1R4bnNzTG1CbElUVVUyTURRX1E3WXp5Uml2VVhNTWg3NThzRjNlVHhqUk9xbFlDMXQ?oc=5",
+          "url": "https://news.google.com/articles/CBMiwAFBVV95cUxNQ3hhUDNWZTRkdVlFOFhzYUhlcFI2ZkFaU3VoRVVBWU84RGxPY1pHNHpTcU1SNnhuOFloY3R0NHlkb0Q3VktvdTIwUzVHWVVNQnBsMGhCSXQ4Mm1fQnVSNUZBVHpHNEFHS2xJZk5kcFJucm9JbklJM0IzdDBjaUNaVkxpd3dCak1CVFZpd3Jvc1R4bnNzTG1CbElUVVUyTURRX1E3WXp5Uml2VVhNTWg3NThzRjNlVHhqUk9xbFlDMXQ?oc=5",
           "published": "2026-06-30 17:14 UTC"
         },
         {
@@ -451,7 +451,7 @@
           "summary_zh": "华盛顿邮报报道，特朗普被指使用5亿美元的非竞标合同建造白宫舞厅项目，引发利益输送和政治伦理质疑。非竞标合同在政府重大项目中较为罕见，通常需要充分理由证明紧急性或唯一供应商能力。报道质疑合同选择的透明度和承包商与特朗普的政治关联。白宫舞厅项目是特朗普对白宫基础设施的升级计划之一，但5亿美元的造价被认为异常高昂。民主党议员要求调查合同授予过程，监督机构质疑合规性。特朗普团队否认不当行为，称合同遵循标准程序。分析人士认为，此事可能成为政治争议焦点，加剧对特朗普任内利益冲突的批评。政府合同透明度是长期议题，非竞标合同尤其敏感。事件也反映了白宫基础设施老化和管理挑战，影响持续发酵。",
           "title_en": "Trump is using a $500M no-bid contract to build his White House ballroom - The Washington Post",
           "source": "华盛顿邮报",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXpOZk11NjBhVlNtSGJsTDcyMnA0Yy1PSzg4WlIyUy12Y19lVjh1WngwVlpGS1NzTmhBUXVoT21ZcVR4ZDI4MnpFdDJoX05oY1docVRpenlPandpUnhMNUJPQmtUVC1pQW5adFJ0SHBxTl9ReXc4cURkLVJhR09tZ2hSellTMWkzTHlIb3BXemw1UzlkQ3hVbV8zWUlVZFNnV3Bpd0dsSEU1QjZKdzVTWlln?oc=5",
+          "url": "https://news.google.com/articles/CBMisgFBVV95cUxNWXpOZk11NjBhVlNtSGJsTDcyMnA0Yy1PSzg4WlIyUy12Y19lVjh1WngwVlpGS1NzTmhBUXVoT21ZcVR4ZDI4MnpFdDJoX05oY1docVRpenlPandpUnhMNUJPQmtUVC1pQW5adFJ0SHBxTl9ReXc4cURkLVJhR09tZ2hSellTMWkzTHlIb3BXemw1UzlkQ3hVbV8zWUlVZFNnV3Bpd0dsSEU1QjZKdzVTWlln?oc=5",
           "published": "2026-06-30 17:00 UTC"
         },
         {
@@ -460,7 +460,7 @@
           "summary_zh": "彭博社报道，随着美元指数强势反弹，巴西雷亚尔成为「附带损害」，对美元汇率大幅贬值。美元走强受美联储降息预期放缓和美国经济相对强劲驱动。巴西雷亚尔承压还反映国内财政担忧和政治不确定性，央行干预效果有限。新兴市场货币普遍受强势美元冲击，但巴西雷亚尔跌幅居前，反映其基本面脆弱性。巴西财政赤字和债务问题使投资者谨慎，央行虽加息但难以完全对冲外部压力。分析人士认为，雷亚尔弱势可能加剧输入性通胀，迫使央行维持紧缩政策。强势美元周期若持续，新兴市场可能面临资本外流压力。巴西央行外汇储备充足，短期流动性风险可控，但中期需改善财政以稳定汇率信心，市场情绪仍较脆弱。",
           "title_en": "Brazilian Real Becomes ‘Collateral Damage’ as Dollar Roars Back - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1l2SkUya3BQTk1UcWtBRXFkMEtjTDBOWW50OWxKeGF3V1QwZUxmaUlLaWNiVFdXSEpoc05RZ3hCZEVndmQwRFBwU2RHSTIwY3VQRWRWUzhISDQyX0JnX1llZ2tXRzRqLXZfWWVpTzVKWEo3RmRReHNzSFRncW5CajY1VEE5N0doejJvdHZ0QUtnWTM0ZGg1R1VLYV96TVJERGRRUEF5V1dDTFRjT241S2FR?oc=5",
+          "url": "https://news.google.com/articles/CBMisgFBVV95cUxPQ1l2SkUya3BQTk1UcWtBRXFkMEtjTDBOWW50OWxKeGF3V1QwZUxmaUlLaWNiVFdXSEpoc05RZ3hCZEVndmQwRFBwU2RHSTIwY3VQRWRWUzhISDQyX0JnX1llZ2tXRzRqLXZfWWVpTzVKWEo3RmRReHNzSFRncW5CajY1VEE5N0doejJvdHZ0QUtnWTM0ZGg1R1VLYV96TVJERGRRUEF5V1dDTFRjT241S2FR?oc=5",
           "published": "2026-06-30 14:38 UTC"
         },
         {
@@ -469,7 +469,7 @@
           "summary_zh": "路透社报道，巴西5月政府总债务超出市场预期，利息负担持续攀升成为财政挑战的核心。数据显示，巴西总债务占GDP比重已处于高位，高利率环境使利息支出快速增长，吞噬财政收入。巴西央行维持高利率对抗通胀，但利率高企显著加重政府债务成本。市场对巴西财政可持续性担忧加深，信用评级机构警告需控制支出。政府推出财政整顿计划，但执行效果受政治阻力影响。分析人士认为，巴西陷入「高利率-高债务-高利息」的恶性循环风险上升，需要结构性改革打破循环。经济增长放缓和税收不足使财政状况雪上加霜。投资者密切关注政府财政计划的执行进度，评级展望变化可能影响资本流动和借贷成本，形势严峻。",
           "title_en": "Brazil's gross debt tops forecasts as interest burden mounts in May",
           "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQm5leDc0T2RvZWtLaFkxc3B2SGx3clcwbWI4c1BwRjQxbENRVFB0RVl0OXg4TTBDRlJuTkVRdjhySWxBbGlNc292bC1ocVI2dGxpQlNkVEJ3OU4xTGk3anRqODlZZkJOLWs5MFgwaXJNQUFZMUtrMWVKcVRPc01GN3F4dGlndkxZQzdNUWotbDlKM3dMOTVrTjV4SXdtZ1FuRHRrUkFQRVRtWlBOQmUwbg?oc=5",
+          "url": "https://news.google.com/articles/CBMisAFBVV95cUxNQm5leDc0T2RvZWtLaFkxc3B2SGx3clcwbWI4c1BwRjQxbENRVFB0RVl0OXg4TTBDRlJuTkVRdjhySWxBbGlNc292bC1ocVI2dGxpQlNkVEJ3OU4xTGk3anRqODlZZkJOLWs5MFgwaXJNQUFZMUtrMWVKcVRPc01GN3F4dGlndkxZQzdNUWotbDlKM3dMOTVrTjV4SXdtZ1FuRHRrUkFQRVRtWlBOQmUwbg?oc=5",
           "published": "2026-06-30 12:35 UTC"
         },
         {
@@ -478,7 +478,7 @@
           "summary_zh": "彭博社报道，阿根廷对美国的牛肉出口激增，导致本地消费者面临更高的牛排价格。阿根廷是全球著名牛肉消费国，人均消费量长期居世界前列。近年来，阿根廷比索贬值和经济危机推动生产商加大出口，美国高价位市场具有吸引力。出口激增使本地牛肉供应减少，价格水涨船高，传统消费习惯受到冲击。阿根廷政府曾试图通过出口限制压低本地价格，但效果有限且遭到生产者反对。美国对优质牛肉的需求强劲，为阿根廷牧场主提供 lucrative 市场。分析人士认为，这一现象反映了全球化背景下发展中国家食品出口与本地消费的张力。阿根廷经济困境使出口导向难以逆转，本地消费者承受食品通胀压力，传统饮食文化面临挑战，政策两难。",
           "title_en": "Argentina’s Beef Export Boom to US Leaves Locals Paying More for Steak - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSXhMUnlzcXRUbTEyVzFDVWpIZmk0TzllNVRhd1lSczJjVl9pNVN0SC1NSlZfSUMtc2x4WGlGZUptS3N3UTJYOFZESnlwQURoSEdZOW5ZVUpXbjBtTmd0VW1Md0lWTmxsT1ZfV3I0eFpfZnVadkdKNlZkQXRuWU9wZ21Ld3RQUjAwWk8tNmpWc0Vqb1hGc0l4WHNGdGdXOHJ3eDJPS21qS2hoYWI1TWFjeGpEUEsyR3hPS0Nr?oc=5",
+          "url": "https://news.google.com/articles/CBMiuwFBVV95cUxNSXhMUnlzcXRUbTEyVzFDVWpIZmk0TzllNVRhd1lSczJjVl9pNVN0SC1NSlZfSUMtc2x4WGlGZUptS3N3UTJYOFZESnlwQURoSEdZOW5ZVUpXbjBtTmd0VW1Md0lWTmxsT1ZfV3I0eFpfZnVadkdKNlZkQXRuWU9wZ21Ld3RQUjAwWk8tNmpWc0Vqb1hGc0l4WHNGdGdXOHJ3eDJPS21qS2hoYWI1TWFjeGpEUEsyR3hPS0Nr?oc=5",
           "published": "2026-06-30 12:00 UTC"
         },
         {
@@ -487,7 +487,7 @@
           "summary_zh": "彭博社报道，分析人士指出特朗普关税政策在法院遭遇的失利，是市场尚未充分定价的利好因素。联邦法院多次裁定特朗普政府关税越权，部分关税措施被迫暂停。这一司法挫折限制了特朗普通过关税施压的能力，降低了贸易政策不确定性。市场注意力集中在宏观经济和AI主题，对关税诉讼的市场含义反应不足。若关税威胁持续受司法约束，全球贸易和企业投资环境将改善，利好跨国公司和供应链相关股票。分析人士认为，关税司法失利可能成为市场「隐藏催化剂」，逐步被定价。然而，特朗普政府可能通过其他途径绕过司法限制，贸易政策风险仍存。投资者应关注后续司法进展和政府应对策略，市场预期可能快速调整，影响广泛。",
           "title_en": "Trump Tariff Defeat Is Market Tailwind ‘No One Is Talking About’ - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWRBU2ZSRmpoRkZfWW9GN1hON0pBQ21LLW5pTjluVWc0VWhsakJmMURJdEprdXdiRE1EU1hZTWZFQ1p0NkRNcjAwMzdEU2xyMTFRUHRoWkFabjNRSXYwU2hQa3ZaYUZKVlVUZ29YdTNZalVxRThfZGFGWEJyNnVKZVh6MFRRbk5fRW9SM2wyM3QzaG4weU5URUl3ZjBCMGdaZVFsenA5UEVSR2FhNWh1NVdDbw?oc=5",
+          "url": "https://news.google.com/articles/CBMiswFBVV95cUxPNWRBU2ZSRmpoRkZfWW9GN1hON0pBQ21LLW5pTjluVWc0VWhsakJmMURJdEprdXdiRE1EU1hZTWZFQ1p0NkRNcjAwMzdEU2xyMTFRUHRoWkFabjNRSXYwU2hQa3ZaYUZKVlVUZ29YdTNZalVxRThfZGFGWEJyNnVKZVh6MFRRbk5fRW9SM2wyM3QzaG4weU5URUl3ZjBCMGdaZVFsenA5UEVSR2FhNWh1NVdDbw?oc=5",
           "published": "2026-06-30 11:54 UTC"
         },
         {
@@ -496,7 +496,7 @@
           "summary_zh": "美联社报道，足球分析师认为海拔因素不太可能显著影响厄瓜多尔队在阿兹特克体育场对阵墨西哥队的比赛。阿兹特克体育场位于墨西哥城，海拔约2240米，传统上被认为是高原主场优势。然而，厄瓜多尔首都基多海拔更高（约2850米），球员长期在高海拔环境训练和比赛，对阿兹特克的海拔具有适应性。墨西哥队虽享主场之利，但海拔优势可能被抵消。比赛是世预赛关键战役，两队积分接近，结果对出线前景影响重大。分析人士指出，厄瓜多尔多名国脚在欧洲顶级联赛效力，体能和战术素养出色，具备在客场拿分的实力。墨西哥队近期状态起伏，主帅战术安排备受关注。比赛结果将影响南美和中北美足球格局，竞争激烈。",
           "title_en": "Altitude unlikely to affect Ecuador when it faces Mexico at the Azteca",
           "source": "美联社",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0hpWjVaUTB4YTJpV3gtUDNMMTVycEh4RVdCQXplTm5yVHZqd0E0SXFHTkVMZWlLSU9vTnJoR1VSSDQzOXBpdTZGUmZVWkw0WVRWUHh1YVVqRnZtYmstMW5SdGYwblBGY3pIcm5nd25RMUtKZWZ3cEs1MkpJM3F6bXdBekpWUVZsR2FzRUtkdFZxSmJX?oc=5",
+          "url": "https://news.google.com/articles/CBMilAFBVV95cUxNc0hpWjVaUTB4YTJpV3gtUDNMMTVycEh4RVdCQXplTm5yVHZqd0E0SXFHTkVMZWlLSU9vTnJoR1VSSDQzOXBpdTZGUmZVWkw0WVRWUHh1YVVqRnZtYmstMW5SdGYwblBGY3pIcm5nd25RMUtKZWZ3cEs1MkpJM3F6bXdBekpWUVZsR2FzRUtkdFZxSmJX?oc=5",
           "published": "2026-06-30 11:34 UTC"
         },
         {
@@ -505,7 +505,7 @@
           "summary_zh": "彭博社报道，市场预期哥伦比亚央行在大选后将恢复加息周期，以应对通胀和本币贬值压力。哥伦比亚大选结果带来政治不确定性，新政府的财政和货币政策方向备受关注。通胀居高不下和雷亚尔贬值使央行面临紧缩压力，分析师普遍预期央行将在下次会议加息。加息有助于支撑本币和控制通胀，但也可能抑制经济增长。哥伦比亚经济面临「抗通胀」与「保增长」的两难抉择。新财长的财政政策将影响央行决策，若财政扩张过度，央行可能需要更激进的加息。分析人士认为，哥伦比亚货币政策前景与政治走向高度联动，市场波动可能加剧。信用评级机构密切关注财政和货币政策协调，投资者保持谨慎态度，形势复杂。",
           "title_en": "Colombia to Resume Interest-Rate Hikes After Election - Bloomberg.com",
           "source": "彭博社",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblMyMW1MYkVvbnFkYk9teExWVkVLLVhUQ0g1ZzFjYVNjVFRpT3JQNnFHRzVILVI1bHhEbjFzQ3FQSGt1dGx5MzlEbjllN1Q2N1E5dF84dHdYVHhidGVYQ0RKZ0FBWkF5N3lxLXdmNDZDd3ZkSTNrMzM1MzQ2QWJqRmpmN0ZUQnlLdFAzOEM1WEYzRDhYRl9jdXRXcVlTWlE4clAyd1d4YlJNajdoUnFF?oc=5",
+          "url": "https://news.google.com/articles/CBMirwFBVV95cUxOblMyMW1MYkVvbnFkYk9teExWVkVLLVhUQ0g1ZzFjYVNjVFRpT3JQNnFHRzVILVI1bHhEbjFzQ3FQSGt1dGx5MzlEbjllN1Q2N1E5dF84dHdYVHhidGVYQ0RKZ0FBWkF5N3lxLXdmNDZDd3ZkSTNrMzM1MzQ2QWJqRmpmN0ZUQnlLdFAzOEM1WEYzRDhYRl9jdXRXcVlTWlE4clAyd1d4YlJNajdoUnFF?oc=5",
           "published": "2026-06-30 09:00 UTC"
         }
       ]

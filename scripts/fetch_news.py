@@ -166,11 +166,15 @@ def fetch_all_feeds():
 
                         topics = detect_topic(title, summary)
 
+                        # 修复：Google News /rss/articles/ 链接在浏览器中会报"无效网址"
+                        # 改用 /articles/ 格式（返回完整页面，可正常访问）
+                        real_url = link.replace('/rss/articles/', '/articles/', 1)
+
                         article = {
                             'id': generate_id(title, link),
                             'title_en': title,
                             'summary_en': summary[:500],
-                            'url': link,
+                            'url': real_url,
                             'source': MEDIA_CN[media_name],
                             'source_en': media_name,
                             'feed': feed_name,
