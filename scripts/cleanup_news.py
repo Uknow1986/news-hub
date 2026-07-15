@@ -40,6 +40,11 @@ REMOVE_TITLES_KEYWORDS = [
     'bangladesh', 'zimbabwe', 'zambia',
     # 外语重复稿（BBC 索马里语版，与英文稿重复）
     'ku dhawaaqay',
+    # 2026-07-15 当日新增移除：体育/聚合页/无关
+    'trending news',        # 彭博社聚合页（非单篇报道）
+    'mac allister',         # 利物浦球星（足球）
+    'lucha libre',          # 墨西哥摔角（体育/娱乐）
+    'war veterans',         # 阿根廷老兵谈足球（体育）
 ]
 
 REMOVE_TITLE_PATTERNS = [
@@ -93,6 +98,42 @@ EVENT_GROUPS = [
         ['venezuelan', 'quake'],
         ['venezuela', 'earthquake'],
         ['venezuelan', 'earthquake'],
+    ]),
+    # ---- 2026-07-15 当日新增事件组 ----
+    # 科技：OpenAI 首款硬件设备为可移动无屏音箱
+    ("OpenAI首款硬件设备为可移动无屏音箱", [
+        ['openai', 'device'],
+        ['speaker'],
+    ]),
+    # 科技：苹果起诉 OpenAI（商业机密/诉讼）
+    ("苹果就商业机密等起诉OpenAI", [
+        ['apple', 'openai', 'suit'],
+        ['apple', 'lawsuit'],
+    ]),
+    # 美洲：Chipotle 墨西哥首店/蒙特雷开店
+    ("Chipotle进军墨西哥市场", [
+        ['chipotle', 'mexico'],
+    ]),
+    # 科技：CXMT（长鑫记忆体）上海 IPO
+    ("中国存储芯片商CXMT拟上海IPO", [
+        ['cxmt', 'ipo'],
+        ['cxmt', 'raise'],
+    ]),
+    # 科技：白宫成立 AI 网络安全协调机制
+    ("白宫推出AI网络安全协调与清算机制", [
+        ['white house', 'cybersecurity'],
+        ['ai', 'cybersecurity', 'coordination'],
+    ]),
+    # 美洲：ICE 特工在缅因州执法中射杀哥伦比亚籍男子
+    ("美移民局特工在缅因州射杀哥伦比亚籍男子", [
+        ['colombian', 'ice'],
+        ['ice', 'kills', 'colombian'],
+        ['ice officer', 'colombian man'],
+    ]),
+    # 美洲：墨西哥要求调查 ICE 致死事件
+    ("墨西哥要求调查ICE致死事件", [
+        ['mexico', 'ice', 'kill'],
+        ['mexico', 'investigate', 'ice'],
     ]),
 ]
 
