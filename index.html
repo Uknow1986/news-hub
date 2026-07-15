@@ -158,7 +158,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei
                 '</div>' +
                 '<div class="article-title">' + (a.title_zh||'') + '</div>' +
                 '<div class="article-summary">' + (a.summary_zh||'') + '</div>' +
-                '<a class="article-link" href="' + (a.url||'#') + '" target="_blank">📖 阅读原文</a>' +
+                '<a class="article-link" href="' + ((a.url && a.url.indexOf('http')===0) ? a.url : 'https://www.google.com/search?q='+encodeURIComponent(a.title_zh||a.title_en||'')) + '" target="_blank" rel="noopener">📖 阅读原文</a>' +
                 '</div>';
         }).join('');
     }
